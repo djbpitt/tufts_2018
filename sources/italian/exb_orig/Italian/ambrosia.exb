@@ -130,7 +130,119 @@
 <tli id="T67"/>
 <tli id="T83"/>
 </common-timeline>
-<tier id="TIE1" speaker="SPK0" category="norm" type="t" display-name="norm"><ud-tier-information><ud-information attribute-name="New1"></ud-information></ud-tier-information><event start="T0" end="T1">Dell' </event>
+<tier id="TIE0" speaker="SPK0" category="dipl" type="t" display-name="dipl"><ud-tier-information><ud-information attribute-name="New1"></ud-information></ud-tier-information><event start="T0" end="T1">Dell' </event>
+<event start="T1" end="T98">Ambrosia</event>
+<event start="T98" end="T2">. </event>
+<event start="T2" end="T3">Cap. </event>
+<event start="T3" end="T84">CXXIII</event>
+<event start="T84" end="T4">. </event>
+<event start="T4" end="T5">La </event>
+<event start="T5" end="T85">Ambrosia</event>
+<event start="T85" end="T86">. </event>
+<event start="T86" end="T6">è</event>
+<event start="T6" end="T7">una </event>
+<event start="T7" end="T8">picciola </event>
+<event start="T8" end="T87">pianta</event>
+<event start="T87" end="T9">, </event>
+<event start="T9" end="T88">ramosa</event>
+<event start="T88" end="T10">, </event>
+<event start="T10" end="T11">alta </event>
+<event start="T11" end="T12">quasi </event>
+<event start="T12" end="T13">tre </event>
+<event start="T13" end="T89">spanne</event>
+<event start="T89" end="T14">. </event>
+<event start="T14" end="T15">Ha </event>
+<event start="T15" end="T16">al </event>
+<event start="T16" end="T17">piede </event>
+<event start="T17" end="T18">de </event>
+<event start="T18" end="T19">i </event>
+<event start="T19" end="T20">fusti </event>
+<event start="T20" end="T21">le </event>
+<event start="T21" end="T23">fródi </event>
+<event start="T23" end="T24">sue </event>
+<event start="T24" end="T25">piccioline </event>
+<event start="T25" end="T90">simili</event>
+<event start="T90" end="T26"> à </event>
+<event start="T26" end="T27">quelle </event>
+<event start="T27" end="T28">della </event>
+<event start="T28" end="T91">ruta </event>
+<event start="T91" end="T29">. </event>
+<event start="T29" end="T30">Sono </event>
+<event start="T30" end="T31">i </event>
+<event start="T31" end="T32">fuoi </event>
+<event start="T32" end="T33">fusticelli </event>
+<event start="T33" end="T34">grauidi </event>
+<event start="T34" end="T35">di </event>
+<event start="T35" end="T92">seme</event>
+<event start="T92" end="T36">, </event>
+<event start="T36" end="T93">quasi </event>
+<event start="T93" end="T37">, </event>
+<event start="T37" end="T38">simi </event>
+<event start="T38" end="T94">li </event>
+<event start="T94" end="T39">à</event>
+<event start="T39" end="T40">ben </event>
+<event start="T40" end="T41">pieni </event>
+<event start="T41" end="T95">racemi</event>
+<event start="T95" end="T42">, </event>
+<event start="T42" end="T43">chemai </event>
+<event start="T43" end="T44">non </event>
+<event start="T44" end="T45">fioriscono, </event>
+<event start="T45" end="T46">d' </event>
+<event start="T46" end="T47">odore </event>
+<event start="T47" end="T48">di </event>
+<event start="T48" end="T96">uino </event>
+<event start="T96" end="T97">, </event>
+<event start="T97" end="T49"><![CDATA[& ]]></event>
+<event start="T49" end="T108">soaue</event>
+<event start="T108" end="T50">. </event>
+<event start="T50" end="T51">La </event>
+<event start="T51" end="T52">sua </event>
+<event start="T52" end="T109">radice </event>
+<event start="T109" end="T53">è </event>
+<event start="T53" end="T107">fottile </event>
+<event start="T107" end="T54">, </event>
+<event start="T54" end="T55">lunga </event>
+<event start="T55" end="T56">un </event>
+<event start="T56" end="T106">piede </event>
+<event start="T106" end="T105">, </event>
+<event start="T105" end="T57"><![CDATA[& ]]></event>
+<event start="T57" end="T110">mezo</event>
+<event start="T110" end="T58">. </event>
+<event start="T58" end="T59">In </event>
+<event start="T59" end="T60">Cappadocia </event>
+<event start="T60" end="T112">s</event>
+<event start="T112" end="T61">' </event>
+<event start="T61" end="T62">usa </event>
+<event start="T62" end="T63">per </event>
+<event start="T63" end="T64">far </event>
+<event start="T64" end="T113">ghirlande</event>
+<event start="T113" end="T65">. </event>
+<event start="T65" end="T66">Ha </event>
+<event start="T66" end="T68">uirtù</event>
+<event start="T68" end="T69">di </event>
+<event start="T69" end="T104">ripercuotere</event>
+<event start="T104" end="T70">, </event>
+<event start="T70" end="T71">di </event>
+<event start="T71" end="T111">mi</event>
+<event start="T111" end="T72">-</event>
+<event start="T72" end="T103">tigare </event>
+<event start="T103" end="T102">, </event>
+<event start="T102" end="T73"><![CDATA[& ]]></event>
+<event start="T73" end="T101">ristringere</event>
+<event start="T101" end="T74">, </event>
+<event start="T74" end="T75">impiastrata, </event>
+<event start="T75" end="T76">gli </event>
+<event start="T76" end="T77">humori, </event>
+<event start="T77" end="T78">che </event>
+<event start="T78" end="T79">scendo </event>
+<event start="T79" end="T80">nelle </event>
+<event start="T80" end="T99">membra </event>
+<event start="T99" end="T100">, </event>
+<event start="T100" end="T81"><![CDATA[& ]]></event>
+<event start="T81" end="T82">ui </event>
+<event start="T82" end="T67">ritengono</event>
+<event start="T67" end="T83">.</event>
+</tier><tier id="TIE1" speaker="SPK0" category="norm" type="a" display-name="norm"><ud-tier-information><ud-information attribute-name="New1"></ud-information></ud-tier-information><event start="T0" end="T1">Dell' </event>
 <event start="T1" end="T98">Ambrosia</event>
 <event start="T98" end="T2">. </event>
 <event start="T2" end="T3">Cap. </event>
