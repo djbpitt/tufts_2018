@@ -2,18 +2,20 @@
 
 function highlightWords() {
 
+    console.log(this.getAttribute('class'));
     
     // 0th step: clear existing highlighting
-    /* var lis = document.getElementsByTagName("li");
+    /* 
+    var lis = document.getElementsByTagName("li");
     
     for (i = 0; i < lis.length; i++) {
         lis[i].style.backgroundColor=document.body.style.backgroundColor; // change this
     }
-    
+    */
     
     // first step: get the class of a moused over element (and highlight that element)
     // listen for mouseover on <li> 
-    //var class = "class of this" // might be an array
+    //var class = this. // might be an array
     
     // second step: find all other elements, in all other languages, that match that class
     //for (i = 0; i < class.length; i++) { 
