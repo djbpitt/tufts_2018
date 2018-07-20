@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
+<basic-transcription>
+<head>
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url=""/><ud-meta-information><ud-information attribute-name="scientific name">artemesia aerba-alba</ud-information><ud-information attribute-name="picture">no</ud-information><ud-information attribute-name="commentary">yes</ud-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="SPK0">
+<abbreviation>AUT</abbreviation>
+<sex value="u"/>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information>
+</ud-speaker-information>
+<comment></comment>
+</speaker>
+</speakertable></head>
+<basic-body>
+<common-timeline>
+<tli id="T0"/>
+<tli id="T1"/>
+<tli id="T2"/>
+<tli id="T3"/>
+<tli id="T4"/>
+<tli id="T5"/>
+<tli id="T6"/>
+<tli id="T7"/>
+<tli id="T8"/>
+<tli id="T9"/>
+<tli id="T10"/>
+<tli id="T11"/>
+<tli id="T12"/>
+<tli id="T13"/>
+<tli id="T14"/>
+<tli id="T15"/>
+<tli id="T16"/>
+<tli id="T17"/>
+<tli id="T18"/>
+<tli id="T19"/>
+<tli id="T20"/>
+<tli id="T21"/>
+<tli id="T22"/>
+<tli id="T23"/>
+<tli id="T24"/>
+<tli id="T25"/>
+<tli id="T26"/>
+<tli id="T27"/>
+<tli id="T28"/>
+<tli id="T29"/>
+<tli id="T30"/>
+<tli id="T31"/>
+<tli id="T32"/>
+<tli id="T33"/>
+<tli id="T34"/>
+<tli id="T35"/>
+<tli id="T36"/>
+<tli id="T37"/>
+<tli id="T38"/>
+<tli id="T39"/>
+<tli id="T40"/>
+<tli id="T41"/>
+<tli id="T42"/>
+<tli id="T43"/>
+<tli id="T44"/>
+<tli id="T45"/>
+<tli id="T46"/>
+<tli id="T47"/>
+<tli id="T48"/>
+<tli id="T49"/>
+<tli id="T50"/>
+<tli id="T51"/>
+<tli id="T52"/>
+<tli id="T53"/>
+<tli id="T54"/>
+<tli id="T55"/>
+<tli id="T56"/>
+<tli id="T57"/>
+<tli id="T58"/>
+<tli id="T59"/>
+<tli id="T60"/>
+<tli id="T61"/>
+<tli id="T62"/>
+<tli id="T63"/>
+<tli id="T64"/>
+<tli id="T65"/>
+<tli id="T66"/>
+<tli id="T67"/>
+<tli id="T68"/>
+<tli id="T69"/>
+<tli id="T70"/>
+<tli id="T71"/>
+<tli id="T72"/>
+<tli id="T73"/>
+<tli id="T74"/>
+<tli id="T75"/>
+<tli id="T76"/>
+<tli id="T77"/>
+<tli id="T78"/>
+<tli id="T79"/>
+<tli id="T80"/>
+<tli id="T81"/>
+<tli id="T82"/>
+<tli id="T83"/>
+<tli id="T84"/>
+<tli id="T85"/>
+<tli id="T86"/>
+<tli id="T87"/>
+<tli id="T88"/>
+<tli id="T89"/>
+<tli id="T90"/>
+<tli id="T91"/>
+<tli id="T92"/>
+<tli id="T93"/>
+<tli id="T94"/>
+<tli id="T95"/>
+</common-timeline>
+<tier id="TIE0" speaker="SPK0" category="txt" type="t" display-name="TXT"><event start="T0" end="T1">3-128. </event>
+<event start="T1" end="T2">ARTEMISIA </event>
+<event start="T2" end="T3">LEPTOPHULLOS </event>
+<event start="T3" end="T4">suggested: </event>
+<event start="T4" end="T5">Artemisia </event>
+<event start="T5" end="T6">herba </event>
+<event start="T6" end="T7">alba - </event>
+<event start="T7" end="T8">Artemisia </event>
+<event start="T8" end="T9">Artemisia </event>
+<event start="T9" end="T10">grows </event>
+<event start="T10" end="T11">around </event>
+<event start="T11" end="T12">rivulets </event>
+<event start="T12" end="T13">and </event>
+<event start="T13" end="T14">hedges </event>
+<event start="T14" end="T15">and </event>
+<event start="T15" end="T16">in </event>
+<event start="T16" end="T17">sown </event>
+<event start="T17" end="T18">fields. </event>
+<event start="T18" end="T19">The </event>
+<event start="T19" end="T20">flowers </event>
+<event start="T20" end="T21">and </event>
+<event start="T21" end="T22">bruised </event>
+<event start="T22" end="T23">leaves </event>
+<event start="T23" end="T24">of </event>
+<event start="T24" end="T25">this </event>
+<event start="T25" end="T26">give </event>
+<event start="T26" end="T27">off </event>
+<event start="T27" end="T28">the </event>
+<event start="T28" end="T29">smell </event>
+<event start="T29" end="T30">of </event>
+<event start="T30" end="T31">sampsuchum [3-47], </event>
+<event start="T31" end="T32">Therefore </event>
+<event start="T32" end="T33">if </event>
+<event start="T33" end="T34">anyone </event>
+<event start="T34" end="T35">is </event>
+<event start="T35" end="T36">suffering </event>
+<event start="T36" end="T37">in </event>
+<event start="T37" end="T38">his </event>
+<event start="T38" end="T39">stomach </event>
+<event start="T39" end="T40">he </event>
+<event start="T40" end="T41">should </event>
+<event start="T41" end="T42">pound </event>
+<event start="T42" end="T43">this </event>
+<event start="T43" end="T44">herb </event>
+<event start="T44" end="T45">well </event>
+<event start="T45" end="T46">with </event>
+<event start="T46" end="T47">oil </event>
+<event start="T47" end="T48">of </event>
+<event start="T48" end="T49">almonds, </event>
+<event start="T49" end="T50">and </event>
+<event start="T50" end="T51">make (</event>
+<event start="T51" end="T52">as </event>
+<event start="T52" end="T53">it </event>
+<event start="T53" end="T54">were) </event>
+<event start="T54" end="T55">a </event>
+<event start="T55" end="T56">warm </event>
+<event start="T56" end="T57">compress </event>
+<event start="T57" end="T58">and </event>
+<event start="T58" end="T59">lay </event>
+<event start="T59" end="T60">it </event>
+<event start="T60" end="T61">on </event>
+<event start="T61" end="T62">the </event>
+<event start="T62" end="T63">stomach, </event>
+<event start="T63" end="T64">and </event>
+<event start="T64" end="T65">he </event>
+<event start="T65" end="T66">shall </event>
+<event start="T66" end="T67">be </event>
+<event start="T67" end="T68">healed. </event>
+<event start="T68" end="T69">If </event>
+<event start="T69" end="T70">anyone </event>
+<event start="T70" end="T71">is </event>
+<event start="T71" end="T72">pained </event>
+<event start="T72" end="T73">in </event>
+<event start="T73" end="T74">his </event>
+<event start="T74" end="T75">strength, </event>
+<event start="T75" end="T76">having </event>
+<event start="T76" end="T77">mixed </event>
+<event start="T77" end="T78">the </event>
+<event start="T78" end="T79">juice </event>
+<event start="T79" end="T80">of </event>
+<event start="T80" end="T81">this </event>
+<event start="T81" end="T82">with </event>
+<event start="T82" end="T83">oil </event>
+<event start="T83" end="T84">of </event>
+<event start="T84" end="T85">roses </event>
+<event start="T85" end="T86">let </event>
+<event start="T86" end="T87">him </event>
+<event start="T87" end="T88">rub </event>
+<event start="T88" end="T89">with </event>
+<event start="T89" end="T90">it, </event>
+<event start="T90" end="T91">and </event>
+<event start="T91" end="T92">he </event>
+<event start="T92" end="T93">shall </event>
+<event start="T93" end="T94">be </event>
+<event start="T94" end="T95">whole. </event>
+</tier><tier id="TIE1" speaker="SPK0" category="sentence" type="a" display-name="AUT [sentence]"><event start="T8" end="T18">s</event>
+<event start="T18" end="T68">s</event>
+<event start="T68" end="T95">s</event>
+</tier></basic-body>
+</basic-transcription>
