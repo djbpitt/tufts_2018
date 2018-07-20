@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
+<basic-transcription>
+<head>
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url=""/><ud-meta-information><ud-information attribute-name="scientific name">botrys</ud-information><ud-information attribute-name="picture">no</ud-information><ud-information attribute-name="commentary">yes</ud-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="SPK0">
+<abbreviation>AUT</abbreviation>
+<sex value="u"/>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information>
+</ud-speaker-information>
+<comment></comment>
+</speaker>
+</speakertable></head>
+<basic-body>
+<common-timeline>
+<tli id="T0"/>
+<tli id="T74"/>
+<tli id="T75"/>
+<tli id="T76"/>
+<tli id="T1"/>
+<tli id="T2"/>
+<tli id="T77"/>
+<tli id="T3"/>
+<tli id="T78"/>
+<tli id="T4"/>
+<tli id="T5"/>
+<tli id="T6"/>
+<tli id="T7"/>
+<tli id="T8"/>
+<tli id="T79"/>
+<tli id="T9"/>
+<tli id="T10"/>
+<tli id="T11"/>
+<tli id="T12"/>
+<tli id="T13"/>
+<tli id="T14"/>
+<tli id="T15"/>
+<tli id="T80"/>
+<tli id="T16"/>
+<tli id="T17"/>
+<tli id="T18"/>
+<tli id="T19"/>
+<tli id="T20"/>
+<tli id="T21"/>
+<tli id="T22"/>
+<tli id="T23"/>
+<tli id="T81"/>
+<tli id="T24"/>
+<tli id="T25"/>
+<tli id="T26"/>
+<tli id="T27"/>
+<tli id="T28"/>
+<tli id="T29"/>
+<tli id="T30"/>
+<tli id="T82"/>
+<tli id="T31"/>
+<tli id="T32"/>
+<tli id="T33"/>
+<tli id="T34"/>
+<tli id="T35"/>
+<tli id="T36"/>
+<tli id="T83"/>
+<tli id="T37"/>
+<tli id="T38"/>
+<tli id="T39"/>
+<tli id="T40"/>
+<tli id="T41"/>
+<tli id="T42"/>
+<tli id="T43"/>
+<tli id="T44"/>
+<tli id="T84"/>
+<tli id="T45"/>
+<tli id="T46"/>
+<tli id="T47"/>
+<tli id="T48"/>
+<tli id="T49"/>
+<tli id="T50"/>
+<tli id="T51"/>
+<tli id="T52"/>
+<tli id="T85"/>
+<tli id="T53"/>
+<tli id="T54"/>
+<tli id="T55"/>
+<tli id="T56"/>
+<tli id="T57"/>
+<tli id="T58"/>
+<tli id="T59"/>
+<tli id="T86"/>
+<tli id="T60"/>
+<tli id="T61"/>
+<tli id="T62"/>
+<tli id="T63"/>
+<tli id="T87"/>
+<tli id="T64"/>
+<tli id="T65"/>
+<tli id="T66"/>
+<tli id="T67"/>
+<tli id="T68"/>
+<tli id="T69"/>
+<tli id="T88"/>
+<tli id="T70"/>
+<tli id="T71"/>
+<tli id="T72"/>
+<tli id="T89"/>
+<tli id="T73"/>
+</common-timeline>
+<tier id="TIE0" speaker="SPK0" category="dipl" type="t" display-name="dipl"><event start="T0" end="T1">Cap. 120 (130). </event>
+<event start="T1" end="T2">Περὶ </event>
+<event start="T2" end="T3">Βότρυος. </event>
+<event start="T3" end="T4">Traubenkraut. </event>
+<event start="T4" end="T5">Botrys </event>
+<event start="T5" end="T6">ist</event>
+<event start="T6" end="T7">die </event>
+<event start="T7" end="T8">ganze </event>
+<event start="T8" end="T9">honiggelbe, </event>
+<event start="T9" end="T10">strauchartig </event>
+<event start="T10" end="T11">ausgebreitete </event>
+<event start="T11" end="T12">Pflanze </event>
+<event start="T12" end="T13">mit </event>
+<event start="T13" end="T14">vielen</event>
+<event start="T14" end="T15">achselständigen </event>
+<event start="T15" end="T16">Zweigen. </event>
+<event start="T16" end="T17">Der </event>
+<event start="T17" end="T18">Sam </event>
+<event start="T18" end="T19">wächst </event>
+<event start="T19" end="T20">um </event>
+<event start="T20" end="T21">die </event>
+<event start="T21" end="T22">ganzen </event>
+<event start="T22" end="T23">Zweige </event>
+<event start="T23" end="T24">herum.</event>
+<event start="T24" end="T25">Die </event>
+<event start="T25" end="T26">Blätter </event>
+<event start="T26" end="T27">sind </event>
+<event start="T27" end="T28">denen </event>
+<event start="T28" end="T29">der </event>
+<event start="T29" end="T30">Cichorie </event>
+<event start="T30" end="T31">ähnlich. </event>
+<event start="T31" end="T32">Die </event>
+<event start="T32" end="T33">Pflanze </event>
+<event start="T33" end="T34">ist </event>
+<event start="T34" end="T35">im </event>
+<event start="T35" end="T36">Ganzen</event>
+<event start="T36" end="T37">wohlriechend, </event>
+<event start="T37" end="T38">darum </event>
+<event start="T38" end="T39">wird </event>
+<event start="T39" end="T40">sie </event>
+<event start="T40" end="T41">auch </event>
+<event start="T41" end="T42">zwischen </event>
+<event start="T42" end="T43">die </event>
+<event start="T43" end="T44">Kleider </event>
+<event start="T44" end="T45">gelegt. </event>
+<event start="T45" end="T46">Sie</event>
+<event start="T46" end="T47">wächst </event>
+<event start="T47" end="T48">am </event>
+<event start="T48" end="T49">meisten </event>
+<event start="T49" end="T50">an </event>
+<event start="T50" end="T51">Rinnsalen </event>
+<event start="T51" end="T52">und </event>
+<event start="T52" end="T53">Bergströmen. </event>
+<event start="T53" end="T54">Mit </event>
+<event start="T54" end="T55">Wein </event>
+<event start="T55" end="T56">genommen</event>
+<event start="T56" end="T57">hat </event>
+<event start="T57" end="T58">sie </event>
+<event start="T58" end="T59">di </event>
+<event start="T59" end="T60">Kraft, </event>
+<event start="T60" end="T61">die </event>
+<event start="T61" end="T62">Orthopnöe </event>
+<event start="T62" end="T63">zu </event>
+<event start="T63" end="T64">bessern. </event>
+<event start="T64" end="T65">Die </event>
+<event start="T65" end="T66">Kappadokier </event>
+<event start="T66" end="T67">nennen</event>
+<event start="T67" end="T68">diese </event>
+<event start="T68" end="T69">auch </event>
+<event start="T69" end="T70">Ambrosia, </event>
+<event start="T70" end="T71">Einige </event>
+<event start="T71" end="T72">auch </event>
+<event start="T72" end="T73">Artemisia.</event>
+</tier><tier id="TIE1" speaker="SPK0" category="norm" type="a" display-name="norm"><event start="T0" end="T74">Cap. </event>
+<event start="T74" end="T75">120 </event>
+<event start="T75" end="T76">(130)</event>
+<event start="T76" end="T1">. </event>
+<event start="T1" end="T2">Περὶ </event>
+<event start="T2" end="T77">Βότρυος</event>
+<event start="T77" end="T3">. </event>
+<event start="T3" end="T78">Traubenkraut</event>
+<event start="T78" end="T4">. </event>
+<event start="T4" end="T5">Botrys </event>
+<event start="T5" end="T6">ist</event>
+<event start="T6" end="T7">die </event>
+<event start="T7" end="T8">ganze </event>
+<event start="T8" end="T79">honiggelbe</event>
+<event start="T79" end="T9">, </event>
+<event start="T9" end="T10">strauchartig </event>
+<event start="T10" end="T11">ausgebreitete </event>
+<event start="T11" end="T12">Pflanze </event>
+<event start="T12" end="T13">mit </event>
+<event start="T13" end="T14">vielen</event>
+<event start="T14" end="T15">achselständigen </event>
+<event start="T15" end="T80">Zweigen</event>
+<event start="T80" end="T16">. </event>
+<event start="T16" end="T17">Der </event>
+<event start="T17" end="T18">Sam </event>
+<event start="T18" end="T19">wächst </event>
+<event start="T19" end="T20">um </event>
+<event start="T20" end="T21">die </event>
+<event start="T21" end="T22">ganzen </event>
+<event start="T22" end="T23">Zweige </event>
+<event start="T23" end="T81">herum</event>
+<event start="T81" end="T24">.</event>
+<event start="T24" end="T25">Die </event>
+<event start="T25" end="T26">Blätter </event>
+<event start="T26" end="T27">sind </event>
+<event start="T27" end="T28">denen </event>
+<event start="T28" end="T29">der </event>
+<event start="T29" end="T30">Cichorie </event>
+<event start="T30" end="T82">ähnlich</event>
+<event start="T82" end="T31">. </event>
+<event start="T31" end="T32">Die </event>
+<event start="T32" end="T33">Pflanze </event>
+<event start="T33" end="T34">ist </event>
+<event start="T34" end="T35">im </event>
+<event start="T35" end="T36">Ganzen</event>
+<event start="T36" end="T83">wohlriechend</event>
+<event start="T83" end="T37">, </event>
+<event start="T37" end="T38">darum </event>
+<event start="T38" end="T39">wird </event>
+<event start="T39" end="T40">sie </event>
+<event start="T40" end="T41">auch </event>
+<event start="T41" end="T42">zwischen </event>
+<event start="T42" end="T43">die </event>
+<event start="T43" end="T44">Kleider </event>
+<event start="T44" end="T84">gelegt</event>
+<event start="T84" end="T45">. </event>
+<event start="T45" end="T46">Sie</event>
+<event start="T46" end="T47">wächst </event>
+<event start="T47" end="T48">am </event>
+<event start="T48" end="T49">meisten </event>
+<event start="T49" end="T50">an </event>
+<event start="T50" end="T51">Rinnsalen </event>
+<event start="T51" end="T52">und </event>
+<event start="T52" end="T85">Bergströmen</event>
+<event start="T85" end="T53">. </event>
+<event start="T53" end="T54">Mit </event>
+<event start="T54" end="T55">Wein </event>
+<event start="T55" end="T56">genommen</event>
+<event start="T56" end="T57">hat </event>
+<event start="T57" end="T58">sie </event>
+<event start="T58" end="T59">di </event>
+<event start="T59" end="T86">Kraft</event>
+<event start="T86" end="T60">, </event>
+<event start="T60" end="T61">die </event>
+<event start="T61" end="T62">Orthopnöe </event>
+<event start="T62" end="T63">zu </event>
+<event start="T63" end="T87">bessern</event>
+<event start="T87" end="T64">. </event>
+<event start="T64" end="T65">Die </event>
+<event start="T65" end="T66">Kappadokier </event>
+<event start="T66" end="T67">nennen</event>
+<event start="T67" end="T68">diese </event>
+<event start="T68" end="T69">auch </event>
+<event start="T69" end="T88">Ambrosia</event>
+<event start="T88" end="T70">, </event>
+<event start="T70" end="T71">Einige </event>
+<event start="T71" end="T72">auch </event>
+<event start="T72" end="T89">Artemisia</event>
+<event start="T89" end="T73">.</event>
+</tier><tier id="TIE2" speaker="SPK0" category="sentence" type="a" display-name="sentence"><event start="T0" end="T1">s</event>
+<event start="T1" end="T3">s</event>
+<event start="T3" end="T4">s</event>
+<event start="T4" end="T16">s</event>
+<event start="T16" end="T24">s</event>
+<event start="T24" end="T31">s</event>
+<event start="T31" end="T45">s</event>
+<event start="T45" end="T53">s</event>
+<event start="T53" end="T64">s</event>
+<event start="T64" end="T73">s</event>
+</tier></basic-body>
+</basic-transcription>
