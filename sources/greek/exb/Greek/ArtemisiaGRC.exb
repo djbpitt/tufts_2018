@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
+<basic-transcription>
+<head>
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="AmbrosiaGRC.txt"/><ud-meta-information><ud-information attribute-name="author">Dioscorides</ud-information><ud-information attribute-name="source"></ud-information><ud-information attribute-name="edition"></ud-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="SPK0">
+<abbreviation>AUT</abbreviation>
+<sex value="u"/>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information>
+</ud-speaker-information>
+<comment></comment>
+</speaker>
+</speakertable></head>
+<basic-body>
+<common-timeline>
+<tli id="T0"/>
+<tli id="T1"/>
+<tli id="T2"/>
+<tli id="T3"/>
+<tli id="T4"/>
+<tli id="T5"/>
+<tli id="T6"/>
+<tli id="T7"/>
+<tli id="T8"/>
+<tli id="T9"/>
+<tli id="T10"/>
+<tli id="T11"/>
+<tli id="T12"/>
+<tli id="T13"/>
+<tli id="T14"/>
+<tli id="T15"/>
+<tli id="T16"/>
+<tli id="T17"/>
+<tli id="T18"/>
+<tli id="T19"/>
+<tli id="T20"/>
+<tli id="T21"/>
+<tli id="T22"/>
+<tli id="T23"/>
+<tli id="T24"/>
+<tli id="T25"/>
+<tli id="T26"/>
+<tli id="T27"/>
+<tli id="T28"/>
+<tli id="T29"/>
+<tli id="T30"/>
+<tli id="T31"/>
+<tli id="T32"/>
+<tli id="T33"/>
+<tli id="T34"/>
+<tli id="T35"/>
+<tli id="T36"/>
+<tli id="T37"/>
+<tli id="T38"/>
+<tli id="T39"/>
+<tli id="T40"/>
+<tli id="T41"/>
+<tli id="T42"/>
+<tli id="T43"/>
+<tli id="T44"/>
+</common-timeline>
+<tier id="TIE0" speaker="SPK0" category="txt" type="t" display-name="TXT"><event start="T0" end="T1">﻿</event>
+<event start="T1" end="T2">ἀρτεμισία· </event>
+<event start="T2" end="T3">φύεται </event>
+<event start="T3" end="T4">μὲν </event>
+<event start="T4" end="T5">ὡς </event>
+<event start="T5" end="T6">τὸ </event>
+<event start="T6" end="T7">πολὺ </event>
+<event start="T7" end="T8">ἐν </event>
+<event start="T8" end="T9">παραθαλασσίοις </event>
+<event start="T9" end="T10">τόποις. </event>
+<event start="T10" end="T11">πόα </event>
+<event start="T11" end="T12">θαμνοειδής, </event>
+<event start="T12" end="T13">παρόμοιος </event>
+<event start="T13" end="T14">ἀψινθίῳ, </event>
+<event start="T14" end="T15">μείζω </event>
+<event start="T15" end="T16">δὲ </event>
+<event start="T16" end="T17">καὶ </event>
+<event start="T17" end="T18">λιπαρώτερα </event>
+<event start="T18" end="T19">τὰ </event>
+<event start="T19" end="T20">φύλλα </event>
+<event start="T20" end="T21">ἔχουσα. </event>
+<event start="T21" end="T22">καὶ </event>
+<event start="T22" end="T23">ἡ </event>
+<event start="T23" end="T24">μέν </event>
+<event start="T24" end="T25">τίς </event>
+<event start="T25" end="T26">ἐστιν </event>
+<event start="T26" end="T27">αὐτῆς </event>
+<event start="T27" end="T28">εὐερνής, </event>
+<event start="T28" end="T29">πλατύτερα </event>
+<event start="T29" end="T30">ἔχουσα </event>
+<event start="T30" end="T31">τὰ </event>
+<event start="T31" end="T32">φύλλα </event>
+<event start="T32" end="T33">καὶ </event>
+<event start="T33" end="T34">τὰς </event>
+<event start="T34" end="T35">ῥάβδους, </event>
+<event start="T35" end="T36">ἡ </event>
+<event start="T36" end="T37">δὲ </event>
+<event start="T37" end="T38">λεπτοτέρα, </event>
+<event start="T38" end="T39">ἄνθη </event>
+<event start="T39" end="T40">μικρά, </event>
+<event start="T40" end="T41">λεπτά, </event>
+<event start="T41" end="T42">λευκά, </event>
+<event start="T42" end="T43">βαρύοσμα·</event>
+</tier><tier id="TIE1" speaker="SPK0" category="entry" type="a" display-name="AUT [entry]"><event start="T1" end="T2">entry</event>
+</tier><tier id="TIE2" speaker="SPK0" category="definitions" type="a" display-name="AUT [definitions]"><event start="T1" end="T43">definition</event>
+</tier></basic-body>
+</basic-transcription>
