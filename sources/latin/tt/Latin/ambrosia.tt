@@ -1,86 +1,12 @@
 <meta picture="yes" commentary="yes" scientific-name="ambrosia">
-<sentence sentence="s">
-Ambrosia		
-.		
-</sentence>
-<sentence sentence="s">
-Cap		
-.		
-CXII		
-.		
-</sentence>
-<sentence sentence="s">
-Ambrosia		
-pusillus frutex		
-est		
-,		
-ramosus		
-,		
-trium		
-palmorum		
-altitudine		
-:		
-</sentence>
-<sentence sentence="s">
-foliis		
-rutae		
-,		
-circa		
-imum		
-caulem		
-exiguis		
-:		
-</sentence>
-<sentence sentence="s">
-cauliculi		
-seminibus		
-,		
-perinde		
-quasi		
-racemulis		
-grauidi		
-,		
-qui		
-numquam		
-florem		
-pariunt		
-,		
-odore		
-uinoso		
-,		
-suaui		
-:		
-</sentence>
-<sentence sentence="s">
-radice		
-tenui		
-sesquipedali		
-.		
-</sentence>
-<sentence sentence="s">
-Coronantur		
-ea		
-Capadoces		
-.		
-</sentence>
-<sentence sentence="s">
-Uis		
-eius		
-reprimere		
-,		
-ac		
-repellere		
-,		
-et		
-illitu		
-adstringere		
-humores		
-,		
-qui		
-in		
-aliquam		
-partem		
-incumbunt		
-.		
-</sentence>
+    <sentence sentence="s"> Ambrosia . </sentence>
+    <sentence sentence="s"> Cap . CXII . </sentence>
+    <sentence sentence="s"> Ambrosia pusillus frutex est , ramosus , trium palmorum altitudine : </sentence>
+    <sentence sentence="s"> foliis rutae , circa imum caulem exiguis : </sentence>
+    <sentence sentence="s"> cauliculi seminibus , perinde quasi racemulis grauidi , qui numquam
+        florem pariunt , odore uinoso , suaui : </sentence>
+    <sentence sentence="s"> radice tenui sesquipedali . </sentence>
+    <sentence sentence="s"> Coronantur ea Capadoces . </sentence>
+    <sentence sentence="s"> Uis eius reprimere , ac repellere , et illitu adstringere humores , qui
+        in aliquam partem incumbunt . </sentence>
 </meta>

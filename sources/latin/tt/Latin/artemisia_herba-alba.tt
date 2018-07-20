@@ -1,82 +1,13 @@
-<meta picture="no" commentary="yes" comment="A single commentary appears to belong to both artemisia vulgaris and artemisia herba-alba." scientific-name="artemisia herba-alba">
-<sentence sentence="s">
-Artemisia		
-tenuifolia		
-.		
-</sentence>
-<sentence sentence="s">
-Cap		
-.		
-CXI		
-.		
-</sentence>
-<sentence sentence="s">
-Artemisia		
-tenuifolia		
-in		
-sepibus		
-,		
-et		
-cultis		
-iuxta		
-aquarum		
-ductus		
-nascitur		
-.		
-</sentence>
-<sentence sentence="s">
-Eius		
-flores		
-,		
-et		
-folia		
-contrita		
-sampsuchi		
-odorem		
-reddunt		
-.		
-</sentence>
-<sentence sentence="s">
-Si		
-quis		
-stomacho		
-laborans		
-,		
-herbam		
-cum		
-amygdalino		
-oleo		
-bene		
-contundat		
-in		
-malagmatis		
-lentorem		
-,		
-et		
-stomacho		
-imponat		
-,		
-sanitati		
-restituetur		
-.		
-</sentence>
-<sentence sentence="s">
-Qui		
-neruorum		
-quoque		
-dolore		
-cruciatur		
-,		
-si		
-succum		
-eius		
-cum		
-oleo		
-rosaceo		
-miscens		
-illinat		
-,		
-sanatur		
-.		
-</sentence>
+<meta picture="no" commentary="yes"
+    comment="A single commentary appears to belong to both artemisia vulgaris and artemisia herba-alba."
+    scientific-name="artemisia herba-alba">
+    <sentence sentence="s"> Artemisia tenuifolia . </sentence>
+    <sentence sentence="s"> Cap . CXI . </sentence>
+    <sentence sentence="s"> Artemisia tenuifolia in sepibus , et cultis iuxta aquarum ductus
+        nascitur . </sentence>
+    <sentence sentence="s"> Eius flores , et folia contrita sampsuchi odorem reddunt . </sentence>
+    <sentence sentence="s"> Si quis stomacho laborans , herbam cum amygdalino oleo bene contundat in
+        malagmatis lentorem , et stomacho imponat , sanitati restituetur . </sentence>
+    <sentence sentence="s"> Qui neruorum quoque dolore cruciatur , si succum eius cum oleo rosaceo
+        miscens illinat , sanatur . </sentence>
 </meta>

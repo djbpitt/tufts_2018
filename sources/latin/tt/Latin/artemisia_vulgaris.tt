@@ -1,180 +1,23 @@
-<meta comment="A single commentary appears to belong to both artemisia vulgaris and artemisia herba-alba." scientific-name="artemisia vulgaris" commentary="yes" picture="yes">
-<sentence sentence="s">
-Artemisia		
-.		
-</sentence>
-<sentence sentence="s">
-Cap		
-.		
-CX		
-.		
-</sentence>
-<sentence sentence="s">
-Artemisia		
-magna		
-ex		
-parte		
-in		
-maritimis		
-nascitur		
-,		
-absinthii		
-modo		
-fruticosa		
-,		
-maioribus		
-,		
-et		
-pinguioribus		
-foliis		
-,		
-ramisque		
-.		
-</sentence>
-<sentence sentence="s">
-Huius		
-quidem		
-genera		
-duo		
-.		
-</sentence>
-<sentence sentence="s">
-Unum		
-laetius		
-,		
-habitiusque		
-,		
-foliis		
-,		
-uirgisque		
-latioribus		
-.		
-</sentence>
-<sentence sentence="s">
-Alterum		
-tenuius		
-,		
-flore		
-paruo		
-,		
-tenui		
-,		
-candido		
-,		
-graueolente		
-.		
-</sentence>
-<sentence sentence="s">
-aestate		
-floret		
-.		
-</sentence>
-<sentence sentence="s">
-Sunt		
-qui		
-in		
-mediterraneis		
-unicaulis		
-nomine		
-appellent		
-tenuem		
-herbulam		
-,		
-simplici		
-caule		
-,		
-et		
-minuto		
-,		
-floribus		
-scatente		
-tenuibus		
-,		
-flaveo		
-colore		
-.		
-</sentence>
-<sentence sentence="s">
-haec		
-iucundiorem		
-,		
-quam		
-praecedens		
-efflat		
-odorem		
-.		
-</sentence>
-<sentence sentence="s">
-Utraque		
-excalfacit		
-,		
-extenuat		
-.		
-</sentence>
-<sentence sentence="s">
-feruefactae		
-conuenienter		
-in		
-muliebres		
-defessus		
-adiiciuntur		
-,		
-ad		
-detrahendos		
-menses		
-,		
-partus		
-,		
-fecundasque		
-:		
-</sentence>
-<sentence sentence="s">
-item		
-ad		
-praeclusiones		
-uuluae		
-et		
-eiusdem		
-inflammationes		
-:		
-</sentence>
-<sentence sentence="s">
-calculos		
-comminuunt		
-,		
-remoratam		
-urinam		
-cient		
-.		
-</sentence>
-<sentence sentence="s">
-menses		
-pellunt		
-pubi		
-illitae		
-.		
-</sentence>
-<sentence sentence="s">
-Succus		
-vuluae		
-inditus		
-ex		
-myrrha		
-eadem		
-,		
-quae		
-insessio		
-trahit		
-.		
-</sentence>
-<sentence sentence="s">
-Coma		
-tribus		
-drachmis		
-eorundem		
-educendorum		
-gratia		
-bibitur		
-.		
-</sentence>
+<meta
+    comment="A single commentary appears to belong to both artemisia vulgaris and artemisia herba-alba."
+    scientific-name="artemisia vulgaris" commentary="yes" picture="yes">
+    <sentence sentence="s"> Artemisia . </sentence>
+    <sentence sentence="s"> Cap . CX . </sentence>
+    <sentence sentence="s"> Artemisia magna ex parte in maritimis nascitur , absinthii modo
+        fruticosa , maioribus , et pinguioribus foliis , ramisque . </sentence>
+    <sentence sentence="s"> Huius quidem genera duo . </sentence>
+    <sentence sentence="s"> Unum laetius , habitiusque , foliis , uirgisque latioribus . </sentence>
+    <sentence sentence="s"> Alterum tenuius , flore paruo , tenui , candido , graueolente . </sentence>
+    <sentence sentence="s"> aestate floret . </sentence>
+    <sentence sentence="s"> Sunt qui in mediterraneis unicaulis nomine appellent tenuem herbulam ,
+        simplici caule , et minuto , floribus scatente tenuibus , flaveo colore . </sentence>
+    <sentence sentence="s"> haec iucundiorem , quam praecedens efflat odorem . </sentence>
+    <sentence sentence="s"> Utraque excalfacit , extenuat . </sentence>
+    <sentence sentence="s"> feruefactae conuenienter in muliebres defessus adiiciuntur , ad
+        detrahendos menses , partus , fecundasque : </sentence>
+    <sentence sentence="s"> item ad praeclusiones uuluae et eiusdem inflammationes : </sentence>
+    <sentence sentence="s"> calculos comminuunt , remoratam urinam cient . </sentence>
+    <sentence sentence="s"> menses pellunt pubi illitae . </sentence>
+    <sentence sentence="s"> Succus vuluae inditus ex myrrha eadem , quae insessio trahit . </sentence>
+    <sentence sentence="s"> Coma tribus drachmis eorundem educendorum gratia bibitur . </sentence>
 </meta>
