@@ -2,7 +2,7 @@
 <!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
 <basic-transcription>
 <head>
-<meta-information><project-name>Dell'Ambrodia</project-name><transcription-name></transcription-name><referenced-file url=""/><ud-meta-information><ud-information attribute-name="Scientific Name">Ambrosia</ud-information><ud-information attribute-name="Picture">Yes</ud-information><ud-information attribute-name="Commentary">Yes</ud-information></ud-meta-information><comment></comment><transcription-convention>semi-diplomatic</transcription-convention></meta-information><speakertable><speaker id="SPK0">
+<meta-information><project-name>Dell'Ambrodia</project-name><transcription-name></transcription-name><referenced-file url=""/><ud-meta-information><ud-information attribute-name="scientific_name">Ambrosia</ud-information><ud-information attribute-name="Picture">Yes</ud-information><ud-information attribute-name="Commentary">Yes</ud-information></ud-meta-information><comment></comment><transcription-convention>semi-diplomatic</transcription-convention></meta-information><speakertable><speaker id="SPK0">
 <abbreviation>AUT</abbreviation>
 <sex value="u"/>
 <languages-used></languages-used>
