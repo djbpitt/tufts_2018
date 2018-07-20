@@ -8,7 +8,7 @@ body {
 h1,
 h2,
 h3 {
-	padding-bottom: 20px;
+	padding-bottom: 5px;
 	text-align: center;
 }
 
@@ -23,12 +23,17 @@ h1 {
 p {
 	padding: 10px;
 }
+table.images {
+    border-collapse:collapse;
+    border: 20px solid white;
+}
 
-table,
-tr,
-td,
-th {
-	border: 1px solid #ccc;
+table.list {
+    margin: auto;
+}
+
+tr {
+    background-color: #FFFFFF;
 }
 
 img {
@@ -39,12 +44,25 @@ img {
 
 td {
     height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.list td {
+    text-align: left;
 }
 a {
     display: table;
     position: relative;
     height: 100%;
     width: 100%;
+    text-decoration: none;
+}
+a:hover {
+    color: #159b11;
+}
+a:active {
+    color: #f442b0;
 }
 span {
     display: table-cell;
