@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
+<basic-transcription>
+<head>
+<meta-information><project-name>Botrys</project-name><transcription-name></transcription-name><referenced-file url=""/><ud-meta-information><ud-information attribute-name="scientific name">Botrys</ud-information><ud-information attribute-name="picture">yes</ud-information><ud-information attribute-name="commentary">yes</ud-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="SPK0">
+<abbreviation>AUT</abbreviation>
+<sex value="u"/>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information>
+</ud-speaker-information>
+<comment></comment>
+</speaker>
+</speakertable></head>
+<basic-body>
+<common-timeline>
+<tli id="T0"/>
+<tli id="T1"/>
+<tli id="T67"/>
+<tli id="T2"/>
+<tli id="T68"/>
+<tli id="T3"/>
+<tli id="T69"/>
+<tli id="T4"/>
+<tli id="T5"/>
+<tli id="T6"/>
+<tli id="T7"/>
+<tli id="T8"/>
+<tli id="T9"/>
+<tli id="T70"/>
+<tli id="T10"/>
+<tli id="T71"/>
+<tli id="T11"/>
+<tli id="T12"/>
+<tli id="T73"/>
+<tli id="T72"/>
+<tli id="T13"/>
+<tli id="T14"/>
+<tli id="T15"/>
+<tli id="T16"/>
+<tli id="T74"/>
+<tli id="T17"/>
+<tli id="T18"/>
+<tli id="T19"/>
+<tli id="T20"/>
+<tli id="T21"/>
+<tli id="T22"/>
+<tli id="T23"/>
+<tli id="T24"/>
+<tli id="T25"/>
+<tli id="T26"/>
+<tli id="T75"/>
+<tli id="T27"/>
+<tli id="T28"/>
+<tli id="T29"/>
+<tli id="T30"/>
+<tli id="T31"/>
+<tli id="T32"/>
+<tli id="T33"/>
+<tli id="T76"/>
+<tli id="T34"/>
+<tli id="T35"/>
+<tli id="T36"/>
+<tli id="T37"/>
+<tli id="T38"/>
+<tli id="T78"/>
+<tli id="T77"/>
+<tli id="T39"/>
+<tli id="T40"/>
+<tli id="T41"/>
+<tli id="T42"/>
+<tli id="T43"/>
+<tli id="T44"/>
+<tli id="T45"/>
+<tli id="T46"/>
+<tli id="T79"/>
+<tli id="T47"/>
+<tli id="T48"/>
+<tli id="T49"/>
+<tli id="T50"/>
+<tli id="T51"/>
+<tli id="T52"/>
+<tli id="T81"/>
+<tli id="T80"/>
+<tli id="T53"/>
+<tli id="T54"/>
+<tli id="T82"/>
+<tli id="T55"/>
+<tli id="T56"/>
+<tli id="T57"/>
+<tli id="T58"/>
+<tli id="T83"/>
+<tli id="T59"/>
+<tli id="T60"/>
+<tli id="T61"/>
+<tli id="T62"/>
+<tli id="T63"/>
+<tli id="T64"/>
+<tli id="T85"/>
+<tli id="T84"/>
+<tli id="T65"/>
+<tli id="T86"/>
+<tli id="T66"/>
+</common-timeline>
+<tier id="TIE0" speaker="SPK0" category="dipl" type="t" display-name="dipl"><ud-tier-information><ud-information attribute-name="scientific name">Botrys</ud-information><ud-information attribute-name="picture">yes</ud-information><ud-information attribute-name="comentary">yes</ud-information></ud-tier-information><event start="T0" end="T1">Del </event>
+<event start="T1" end="T67">Botri</event>
+<event start="T67" end="T2"> . </event>
+<event start="T2" end="T68">Cap</event>
+<event start="T68" end="T3"> . </event>
+<event start="T3" end="T69">CXXIIII</event>
+<event start="T69" end="T4">. </event>
+<event start="T4" end="T5">Il </event>
+<event start="T5" end="T6">BOTRI </event>
+<event start="T6" end="T7">è</event>
+<event start="T7" end="T8">una </event>
+<event start="T8" end="T9">herba </event>
+<event start="T9" end="T70">folta </event>
+<event start="T70" end="T10">, </event>
+<event start="T10" end="T71">ramosa </event>
+<event start="T71" end="T11">, </event>
+<event start="T11" end="T12">rossa </event>
+<event start="T12" end="T73">tutta </event>
+<event start="T73" end="T72">, </event>
+<event start="T72" end="T13"><![CDATA[& ]]></event>
+<event start="T13" end="T14">sparta </event>
+<event start="T14" end="T15">in </event>
+<event start="T15" end="T16">molte </event>
+<event start="T16" end="T74">ali </event>
+<event start="T74" end="T17">. </event>
+<event start="T17" end="T18">Il </event>
+<event start="T18" end="T19">suo </event>
+<event start="T19" end="T20">seme </event>
+<event start="T20" end="T21">nasce </event>
+<event start="T21" end="T23">at-torno </event>
+<event start="T23" end="T24">à</event>
+<event start="T24" end="T25">tutti </event>
+<event start="T25" end="T26">i </event>
+<event start="T26" end="T75">fusti </event>
+<event start="T75" end="T27">: </event>
+<event start="T27" end="T28">le </event>
+<event start="T28" end="T29">sue </event>
+<event start="T29" end="T30">frondi </event>
+<event start="T30" end="T31">sono </event>
+<event start="T31" end="T32">simili </event>
+<event start="T32" end="T33">alla </event>
+<event start="T33" end="T76">cichorea </event>
+<event start="T76" end="T34">. </event>
+<event start="T34" end="T35">Respira </event>
+<event start="T35" end="T36">tutta </event>
+<event start="T36" end="T37">di </event>
+<event start="T37" end="T38">soaue </event>
+<event start="T38" end="T78">odore </event>
+<event start="T78" end="T77">: </event>
+<event start="T77" end="T39"><![CDATA[& ]]></event>
+<event start="T39" end="T41">im-però</event>
+<event start="T41" end="T42">si </event>
+<event start="T42" end="T43">mette </event>
+<event start="T43" end="T44">ella </event>
+<event start="T44" end="T45">tra </event>
+<event start="T45" end="T46">i </event>
+<event start="T46" end="T79">uestimenti </event>
+<event start="T79" end="T47">. </event>
+<event start="T47" end="T48">Ritrouasi </event>
+<event start="T48" end="T49">nelle </event>
+<event start="T49" end="T50">riue </event>
+<event start="T50" end="T51">de </event>
+<event start="T51" end="T52">i </event>
+<event start="T52" end="T81">torrenti </event>
+<event start="T81" end="T80">, </event>
+<event start="T80" end="T53"><![CDATA[& ]]></event>
+<event start="T53" end="T54">nelle </event>
+<event start="T54" end="T82">ualli </event>
+<event start="T82" end="T55">. </event>
+<event start="T55" end="T56">Beuta </event>
+<event start="T56" end="T57">cura </event>
+<event start="T57" end="T58">gli </event>
+<event start="T58" end="T83">asmatici </event>
+<event start="T83" end="T59">. </event>
+<event start="T59" end="T60">Chiamano </event>
+<event start="T60" end="T61">questa </event>
+<event start="T61" end="T62">quei </event>
+<event start="T62" end="T63">di </event>
+<event start="T63" end="T64">Cappadocia </event>
+<event start="T64" end="T85">ambrosia </event>
+<event start="T85" end="T84">, </event>
+<event start="T84" end="T65"><![CDATA[& ]]></event>
+<event start="T65" end="T86">artemisia </event>
+<event start="T86" end="T66">. </event>
+</tier><tier id="TIE1" speaker="SPK0" category="norm" type="a" display-name="norm"><ud-tier-information><ud-information attribute-name="scientific name">Botrys</ud-information><ud-information attribute-name="picture">yes</ud-information><ud-information attribute-name="comentary">yes</ud-information></ud-tier-information><event start="T0" end="T1">Del </event>
+<event start="T1" end="T67">Botri</event>
+<event start="T67" end="T2"> . </event>
+<event start="T2" end="T68">Cap</event>
+<event start="T68" end="T3"> . </event>
+<event start="T3" end="T69">CXXIIII</event>
+<event start="T69" end="T4">. </event>
+<event start="T4" end="T5">Il </event>
+<event start="T5" end="T6">Botri </event>
+<event start="T6" end="T7">è</event>
+<event start="T7" end="T8">una </event>
+<event start="T8" end="T9">herba </event>
+<event start="T9" end="T70">folta </event>
+<event start="T70" end="T10">, </event>
+<event start="T10" end="T71">ramosa </event>
+<event start="T71" end="T11">, </event>
+<event start="T11" end="T12">rossa </event>
+<event start="T12" end="T73">tutta </event>
+<event start="T73" end="T72">, </event>
+<event start="T72" end="T13">e </event>
+<event start="T13" end="T14">sparta </event>
+<event start="T14" end="T15">in </event>
+<event start="T15" end="T16">molte </event>
+<event start="T16" end="T74">ali </event>
+<event start="T74" end="T17">. </event>
+<event start="T17" end="T18">Il </event>
+<event start="T18" end="T19">suo </event>
+<event start="T19" end="T20">seme </event>
+<event start="T20" end="T21">nasce </event>
+<event start="T21" end="T23">attorno </event>
+<event start="T23" end="T24">à</event>
+<event start="T24" end="T25">tutti </event>
+<event start="T25" end="T26">i </event>
+<event start="T26" end="T75">fusti </event>
+<event start="T75" end="T27">: </event>
+<event start="T27" end="T28">le </event>
+<event start="T28" end="T29">sue </event>
+<event start="T29" end="T30">frondi </event>
+<event start="T30" end="T31">sono </event>
+<event start="T31" end="T32">simili </event>
+<event start="T32" end="T33">alla </event>
+<event start="T33" end="T76">cichorea </event>
+<event start="T76" end="T34">. </event>
+<event start="T34" end="T35">Respira </event>
+<event start="T35" end="T36">tutta </event>
+<event start="T36" end="T37">di </event>
+<event start="T37" end="T38">soave </event>
+<event start="T38" end="T78">odore </event>
+<event start="T78" end="T77">: </event>
+<event start="T77" end="T39">e</event>
+<event start="T39" end="T41">imperò</event>
+<event start="T41" end="T42">si </event>
+<event start="T42" end="T43">mette </event>
+<event start="T43" end="T44">ella </event>
+<event start="T44" end="T45">tra </event>
+<event start="T45" end="T46">i </event>
+<event start="T46" end="T79">vestimenti </event>
+<event start="T79" end="T47">. </event>
+<event start="T47" end="T48">Ritrovasi </event>
+<event start="T48" end="T49">nelle </event>
+<event start="T49" end="T50">rive </event>
+<event start="T50" end="T51">de </event>
+<event start="T51" end="T52">i </event>
+<event start="T52" end="T81">torrenti </event>
+<event start="T81" end="T80">, </event>
+<event start="T80" end="T53">e</event>
+<event start="T53" end="T54">nelle </event>
+<event start="T54" end="T82">valli </event>
+<event start="T82" end="T55">. </event>
+<event start="T55" end="T56">Bevta </event>
+<event start="T56" end="T57">cura </event>
+<event start="T57" end="T58">gli </event>
+<event start="T58" end="T83">asmatici </event>
+<event start="T83" end="T59">. </event>
+<event start="T59" end="T60">Chiamano </event>
+<event start="T60" end="T61">questa </event>
+<event start="T61" end="T62">quei </event>
+<event start="T62" end="T63">di </event>
+<event start="T63" end="T64">Cappadocia </event>
+<event start="T64" end="T85">ambrosia </event>
+<event start="T85" end="T84">, </event>
+<event start="T84" end="T65">e</event>
+<event start="T65" end="T86">artemisia </event>
+<event start="T86" end="T66">. </event>
+</tier><tier id="TIE2" speaker="SPK0" category="sentence" type="a" display-name="sentence"><event start="T0" end="T2"></event>
+<event start="T2" end="T4"></event>
+<event start="T4" end="T17"></event>
+<event start="T17" end="T34"></event>
+<event start="T34" end="T47"></event>
+<event start="T47" end="T55"></event>
+<event start="T55" end="T59"></event>
+<event start="T59" end="T66"></event>
+</tier></basic-body>
+</basic-transcription>
