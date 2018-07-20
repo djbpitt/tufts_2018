@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <meta>
+<<<<<<< HEAD
     <author>DIOSCORIDES</author>
     <source>https://archive.org/stream/de-materia-medica/scribd-download.com_dioscorides-de-materia-medica#page/n541/mode/1up</source>
     <edition>A New Indexed Version in Modern English</edition>
@@ -7,6 +8,23 @@
     <language>eng</language>
     <date>2000</date>
     <translator>T. A. Osbaldeston</translator>
+||||||| merged common ancestors
+<author>DIOSCORIDES</author>
+<source>https://archive.org/stream/de-materia-medica/scribd-download.com_dioscorides-de-materia-medica#page/n541/mode/1up</source>
+<edition>A New Indexed Version in Modern English</edition>
+<viaf>78822798</viaf>
+<language>eng</language>
+<year>2000</year>
+<editor>Osbaldeston &amp; Wood</editor>
+=======
+<author>Dioscorides</author>
+<source>https://archive.org/stream/de-materia-medica/scribd-download.com_dioscorides-de-materia-medica#page/n541/mode/1up</source>
+<edition>A New Indexed Version in Modern English</edition>
+<viaf>78822798</viaf>
+<language>eng</language>
+<year>2000</year>
+<editor>Osbaldeston &amp; Wood</editor>
+>>>>>>> 14ac445c07618995f52afe5399b51f355275e064
 </meta>
 
 
