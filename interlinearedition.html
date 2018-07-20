@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>Multilingual Botany - Digital Comparative Edition</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em" crossorigin="anonymous"></script>
+<script src="site.js"></script>
+<style>
+/* Dropdown Button */
+.dropbtn {
+    background-color: #3498DB;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+/* Dropdown button on hover & focus */
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #2980B9;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {display:block;}
+</style>
+
+    </head>
+
+    <body>
+
+<h1>Multilingual Botany</h1>
+
+<h2>Running Edition</h2>
+
+<div class="dropdown">
+  <button onclick="myFunction()" class="dropbtn">Language Selection</button>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="#">Greek</a>
+    <a href="#">Latin</a>
+    <a href="#">English</a>
+    <a href="#">French</a>
+    <a href="#">German</a>
+    <a href="#">Italian</a>
+  </div>
+</div>
+
+<h2>Sentence Comparisons</h2>
+
+<table>
+    <tr>
+        <th>Greek</th>
+        <td>Greek sentence here</td>
+    </tr>
+    <tr>
+        <th>Latin</th>
+        <td>Latin sentence here</td>
+    </tr>
+</table>
+
+    </body>
+</html>
