@@ -2,7 +2,7 @@
 <!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
 <basic-transcription>
 <head>
-<meta-information><project-name>Botrys</project-name><transcription-name></transcription-name><referenced-file url=""/><ud-meta-information><ud-information attribute-name="scientific name">Botrys</ud-information><ud-information attribute-name="picture">yes</ud-information><ud-information attribute-name="commentary">yes</ud-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="SPK0">
+<meta-information><project-name>Botrys</project-name><transcription-name></transcription-name><referenced-file url=""/><ud-meta-information><ud-information attribute-name="scientific_name">Botrys</ud-information><ud-information attribute-name="picture">yes</ud-information><ud-information attribute-name="commentary">yes</ud-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="SPK0">
 <abbreviation>AUT</abbreviation>
 <sex value="u"/>
 <languages-used></languages-used>
