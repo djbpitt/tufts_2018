@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version='1.0' encoding='utf-8'?>
  <meta><author>Dioscorides</author>
 <source>https://archive.org/stream/despedaniosdios00pedagoog#page/n5/mode/1up/search/ambrosia</source>
@@ -6,4 +7,15 @@
 <viaf>78122798</viaf>
 <language>ger</language>
 <translator>J. Berendes</translator>
+=======
+<?xml version='1.0' encoding='utf-8'?> 
+<meta>
+ <author>Dioscorides</author>
+ <source>https://archive.org/stream/despedaniosdios00pedagoog#page/n5/mode/1up/search/ambrosia</source>
+ <edition>Arzneimittellehre in fünf Büchern. Stuttgart, Verlag von Ferdinand Enke.</edition>
+ <year-of-the-edition>1902.</year-of-the-edition>
+ <viaf>78122798</viaf>
+ <language>ger</language>
+ <editor-translator>J. Berendes</editor-translator>
+>>>>>>> 4897b6b9a90a07cd46fa8460264be9fec65852ab
 </meta>
