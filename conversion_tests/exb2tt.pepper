@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pepper-job id="exb2TT" version="1.0">
+    <importer name="EXMARaLDAImporter" path="./exb/">
+    </importer>
+    <exporter name="TreetaggerExporter" path="./tt/">
+    </exporter>
+</pepper-job>

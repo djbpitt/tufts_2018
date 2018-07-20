@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
+<basic-transcription>
+    <head>
+        <meta-information>
+            <project-name/>
+            <transcription-name/>
+            <referenced-file url=""/>
+            <ud-meta-information/>
+            <comment/>
+            <transcription-convention/>
+        </meta-information>
+        <speakertable>
+            <speaker id="SPK0">
+                <abbreviation>X</abbreviation>
+                <sex value="m"/>
+                <languages-used/>
+                <l1/>
+                <l2/>
+                <ud-speaker-information> </ud-speaker-information>
+                <comment/>
+            </speaker>
+        </speakertable>
+    </head>
+    <basic-body>
+        <common-timeline>
+            <tli id="T0"/>
+            <tli id="T1"/>
+            <tli id="T2"/>
+            <tli id="T3"/>
+            <tli id="T4"/>
+            <tli id="T5"/>
+            <tli id="T6"/>
+            <tli id="T7"/>
+            <tli id="T8"/>
+            <tli id="T9"/>
+            <tli id="T16"/>
+            <tli id="T10"/>
+            <tli id="T11"/>
+            <tli id="T12"/>
+            <tli id="T13"/>
+            <tli id="T14"/>
+            <tli id="T15"/>
+        </common-timeline>
+        <tier id="TIE0" speaker="SPK0" category="v" type="t" display-name="X [v]">
+            <event start="T0" end="T1">This</event>
+            <event start="T1" end="T2">is</event>
+            <event start="T2" end="T3">an</event>
+            <event start="T3" end="T4">example</event>
+            <event start="T4" end="T5">text</event>
+            <event start="T5" end="T6">.</event>
+            <event start="T6" end="T7">I</event>
+            <event start="T7" end="T8">made</event>
+            <event start="T8" end="T9">this</event>
+            <event start="T9" end="T16">work</event>
+            <event start="T16" end="T10">flow</event>
+            <event start="T10" end="T11">work</event>
+            <event start="T11" end="T12">.</event>
+            <event start="T12" end="T13">Heck</event>
+            <event start="T13" end="T14">yeah</event>
+            <event start="T14" end="T15">!</event>
+        </tier>
+        <tier id="TIE1" speaker="SPK0" category="fancy" type="a" display-name="X [fancy]">
+            <event start="T0" end="T1">0</event>
+            <event start="T3" end="T4">4</event>
+            <event start="T6" end="T8">3</event>
+            <event start="T9" end="T10">7</event>
+            <event start="T12" end="T15">10</event>
+        </tier>
+    </basic-body>
+</basic-transcription>
