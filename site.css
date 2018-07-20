@@ -1,6 +1,8 @@
 body {
     margin:auto;
     width:50%;
+    background-color:#ffe9c4;
+    font-family: 'Libre Baskerville', serif;
 }
 
 h1, h2, h3 {
