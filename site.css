@@ -1,13 +1,14 @@
 body {
-    margin:auto;
+    margin: auto;
     width:50%;
     background-color:#ffe9c4;
     font-family: 'Libre Baskerville', serif;
 }
 
 h1, h2, h3 {
-    padding-bottom:20px;
-    text-align:center;
+    padding-bottom:10px;
+    padding-top:10px;
+    text-align: center;
 }
 
 h1 {
@@ -24,4 +25,25 @@ p {
 
 table, tr, td, th {
     border: 1px solid black;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td {
+    height: 100%;
+}
+a {
+    display: table;
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+span {
+    display: table-cell;
+    text-align:center;
+    vertical-align: middle;
 }
