@@ -1,5 +1,10 @@
 digraph{
-{rank=same; Gk1, Gk2}
-α -> Gk1
-α -> Gk2
+{rank=same; German, Italian, French, English}
+α -> Greek_Long
+Greek_Long -> Greek_Short
+Greek_Long -> German
+Greek_Short -> Latin
+Greek_Short -> English
+Latin -> Italian
+Latin -> French
 }
