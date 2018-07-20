@@ -1,0 +1,10 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<pepper-job id="ulab7kfa" version="1.0">
+	<importer name="EXMARaLDAImporter" path="./exb/English/">
+		<property key="mapTimeline">false</property>
+		<property key="pepper.before.readMeta">meta</property>
+	</importer>
+	<exporter name="TreeTaggerExporter" path="./tt/">
+	  <property key="treetagger.output.replaceGenericSpanNames">true</property>
+	</exporter>
+</pepper-job>

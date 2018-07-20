@@ -1,4 +1,5 @@
 import sys #i/o
+import codecs
 # purpose: parse a meta data file and convert to XML
 
 # Read the file.
@@ -16,6 +17,12 @@ for l in lines:
         continue
     element = l.split("=")[0]
     l = l.replace(element + "=", "")
+    element = element.replace(" ", "-")
+    element = element.replace("/", "-")
+    l = l.replace(element + "=", "")
+    l = l.replace("&", "&amp;")
+    l = l.replace("<", "&lt;")
+    l = l.replace(">", "&gt;")
     startTag = "<" + element + ">"
     endTag = "</" + element + ">"
     tag = str(startTag + l + endTag + '\n')

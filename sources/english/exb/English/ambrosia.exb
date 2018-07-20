@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
+<basic-transcription>
+<head>
+<meta-information><project-name>Ambrosia</project-name><transcription-name></transcription-name><referenced-file url=""/><ud-meta-information><ud-information attribute-name="scientific name">ambrosia</ud-information><ud-information attribute-name="picture">no</ud-information><ud-information attribute-name="commentary">yes</ud-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="SPK0">
+<abbreviation>AUT</abbreviation>
+<sex value="u"/>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information>
+</ud-speaker-information>
+<comment></comment>
+</speaker>
+</speakertable></head>
+<basic-body>
+<common-timeline>
+<tli id="T0"/>
+<tli id="T1"/>
+<tli id="T2"/>
+<tli id="T3"/>
+<tli id="T4"/>
+<tli id="T5"/>
+<tli id="T6"/>
+<tli id="T7"/>
+<tli id="T8"/>
+<tli id="T9"/>
+<tli id="T10"/>
+<tli id="T11"/>
+<tli id="T12"/>
+<tli id="T13"/>
+<tli id="T14"/>
+<tli id="T15"/>
+<tli id="T16"/>
+<tli id="T17"/>
+<tli id="T18"/>
+<tli id="T19"/>
+<tli id="T20"/>
+<tli id="T21"/>
+<tli id="T22"/>
+<tli id="T23"/>
+<tli id="T24"/>
+<tli id="T25"/>
+<tli id="T26"/>
+<tli id="T27"/>
+<tli id="T28"/>
+<tli id="T29"/>
+<tli id="T30"/>
+<tli id="T31"/>
+<tli id="T32"/>
+<tli id="T33"/>
+<tli id="T34"/>
+<tli id="T35"/>
+<tli id="T36"/>
+<tli id="T37"/>
+<tli id="T38"/>
+<tli id="T39"/>
+<tli id="T40"/>
+<tli id="T41"/>
+<tli id="T42"/>
+<tli id="T43"/>
+<tli id="T44"/>
+<tli id="T45"/>
+<tli id="T46"/>
+<tli id="T47"/>
+<tli id="T48"/>
+<tli id="T49"/>
+<tli id="T50"/>
+<tli id="T51"/>
+<tli id="T52"/>
+<tli id="T53"/>
+<tli id="T54"/>
+<tli id="T55"/>
+<tli id="T56"/>
+<tli id="T57"/>
+<tli id="T58"/>
+<tli id="T59"/>
+<tli id="T60"/>
+<tli id="T61"/>
+<tli id="T62"/>
+<tli id="T63"/>
+<tli id="T64"/>
+<tli id="T65"/>
+<tli id="T66"/>
+<tli id="T67"/>
+<tli id="T68"/>
+<tli id="T69"/>
+<tli id="T70"/>
+<tli id="T71"/>
+<tli id="T72"/>
+<tli id="T73"/>
+<tli id="T74"/>
+<tli id="T75"/>
+<tli id="T76"/>
+<tli id="T77"/>
+<tli id="T78"/>
+<tli id="T79"/>
+<tli id="T80"/>
+<tli id="T81"/>
+<tli id="T82"/>
+<tli id="T83"/>
+<tli id="T84"/>
+<tli id="T85"/>
+<tli id="T86"/>
+<tli id="T87"/>
+<tli id="T88"/>
+<tli id="T89"/>
+<tli id="T90"/>
+<tli id="T91"/>
+<tli id="T92"/>
+<tli id="T93"/>
+<tli id="T94"/>
+<tli id="T95"/>
+<tli id="T96"/>
+<tli id="T97"/>
+<tli id="T98"/>
+<tli id="T99"/>
+<tli id="T100"/>
+<tli id="T101"/>
+<tli id="T102"/>
+<tli id="T103"/>
+<tli id="T104"/>
+<tli id="T105"/>
+<tli id="T106"/>
+<tli id="T107"/>
+<tli id="T108"/>
+<tli id="T109"/>
+<tli id="T110"/>
+<tli id="T111"/>
+<tli id="T112"/>
+<tli id="T113"/>
+<tli id="T114"/>
+<tli id="T115"/>
+<tli id="T116"/>
+<tli id="T117"/>
+<tli id="T118"/>
+<tli id="T119"/>
+<tli id="T120"/>
+<tli id="T121"/>
+<tli id="T122"/>
+<tli id="T123"/>
+<tli id="T124"/>
+<tli id="T125"/>
+<tli id="T126"/>
+<tli id="T127"/>
+<tli id="T128"/>
+<tli id="T129"/>
+<tli id="T130"/>
+<tli id="T131"/>
+<tli id="T132"/>
+<tli id="T133"/>
+<tli id="T134"/>
+<tli id="T135"/>
+<tli id="T136"/>
+<tli id="T137"/>
+<tli id="T138"/>
+<tli id="T139"/>
+<tli id="T140"/>
+<tli id="T141"/>
+<tli id="T142"/>
+<tli id="T143"/>
+<tli id="T144"/>
+<tli id="T145"/>
+<tli id="T146"/>
+<tli id="T147"/>
+<tli id="T148"/>
+<tli id="T149"/>
+<tli id="T150"/>
+<tli id="T151"/>
+<tli id="T152"/>
+<tli id="T153"/>
+<tli id="T154"/>
+<tli id="T155"/>
+<tli id="T156"/>
+<tli id="T157"/>
+<tli id="T158"/>
+<tli id="T159"/>
+<tli id="T160"/>
+<tli id="T161"/>
+<tli id="T162"/>
+<tli id="T163"/>
+<tli id="T164"/>
+<tli id="T165"/>
+<tli id="T166"/>
+<tli id="T167"/>
+<tli id="T168"/>
+<tli id="T169"/>
+<tli id="T170"/>
+<tli id="T171"/>
+<tli id="T172"/>
+<tli id="T173"/>
+<tli id="T174"/>
+<tli id="T175"/>
+<tli id="T176"/>
+<tli id="T177"/>
+<tli id="T178"/>
+<tli id="T179"/>
+<tli id="T180"/>
+<tli id="T181"/>
+<tli id="T182"/>
+<tli id="T183"/>
+<tli id="T184"/>
+<tli id="T185"/>
+<tli id="T186"/>
+<tli id="T187"/>
+<tli id="T188"/>
+<tli id="T189"/>
+<tli id="T190"/>
+<tli id="T191"/>
+<tli id="T192"/>
+<tli id="T193"/>
+<tli id="T194"/>
+<tli id="T195"/>
+<tli id="T196"/>
+<tli id="T197"/>
+<tli id="T198"/>
+<tli id="T199"/>
+<tli id="T200"/>
+<tli id="T201"/>
+<tli id="T202"/>
+<tli id="T203"/>
+<tli id="T204"/>
+<tli id="T205"/>
+<tli id="T206"/>
+<tli id="T207"/>
+<tli id="T208"/>
+<tli id="T209"/>
+<tli id="T210"/>
+<tli id="T211"/>
+<tli id="T212"/>
+<tli id="T213"/>
+<tli id="T214"/>
+<tli id="T215"/>
+<tli id="T216"/>
+<tli id="T217"/>
+<tli id="T218"/>
+<tli id="T219"/>
+<tli id="T220"/>
+<tli id="T221"/>
+<tli id="T222"/>
+<tli id="T223"/>
+<tli id="T224"/>
+<tli id="T225"/>
+<tli id="T226"/>
+<tli id="T227"/>
+<tli id="T228"/>
+<tli id="T229"/>
+<tli id="T230"/>
+<tli id="T231"/>
+<tli id="T232"/>
+<tli id="T233"/>
+<tli id="T234"/>
+<tli id="T235"/>
+<tli id="T236"/>
+<tli id="T237"/>
+<tli id="T238"/>
+<tli id="T239"/>
+<tli id="T240"/>
+<tli id="T241"/>
+<tli id="T242"/>
+<tli id="T243"/>
+<tli id="T244"/>
+<tli id="T245"/>
+<tli id="T246"/>
+<tli id="T247"/>
+<tli id="T248"/>
+<tli id="T249"/>
+<tli id="T250"/>
+<tli id="T251"/>
+<tli id="T252"/>
+<tli id="T253"/>
+<tli id="T254"/>
+<tli id="T255"/>
+<tli id="T256"/>
+<tli id="T257"/>
+<tli id="T258"/>
+<tli id="T259"/>
+<tli id="T260"/>
+<tli id="T261"/>
+<tli id="T262"/>
+<tli id="T263"/>
+<tli id="T264"/>
+<tli id="T265"/>
+<tli id="T266"/>
+<tli id="T267"/>
+<tli id="T268"/>
+<tli id="T269"/>
+<tli id="T270"/>
+<tli id="T271"/>
+<tli id="T272"/>
+<tli id="T273"/>
+<tli id="T274"/>
+<tli id="T275"/>
+<tli id="T276"/>
+<tli id="T277"/>
+<tli id="T278"/>
+<tli id="T279"/>
+<tli id="T280"/>
+<tli id="T281"/>
+<tli id="T282"/>
+<tli id="T283"/>
+<tli id="T284"/>
+<tli id="T285"/>
+<tli id="T286"/>
+<tli id="T287"/>
+<tli id="T288"/>
+<tli id="T289"/>
+<tli id="T290"/>
+<tli id="T291"/>
+<tli id="T292"/>
+<tli id="T293"/>
+<tli id="T294"/>
+<tli id="T295"/>
+<tli id="T296"/>
+<tli id="T297"/>
+<tli id="T298"/>
+<tli id="T299"/>
+<tli id="T300"/>
+<tli id="T301"/>
+<tli id="T302"/>
+<tli id="T303"/>
+<tli id="T304"/>
+<tli id="T305"/>
+<tli id="T306"/>
+<tli id="T307"/>
+<tli id="T308"/>
+<tli id="T309"/>
+<tli id="T310"/>
+<tli id="T311"/>
+<tli id="T312"/>
+<tli id="T313"/>
+<tli id="T314"/>
+<tli id="T315"/>
+<tli id="T316"/>
+<tli id="T317"/>
+<tli id="T318"/>
+<tli id="T319"/>
+<tli id="T320"/>
+<tli id="T321"/>
+<tli id="T322"/>
+<tli id="T323"/>
+<tli id="T324"/>
+<tli id="T325"/>
+<tli id="T326"/>
+<tli id="T327"/>
+<tli id="T328"/>
+<tli id="T329"/>
+<tli id="T330"/>
+<tli id="T331"/>
+<tli id="T332"/>
+<tli id="T333"/>
+<tli id="T334"/>
+<tli id="T335"/>
+<tli id="T336"/>
+<tli id="T337"/>
+<tli id="T338"/>
+<tli id="T339"/>
+<tli id="T340"/>
+<tli id="T341"/>
+<tli id="T342"/>
+<tli id="T343"/>
+<tli id="T344"/>
+<tli id="T345"/>
+<tli id="T346"/>
+<tli id="T347"/>
+<tli id="T348"/>
+<tli id="T349"/>
+<tli id="T350"/>
+<tli id="T351"/>
+<tli id="T352"/>
+<tli id="T353"/>
+<tli id="T354"/>
+<tli id="T355"/>
+<tli id="T356"/>
+<tli id="T357"/>
+<tli id="T358"/>
+<tli id="T359"/>
+<tli id="T360"/>
+<tli id="T361"/>
+<tli id="T362"/>
+<tli id="T363"/>
+<tli id="T364"/>
+<tli id="T365"/>
+<tli id="T366"/>
+<tli id="T367"/>
+<tli id="T368"/>
+<tli id="T369"/>
+<tli id="T370"/>
+<tli id="T371"/>
+<tli id="T372"/>
+<tli id="T373"/>
+<tli id="T374"/>
+<tli id="T375"/>
+<tli id="T376"/>
+<tli id="T377"/>
+<tli id="T378"/>
+<tli id="T379"/>
+<tli id="T380"/>
+</common-timeline>
+<tier id="TIE0" speaker="SPK0" category="txt" type="t" display-name="TXT"><event start="T0" end="T1">3-127. </event>
+<event start="T1" end="T2">ARTEMISIA </event>
+<event start="T2" end="T3">MONOKLONOS </event>
+<event start="T3" end="T4">ARTEMISIA </event>
+<event start="T4" end="T5">MONOKLONOS </event>
+<event start="T5" end="T6">ETERA </event>
+<event start="T6" end="T7">suggested: </event>
+<event start="T7" end="T8">Artemisia </event>
+<event start="T8" end="T9">latifolia [</event>
+<event start="T9" end="T10">Fuchs], </event>
+<event start="T10" end="T11">Artemisia </event>
+<event start="T11" end="T12">vulgaris </event>
+<event start="T12" end="T13">major [</event>
+<event start="T13" end="T14">Bauhin], </event>
+<event start="T14" end="T15">Artemisia </event>
+<event start="T15" end="T16">vulgaris </event>
+<event start="T16" end="T17">[</event>
+<event start="T17" end="T18">Linnaeus] - </event>
+<event start="T18" end="T19">Mugwort </event>
+<event start="T19" end="T20">Artemisia </event>
+<event start="T20" end="T21">tenui </event>
+<event start="T21" end="T22">folia, </event>
+<event start="T22" end="T23">M </event>
+<event start="T23" end="T24">atricaria [</event>
+<event start="T24" end="T25">Fuchs], </event>
+<event start="T25" end="T26">M </event>
+<event start="T26" end="T27">atricaria </event>
+<event start="T27" end="T28">vulgaris </event>
+<event start="T28" end="T29">[</event>
+<event start="T29" end="T30">Bauhin], </event>
+<event start="T30" end="T31">Matricaria </event>
+<event start="T31" end="T32">parthenium [</event>
+<event start="T32" end="T33">Linnaeus], </event>
+<event start="T33" end="T34">Pyrethrum </event>
+<event start="T34" end="T35">parthenium, </event>
+<event start="T35" end="T36">Parthenium </event>
+<event start="T36" end="T37">matricaria, </event>
+<event start="T37" end="T38">Chrysanthemum </event>
+<event start="T38" end="T39">parthenium [</event>
+<event start="T39" end="T40">in </event>
+<event start="T40" end="T41">Sprague] </event>
+<event start="T41" end="T42">- </event>
+<event start="T42" end="T43">Feverfew </event>
+<event start="T43" end="T44">Chrysanthemum </event>
+<event start="T44" end="T45">Artemisia </event>
+<event start="T45" end="T46">monoclonos, </event>
+<event start="T46" end="T47">Tanacetum, </event>
+<event start="T47" end="T48">Tagetes [</event>
+<event start="T48" end="T49">Fuchs], </event>
+<event start="T49" end="T50">Artemisia </event>
+<event start="T50" end="T51">tenui </event>
+<event start="T51" end="T52">folia [</event>
+<event start="T52" end="T53">Brunfels], </event>
+<event start="T53" end="T54">Chrysanthemum </event>
+<event start="T54" end="T55">vuigare, </event>
+<event start="T55" end="T56">Tanacetum </event>
+<event start="T56" end="T57">vulgare [</event>
+<event start="T57" end="T58">Linnaeus] </event>
+<event start="T58" end="T59">- </event>
+<event start="T59" end="T60">Common </event>
+<event start="T60" end="T61">Tansy, </event>
+<event start="T61" end="T62">Buttons </event>
+<event start="T62" end="T63">Some </event>
+<event start="T63" end="T64">artemisia </event>
+<event start="T64" end="T65">is </event>
+<event start="T65" end="T66">polyclonos, </event>
+<event start="T66" end="T67">some </event>
+<event start="T67" end="T68">monoclonos. </event>
+<event start="T68" end="T69">It </event>
+<event start="T69" end="T70">grows </event>
+<event start="T70" end="T71">for </event>
+<event start="T71" end="T72">the </event>
+<event start="T72" end="T73">most </event>
+<event start="T73" end="T74">part </event>
+<event start="T74" end="T75">in </event>
+<event start="T75" end="T76">places </event>
+<event start="T76" end="T77">near </event>
+<event start="T77" end="T78">the </event>
+<event start="T78" end="T79">sea. </event>
+<event start="T79" end="T80">It </event>
+<event start="T80" end="T81">is </event>
+<event start="T81" end="T82">a </event>
+<event start="T82" end="T83">shrub-</event>
+<event start="T83" end="T84">like </event>
+<event start="T84" end="T85">herb </event>
+<event start="T85" end="T86">similar </event>
+<event start="T86" end="T87">to </event>
+<event start="T87" end="T88">wormwood [3-26] </event>
+<event start="T88" end="T89">but </event>
+<event start="T89" end="T90">bigger, </event>
+<event start="T90" end="T91">and </event>
+<event start="T91" end="T92">with </event>
+<event start="T92" end="T93">the </event>
+<event start="T93" end="T94">leaves </event>
+<event start="T94" end="T95">coarser. </event>
+<event start="T95" end="T96">There </event>
+<event start="T96" end="T97">is </event>
+<event start="T97" end="T98">one </event>
+<event start="T98" end="T99">sort </event>
+<event start="T99" end="T100">that </event>
+<event start="T100" end="T101">is </event>
+<event start="T101" end="T102">prosperous </event>
+<event start="T102" end="T103">with </event>
+<event start="T103" end="T104">broader </event>
+<event start="T104" end="T105">leaves </event>
+<event start="T105" end="T106">and </event>
+<event start="T106" end="T107">stems, </event>
+<event start="T107" end="T108">another </event>
+<event start="T108" end="T109">smaller, </event>
+<event start="T109" end="T110">the </event>
+<event start="T110" end="T111">flowers </event>
+<event start="T111" end="T112">little, </event>
+<event start="T112" end="T113">thin </event>
+<event start="T113" end="T114">and </event>
+<event start="T114" end="T115">white, </event>
+<event start="T115" end="T116">with </event>
+<event start="T116" end="T117">a </event>
+<event start="T117" end="T118">strong </event>
+<event start="T118" end="T119">smell; </event>
+<event start="T119" end="T120">it </event>
+<event start="T120" end="T121">flowers </event>
+<event start="T121" end="T122">in </event>
+<event start="T122" end="T123">the </event>
+<event start="T123" end="T124">summer. </event>
+<event start="T124" end="T125">Some (</event>
+<event start="T125" end="T126">in </event>
+<event start="T126" end="T127">the </event>
+<event start="T127" end="T128">Mediterranean </event>
+<event start="T128" end="T129">parts) </event>
+<event start="T129" end="T130">call </event>
+<event start="T130" end="T131">a </event>
+<event start="T131" end="T132">slender-</event>
+<event start="T132" end="T133">branched </event>
+<event start="T133" end="T134">little </event>
+<event start="T134" end="T135">herb </event>
+<event start="T135" end="T136">with </event>
+<event start="T136" end="T137">a </event>
+<event start="T137" end="T138">single </event>
+<event start="T138" end="T139">stalk, </event>
+<event start="T139" end="T140">extremely </event>
+<event start="T140" end="T141">small, </event>
+<event start="T141" end="T142">abundant </event>
+<event start="T142" end="T143">with </event>
+<event start="T143" end="T144">flowers </event>
+<event start="T144" end="T145">of </event>
+<event start="T145" end="T146">a </event>
+<event start="T146" end="T147">tawny </event>
+<event start="T147" end="T148">yellow </event>
+<event start="T148" end="T149">colour, </event>
+<event start="T149" end="T150">Artemisia </event>
+<event start="T150" end="T151">monoclonos. </event>
+<event start="T151" end="T152">The </event>
+<event start="T152" end="T153">scent </event>
+<event start="T153" end="T154">of </event>
+<event start="T154" end="T155">this </event>
+<event start="T155" end="T156">is </event>
+<event start="T156" end="T157">sweeter </event>
+<event start="T157" end="T158">than </event>
+<event start="T158" end="T159">of </event>
+<event start="T159" end="T160">the </event>
+<event start="T160" end="T161">other. </event>
+<event start="T161" end="T162">They </event>
+<event start="T162" end="T163">both </event>
+<event start="T163" end="T164">warm </event>
+<event start="T164" end="T165">and </event>
+<event start="T165" end="T166">relieve. </event>
+<event start="T166" end="T167">Boiled, </event>
+<event start="T167" end="T168">they </event>
+<event start="T168" end="T169">are </event>
+<event start="T169" end="T170">good </event>
+<event start="T170" end="T171">put </event>
+<event start="T171" end="T172">into </event>
+<event start="T172" end="T173">womens' </event>
+<event start="T173" end="T174">baths </event>
+<event start="T174" end="T175">for </event>
+<event start="T175" end="T176">driving </event>
+<event start="T176" end="T177">out </event>
+<event start="T177" end="T178">the </event>
+<event start="T178" end="T179">menstrual </event>
+<event start="T179" end="T180">flow </event>
+<event start="T180" end="T181">and </event>
+<event start="T181" end="T182">afterbirth, </event>
+<event start="T182" end="T183">as </event>
+<event start="T183" end="T184">an </event>
+<event start="T184" end="T185">abortifacient, </event>
+<event start="T185" end="T186">for </event>
+<event start="T186" end="T187">the </event>
+<event start="T187" end="T188">closure </event>
+<event start="T188" end="T189">and </event>
+<event start="T189" end="T190">inflammation </event>
+<event start="T190" end="T191">of </event>
+<event start="T191" end="T192">the </event>
+<event start="T192" end="T193">womb, </event>
+<event start="T193" end="T194">the </event>
+<event start="T194" end="T195">breaking </event>
+<event start="T195" end="T196">of </event>
+<event start="T196" end="T197">stones [</event>
+<event start="T197" end="T198">urinary, </event>
+<event start="T198" end="T199">kidney], </event>
+<event start="T199" end="T200">and </event>
+<event start="T200" end="T201">stoppage </event>
+<event start="T201" end="T202">of </event>
+<event start="T202" end="T203">urine. </event>
+<event start="T203" end="T204">Much </event>
+<event start="T204" end="T205">of </event>
+<event start="T205" end="T206">the </event>
+<event start="T206" end="T207">herb </event>
+<event start="T207" end="T208">applied </event>
+<event start="T208" end="T209">to </event>
+<event start="T209" end="T210">the </event>
+<event start="T210" end="T211">lower </event>
+<event start="T211" end="T212">part </event>
+<event start="T212" end="T213">of </event>
+<event start="T213" end="T214">the </event>
+<event start="T214" end="T215">bowels </event>
+<event start="T215" end="T216">induces </event>
+<event start="T216" end="T217">the </event>
+<event start="T217" end="T218">menstrual </event>
+<event start="T218" end="T219">flow, </event>
+<event start="T219" end="T220">and </event>
+<event start="T220" end="T221">the </event>
+<event start="T221" end="T222">juice (</event>
+<event start="T222" end="T223">kneaded </event>
+<event start="T223" end="T224">together </event>
+<event start="T224" end="T225">with </event>
+<event start="T225" end="T226">myrrh [1-77, 1-73, 4-116] </event>
+<event start="T226" end="T227">and </event>
+<event start="T227" end="T228">applied) </event>
+<event start="T228" end="T229">draws </event>
+<event start="T229" end="T230">from </event>
+<event start="T230" end="T231">the </event>
+<event start="T231" end="T232">womb </event>
+<event start="T232" end="T233">as </event>
+<event start="T233" end="T234">many </event>
+<event start="T234" end="T235">things </event>
+<event start="T235" end="T236">as </event>
+<event start="T236" end="T237">does </event>
+<event start="T237" end="T238">bathing; </event>
+<event start="T238" end="T239">three </event>
+<event start="T239" end="T240">teaspoonfuls </event>
+<event start="T240" end="T241">of </event>
+<event start="T241" end="T242">the </event>
+<event start="T242" end="T243">filaments </event>
+<event start="T243" end="T244">is </event>
+<event start="T244" end="T245">given </event>
+<event start="T245" end="T246">in </event>
+<event start="T246" end="T247">drink </event>
+<event start="T247" end="T248">to </event>
+<event start="T248" end="T249">bring </event>
+<event start="T249" end="T250">out </event>
+<event start="T250" end="T251">the </event>
+<event start="T251" end="T252">same </event>
+<event start="T252" end="T253">things. </event>
+<event start="T253" end="T254">If </event>
+<event start="T254" end="T255">anyone </event>
+<event start="T255" end="T256">has </event>
+<event start="T256" end="T257">the </event>
+<event start="T257" end="T258">herb </event>
+<event start="T258" end="T259">artemisia </event>
+<event start="T259" end="T260">with </event>
+<event start="T260" end="T261">him </event>
+<event start="T261" end="T262">while </event>
+<event start="T262" end="T263">travelling </event>
+<event start="T263" end="T264">it </event>
+<event start="T264" end="T265">dissolves </event>
+<event start="T265" end="T266">weariness, </event>
+<event start="T266" end="T267">and </event>
+<event start="T267" end="T268">if </event>
+<event start="T268" end="T269">you </event>
+<event start="T269" end="T270">wear </event>
+<event start="T270" end="T271">it </event>
+<event start="T271" end="T272">on </event>
+<event start="T272" end="T273">your </event>
+<event start="T273" end="T274">feet </event>
+<event start="T274" end="T275">it </event>
+<event start="T275" end="T276">drives </event>
+<event start="T276" end="T277">away </event>
+<event start="T277" end="T278">venomous </event>
+<event start="T278" end="T279">beasts </event>
+<event start="T279" end="T280">and </event>
+<event start="T280" end="T281">devils. </event>
+<event start="T281" end="T282">After </event>
+<event start="T282" end="T283">blood </event>
+<event start="T283" end="T284">has </event>
+<event start="T284" end="T285">hardened </event>
+<event start="T285" end="T286">around </event>
+<event start="T286" end="T287">the </event>
+<event start="T287" end="T288">joints, </event>
+<event start="T288" end="T289">take </event>
+<event start="T289" end="T290">the </event>
+<event start="T290" end="T291">bigger </event>
+<event start="T291" end="T292">branches </event>
+<event start="T292" end="T293">with </event>
+<event start="T293" end="T294">rosaceum [1-53] </event>
+<event start="T294" end="T295">and (</event>
+<event start="T295" end="T296">having </event>
+<event start="T296" end="T297">boiled </event>
+<event start="T297" end="T298">them </event>
+<event start="T298" end="T299">in </event>
+<event start="T299" end="T300">a </event>
+<event start="T300" end="T301">pot) </event>
+<event start="T301" end="T302">rub </event>
+<event start="T302" end="T303">the </event>
+<event start="T303" end="T304">sick </event>
+<event start="T304" end="T305">man </event>
+<event start="T305" end="T306">all </event>
+<event start="T306" end="T307">over </event>
+<event start="T307" end="T308">with </event>
+<event start="T308" end="T309">this </event>
+<event start="T309" end="T310">as [</event>
+<event start="T310" end="T311">PAGE 513] </event>
+<event start="T311" end="T312">he </event>
+<event start="T312" end="T313">goes </event>
+<event start="T313" end="T314">to </event>
+<event start="T314" end="T315">sleep. </event>
+<event start="T315" end="T316">It </event>
+<event start="T316" end="T317">helps </event>
+<event start="T317" end="T318">womens' </event>
+<event start="T318" end="T319">womb </event>
+<event start="T319" end="T320">congestion </event>
+<event start="T320" end="T321">considerably, </event>
+<event start="T321" end="T322">and </event>
+<event start="T322" end="T323">soothes </event>
+<event start="T323" end="T324">slow </event>
+<event start="T324" end="T325">painful </event>
+<event start="T325" end="T326">urination </event>
+<event start="T326" end="T327">and </event>
+<event start="T327" end="T328">rupture </event>
+<event start="T328" end="T329">of </event>
+<event start="T329" end="T330">the </event>
+<event start="T330" end="T331">opisthotonum [</event>
+<event start="T331" end="T332">form </event>
+<event start="T332" end="T333">of </event>
+<event start="T333" end="T334">tetanus]. </event>
+<event start="T334" end="T335">It </event>
+<event start="T335" end="T336">is </event>
+<event start="T336" end="T337">also </event>
+<event start="T337" end="T338">called </event>
+<event start="T338" end="T339">toxetesia, </event>
+<event start="T339" end="T340">ephesia , </event>
+<event start="T340" end="T341">anactorios, </event>
+<event start="T341" end="T342">sozusa, </event>
+<event start="T342" end="T343">lea, </event>
+<event start="T343" end="T344">or </event>
+<event start="T344" end="T345">lycophrys; </event>
+<event start="T345" end="T346">the </event>
+<event start="T346" end="T347">Magi </event>
+<event start="T347" end="T348">call </event>
+<event start="T348" end="T349">it </event>
+<event start="T349" end="T350">sanguis </event>
+<event start="T350" end="T351">hominis, </event>
+<event start="T351" end="T352">it </event>
+<event start="T352" end="T353">is </event>
+<event start="T353" end="T354">also </event>
+<event start="T354" end="T355">called </event>
+<event start="T355" end="T356">chrysan </event>
+<event start="T356" end="T357">themon, </event>
+<event start="T357" end="T358">the </event>
+<event start="T358" end="T359">Romans </event>
+<event start="T359" end="T360">call </event>
+<event start="T360" end="T361">it </event>
+<event start="T361" end="T362">salentia, </event>
+<event start="T362" end="T363">some, </event>
+<event start="T363" end="T364">serpyllum, </event>
+<event start="T364" end="T365">others, </event>
+<event start="T365" end="T366">herba </event>
+<event start="T366" end="T367">regia , </event>
+<event start="T367" end="T368">rapium , </event>
+<event start="T368" end="T369">tertanageta, </event>
+<event start="T369" end="T370">or </event>
+<event start="T370" end="T371">artenisia , </event>
+<event start="T371" end="T372">the </event>
+<event start="T372" end="T373">Gauls </event>
+<event start="T373" end="T374">call </event>
+<event start="T374" end="T375">it </event>
+<event start="T375" end="T376">ponem, </event>
+<event start="T376" end="T377">and </event>
+<event start="T377" end="T378">the </event>
+<event start="T378" end="T379">Dacians, </event>
+<event start="T379" end="T380">zuoste. </event>
+</tier><tier id="TIE1" speaker="SPK0" category="sentence" type="a" display-name="AUT [sentence]"><event start="T68" end="T79">s</event>
+<event start="T79" end="T95">s</event>
+<event start="T95" end="T124">s</event>
+<event start="T124" end="T151">s</event>
+<event start="T151" end="T161">s</event>
+<event start="T161" end="T166">s</event>
+<event start="T166" end="T203">s</event>
+<event start="T203" end="T253">s</event>
+<event start="T253" end="T281">s</event>
+<event start="T281" end="T315">s</event>
+<event start="T315" end="T334">s</event>
+<event start="T334" end="T380">s</event>
+</tier></basic-body>
+</basic-transcription>

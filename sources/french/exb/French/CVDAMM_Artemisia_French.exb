@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
+<basic-transcription>
+<head>
+<meta-information><project-name>CVDAMM</project-name><transcription-name></transcription-name><referenced-file url=""/><ud-meta-information><ud-information attribute-name="scientific name">artemisia</ud-information><ud-information attribute-name="picture">yes</ud-information><ud-information attribute-name="commentary">yes</ud-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="SPK0">
+<abbreviation>AUT</abbreviation>
+<sex value="u"/>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information>
+</ud-speaker-information>
+<comment></comment>
+</speaker>
+</speakertable></head>
+<basic-body>
+<common-timeline>
+<tli id="T0"/>
+<tli id="T1"/>
+<tli id="T2"/>
+<tli id="T3"/>
+<tli id="T4"/>
+<tli id="T5"/>
+<tli id="T6"/>
+<tli id="T7"/>
+<tli id="T8"/>
+<tli id="T9"/>
+<tli id="T10"/>
+<tli id="T11"/>
+<tli id="T12"/>
+<tli id="T13"/>
+<tli id="T14"/>
+<tli id="T15"/>
+<tli id="T16"/>
+<tli id="T17"/>
+<tli id="T18"/>
+<tli id="T19"/>
+<tli id="T20"/>
+<tli id="T21"/>
+<tli id="T22"/>
+<tli id="T23"/>
+<tli id="T24"/>
+<tli id="T25"/>
+<tli id="T26"/>
+<tli id="T27"/>
+<tli id="T28"/>
+<tli id="T29"/>
+<tli id="T30"/>
+<tli id="T31"/>
+<tli id="T32"/>
+<tli id="T33"/>
+<tli id="T34"/>
+<tli id="T35"/>
+<tli id="T36"/>
+<tli id="T37"/>
+<tli id="T38"/>
+<tli id="T39"/>
+<tli id="T40"/>
+<tli id="T41"/>
+<tli id="T42"/>
+<tli id="T43"/>
+<tli id="T44"/>
+<tli id="T45"/>
+<tli id="T46"/>
+<tli id="T47"/>
+<tli id="T48"/>
+<tli id="T49"/>
+<tli id="T50"/>
+<tli id="T51"/>
+<tli id="T52"/>
+<tli id="T53"/>
+<tli id="T54"/>
+<tli id="T55"/>
+<tli id="T56"/>
+<tli id="T57"/>
+<tli id="T58"/>
+<tli id="T59"/>
+<tli id="T60"/>
+<tli id="T61"/>
+<tli id="T62"/>
+<tli id="T63"/>
+<tli id="T64"/>
+<tli id="T65"/>
+<tli id="T66"/>
+<tli id="T67"/>
+<tli id="T68"/>
+<tli id="T69"/>
+<tli id="T70"/>
+<tli id="T71"/>
+<tli id="T72"/>
+<tli id="T73"/>
+<tli id="T74"/>
+<tli id="T75"/>
+<tli id="T76"/>
+<tli id="T77"/>
+<tli id="T78"/>
+<tli id="T79"/>
+<tli id="T80"/>
+<tli id="T81"/>
+<tli id="T82"/>
+<tli id="T83"/>
+<tli id="T84"/>
+<tli id="T85"/>
+<tli id="T86"/>
+<tli id="T87"/>
+<tli id="T88"/>
+<tli id="T89"/>
+<tli id="T90"/>
+<tli id="T91"/>
+<tli id="T92"/>
+<tli id="T93"/>
+<tli id="T94"/>
+<tli id="T95"/>
+<tli id="T96"/>
+<tli id="T97"/>
+<tli id="T98"/>
+<tli id="T99"/>
+<tli id="T100"/>
+<tli id="T101"/>
+<tli id="T102"/>
+<tli id="T103"/>
+<tli id="T104"/>
+<tli id="T105"/>
+<tli id="T106"/>
+<tli id="T107"/>
+<tli id="T108"/>
+<tli id="T109"/>
+<tli id="T110"/>
+<tli id="T111"/>
+<tli id="T112"/>
+<tli id="T113"/>
+<tli id="T114"/>
+<tli id="T115"/>
+<tli id="T116"/>
+<tli id="T117"/>
+<tli id="T118"/>
+<tli id="T119"/>
+<tli id="T120"/>
+<tli id="T121"/>
+<tli id="T122"/>
+<tli id="T123"/>
+<tli id="T124"/>
+<tli id="T125"/>
+<tli id="T126"/>
+<tli id="T127"/>
+<tli id="T128"/>
+<tli id="T129"/>
+<tli id="T130"/>
+<tli id="T131"/>
+<tli id="T132"/>
+<tli id="T133"/>
+<tli id="T134"/>
+<tli id="T135"/>
+<tli id="T136"/>
+<tli id="T137"/>
+<tli id="T138"/>
+<tli id="T139"/>
+<tli id="T140"/>
+<tli id="T141"/>
+<tli id="T142"/>
+<tli id="T143"/>
+<tli id="T144"/>
+<tli id="T145"/>
+<tli id="T146"/>
+<tli id="T147"/>
+<tli id="T148"/>
+<tli id="T149"/>
+<tli id="T150"/>
+<tli id="T151"/>
+<tli id="T152"/>
+<tli id="T153"/>
+<tli id="T154"/>
+<tli id="T155"/>
+<tli id="T156"/>
+<tli id="T157"/>
+<tli id="T158"/>
+<tli id="T159"/>
+<tli id="T160"/>
+<tli id="T161"/>
+<tli id="T162"/>
+<tli id="T163"/>
+<tli id="T164"/>
+<tli id="T165"/>
+<tli id="T166"/>
+<tli id="T167"/>
+<tli id="T168"/>
+<tli id="T169"/>
+<tli id="T170"/>
+<tli id="T171"/>
+<tli id="T172"/>
+<tli id="T173"/>
+<tli id="T174"/>
+<tli id="T175"/>
+<tli id="T176"/>
+<tli id="T177"/>
+<tli id="T178"/>
+<tli id="T179"/>
+<tli id="T180"/>
+<tli id="T181"/>
+<tli id="T182"/>
+<tli id="T183"/>
+<tli id="T184"/>
+<tli id="T185"/>
+<tli id="T186"/>
+<tli id="T187"/>
+<tli id="T188"/>
+<tli id="T189"/>
+<tli id="T190"/>
+<tli id="T191"/>
+<tli id="T192"/>
+<tli id="T193"/>
+<tli id="T194"/>
+<tli id="T195"/>
+<tli id="T196"/>
+<tli id="T197"/>
+<tli id="T198"/>
+<tli id="T199"/>
+<tli id="T200"/>
+<tli id="T201"/>
+<tli id="T202"/>
+<tli id="T203"/>
+<tli id="T204"/>
+<tli id="T205"/>
+<tli id="T206"/>
+<tli id="T207"/>
+<tli id="T208"/>
+<tli id="T209"/>
+<tli id="T210"/>
+<tli id="T211"/>
+<tli id="T212"/>
+<tli id="T213"/>
+<tli id="T214"/>
+<tli id="T215"/>
+<tli id="T216"/>
+<tli id="T217"/>
+<tli id="T218"/>
+<tli id="T219"/>
+<tli id="T220"/>
+<tli id="T221"/>
+<tli id="T222"/>
+<tli id="T223"/>
+<tli id="T224"/>
+<tli id="T225"/>
+<tli id="T226"/>
+<tli id="T227"/>
+<tli id="T228"/>
+<tli id="T229"/>
+<tli id="T230"/>
+<tli id="T231"/>
+<tli id="T232"/>
+<tli id="T233"/>
+<tli id="T234"/>
+<tli id="T235"/>
+<tli id="T236"/>
+<tli id="T237"/>
+<tli id="T238"/>
+<tli id="T239"/>
+<tli id="T240"/>
+<tli id="T241"/>
+<tli id="T242"/>
+<tli id="T243"/>
+<tli id="T244"/>
+<tli id="T245"/>
+<tli id="T246"/>
+<tli id="T247"/>
+<tli id="T248"/>
+<tli id="T249"/>
+<tli id="T250"/>
+<tli id="T251"/>
+<tli id="T252"/>
+<tli id="T253"/>
+<tli id="T254"/>
+<tli id="T255"/>
+<tli id="T256"/>
+<tli id="T257"/>
+<tli id="T258"/>
+<tli id="T259"/>
+<tli id="T260"/>
+<tli id="T261"/>
+<tli id="T262"/>
+<tli id="T263"/>
+<tli id="T264"/>
+<tli id="T265"/>
+<tli id="T266"/>
+<tli id="T267"/>
+<tli id="T268"/>
+<tli id="T269"/>
+<tli id="T270"/>
+<tli id="T271"/>
+<tli id="T272"/>
+<tli id="T273"/>
+<tli id="T274"/>
+<tli id="T275"/>
+<tli id="T276"/>
+</common-timeline>
+<tier id="TIE0" speaker="SPK0" category="txt" type="t" display-name="TXT"><event start="T0" end="T1">De </event>
+<event start="T1" end="T2">l’</event>
+<event start="T2" end="T3">Armoise, </event>
+<event start="T3" end="T4">Que </event>
+<event start="T4" end="T5">les </event>
+<event start="T5" end="T6">Grecs, </event>
+<event start="T6" end="T7"><![CDATA[Latins, & ]]></event>
+<event start="T7" end="T8">Italiens </event>
+<event start="T8" end="T9">appellent, </event>
+<event start="T9" end="T10">Artemisia.</event>
+<event start="T10" end="T11">CHAP.  </event>
+<event start="T11" end="T12">CVIII.</event>
+<event start="T12" end="T13">L’</event>
+<event start="T13" end="T14">Armoiſe </event>
+<event start="T14" end="T15">naiſt </event>
+<event start="T15" end="T16">pour </event>
+<event start="T16" end="T17">la </event>
+<event start="T17" end="T18">plus </event>
+<event start="T18" end="T19">grãd </event>
+<event start="T19" end="T20">partie </event>
+<event start="T20" end="T21">ſur </event>
+<event start="T21" end="T22">la </event>
+<event start="T22" end="T23">marine </event>
+<event start="T23" end="T24">brãchue, </event>
+<event start="T24" end="T25">et </event>
+<event start="T25" end="T26">fueillue, </event>
+<event start="T26" end="T27">comme </event>
+<event start="T27" end="T28">eſt </event>
+<event start="T28" end="T29">l’</event>
+<event start="T29" end="T30">Aluyne, </event>
+<event start="T30" end="T31">mais </event>
+<event start="T31" end="T32">ſes </event>
+<event start="T32" end="T33">fueilles </event>
+<event start="T33" end="T34">ſont </event>
+<event start="T34" end="T35">plus </event>
+<event start="T35" end="T36"><![CDATA[grandes, & ]]></event>
+<event start="T36" end="T37">plus </event>
+<event start="T37" end="T38">graſſes. </event>
+<event start="T38" end="T39">Elle </event>
+<event start="T39" end="T40">eſt </event>
+<event start="T40" end="T41">de </event>
+<event start="T41" end="T42">deux </event>
+<event start="T42" end="T43">eſpeces. </event>
+<event start="T43" end="T44">L’</event>
+<event start="T44" end="T45">vne </event>
+<event start="T45" end="T46">eſt </event>
+<event start="T46" end="T47">plus </event>
+<event start="T47" end="T48"><![CDATA[belle, & ]]></event>
+<event start="T48" end="T49">plus </event>
+<event start="T49" end="T50">graſſe, </event>
+<event start="T50" end="T51">auec </event>
+<event start="T51" end="T52">fueilles </event>
+<event start="T52" end="T53">plus </event>
+<event start="T53" end="T54"><![CDATA[larges, & ]]></event>
+<event start="T54" end="T55">les </event>
+<event start="T55" end="T56">tiges </event>
+<event start="T56" end="T57">plus </event>
+<event start="T57" end="T58">groſſes: </event>
+<event start="T58" end="T59">L’</event>
+<event start="T59" end="T60">autre </event>
+<event start="T60" end="T61">eſt </event>
+<event start="T61" end="T62">plus </event>
+<event start="T62" end="T63"><![CDATA[ſubtile, & ]]></event>
+<event start="T63" end="T64">ha </event>
+<event start="T64" end="T65">la </event>
+<event start="T65" end="T66">fleur </event>
+<event start="T66" end="T67">blanche, </event>
+<event start="T67" end="T68">petite, </event>
+<event start="T68" end="T69"><![CDATA[menue, & ]]></event>
+<event start="T69" end="T70">de </event>
+<event start="T70" end="T71">facheuſe </event>
+<event start="T71" end="T72">odeur. </event>
+<event start="T72" end="T73">Elle </event>
+<event start="T73" end="T74">fleurit </event>
+<event start="T74" end="T75">l’</event>
+<event start="T75" end="T76">eſté. </event>
+<event start="T76" end="T77">Il </event>
+<event start="T77" end="T78">ya </event>
+<event start="T78" end="T79">ha </event>
+<event start="T79" end="T80">d’</event>
+<event start="T80" end="T81">aucũs </event>
+<event start="T81" end="T82">de </event>
+<event start="T82" end="T83">ceux </event>
+<event start="T83" end="T84">qui </event>
+<event start="T84" end="T85">habitent </event>
+<event start="T85" end="T86">au </event>
+<event start="T86" end="T87">pays </event>
+<event start="T87" end="T88">mediterrain, </event>
+<event start="T88" end="T89">qui </event>
+<event start="T89" end="T90">nomment </event>
+<event start="T90" end="T91">l’</event>
+<event start="T91" end="T92">Armoiſe </event>
+<event start="T92" end="T93">herbe </event>
+<event start="T93" end="T94">à </event>
+<event start="T94" end="T95">vne </event>
+<event start="T95" end="T96">tige </event>
+<event start="T96" end="T97">eſtant </event>
+<event start="T97" end="T98">vne </event>
+<event start="T98" end="T99">plante </event>
+<event start="T99" end="T100">ſubtile, </event>
+<event start="T100" end="T101">qui </event>
+<event start="T101" end="T102">produit </event>
+<event start="T102" end="T103">vne </event>
+<event start="T103" end="T104">ſeule </event>
+<event start="T104" end="T105">tige, </event>
+<event start="T105" end="T106">pleine </event>
+<event start="T106" end="T107">de </event>
+<event start="T107" end="T108">fleurs </event>
+<event start="T108" end="T109"><![CDATA[menues, & ]]></event>
+<event start="T109" end="T110">rouſſes </event>
+<event start="T110" end="T111">de </event>
+<event start="T111" end="T112">coleur. </event>
+<event start="T112" end="T113">Ceſte </event>
+<event start="T113" end="T114">Armoiſe </event>
+<event start="T114" end="T115">flaire </event>
+<event start="T115" end="T116">vn </event>
+<event start="T116" end="T117">odeur </event>
+<event start="T117" end="T118">plus </event>
+<event start="T118" end="T119">aggreable, </event>
+<event start="T119" end="T120">que </event>
+<event start="T120" end="T121">l’</event>
+<event start="T121" end="T122">autre.. </event>
+<event start="T122" end="T123">Toutes </event>
+<event start="T123" end="T124">deux </event>
+<event start="T124" end="T125"><![CDATA[échauffent, & ]]></event>
+<event start="T125" end="T126">deſſeichent. </event>
+<event start="T126" end="T127">Eſtans </event>
+<event start="T127" end="T128">bouillies </event>
+<event start="T128" end="T129">lon </event>
+<event start="T129" end="T130">les </event>
+<event start="T130" end="T131">met (</event>
+<event start="T131" end="T132">auec </event>
+<event start="T132" end="T133">vtilité) </event>
+<event start="T133" end="T134">dãs </event>
+<event start="T134" end="T135">les </event>
+<event start="T135" end="T136">bains </event>
+<event start="T136" end="T137">qui </event>
+<event start="T137" end="T138">ſe </event>
+<event start="T138" end="T139">font </event>
+<event start="T139" end="T140">pour </event>
+<event start="T140" end="T141">aſſeoir </event>
+<event start="T141" end="T142">dedans </event>
+<event start="T142" end="T143">les </event>
+<event start="T143" end="T144">femmes, </event>
+<event start="T144" end="T145">pour </event>
+<event start="T145" end="T146">prouoquer </event>
+<event start="T146" end="T147">le </event>
+<event start="T147" end="T148">flux </event>
+<event start="T148" end="T149">menſtrual, </event>
+<event start="T149" end="T150">le </event>
+<event start="T150" end="T151"><![CDATA[fruiƈt, & ]]></event>
+<event start="T151" end="T152">les </event>
+<event start="T152" end="T153"><![CDATA[fecondines, & ]]></event>
+<event start="T153" end="T154">pour </event>
+<event start="T154" end="T155">les </event>
+<event start="T155" end="T156"><![CDATA[inflammations, & ]]></event>
+<event start="T156" end="T157">oppilations </event>
+<event start="T157" end="T158">de </event>
+<event start="T158" end="T159">la </event>
+<event start="T159" end="T160">matrice. </event>
+<event start="T160" end="T161">Elle </event>
+<event start="T161" end="T162">rompent </event>
+<event start="T162" end="T163">les </event>
+<event start="T163" end="T164"><![CDATA[pierres, & ]]></event>
+<event start="T164" end="T165">prouoquent </event>
+<event start="T165" end="T166">l’</event>
+<event start="T166" end="T167">vrine </event>
+<event start="T167" end="T168">retenue. </event>
+<event start="T168" end="T169">Emplaſtrees </event>
+<event start="T169" end="T170">ſur </event>
+<event start="T170" end="T171">la </event>
+<event start="T171" end="T172">panetiere, </event>
+<event start="T172" end="T173">elles </event>
+<event start="T173" end="T174">prouoquent </event>
+<event start="T174" end="T175">le </event>
+<event start="T175" end="T176">flux </event>
+<event start="T176" end="T177">menſtrual. </event>
+<event start="T177" end="T178">Le </event>
+<event start="T178" end="T179">ſuc </event>
+<event start="T179" end="T180">mis </event>
+<event start="T180" end="T181">auec </event>
+<event start="T181" end="T182">Myrrhe </event>
+<event start="T182" end="T183">dans </event>
+<event start="T183" end="T184">la </event>
+<event start="T184" end="T185">nature </event>
+<event start="T185" end="T186">des </event>
+<event start="T186" end="T187">femmes, </event>
+<event start="T187" end="T188">tire </event>
+<event start="T188" end="T189">tout </event>
+<event start="T189" end="T190">ce, </event>
+<event start="T190" end="T191">que </event>
+<event start="T191" end="T192">tirent </event>
+<event start="T192" end="T193">les </event>
+<event start="T193" end="T194">baings </event>
+<event start="T194" end="T195">faiƈts </event>
+<event start="T195" end="T196">pour </event>
+<event start="T196" end="T197">s’</event>
+<event start="T197" end="T198">y </event>
+<event start="T198" end="T199">aſſeoir </event>
+<event start="T199" end="T200">dedãs. </event>
+<event start="T200" end="T201">Lon </event>
+<event start="T201" end="T202">boir </event>
+<event start="T202" end="T203">le </event>
+<event start="T203" end="T204">haut </event>
+<event start="T204" end="T205"><![CDATA[fueillage, & ]]></event>
+<event start="T205" end="T206">comme </event>
+<event start="T206" end="T207">cheueleure </event>
+<event start="T207" end="T208">de </event>
+<event start="T208" end="T209">l’</event>
+<event start="T209" end="T210">Armoiſe </event>
+<event start="T210" end="T211">au </event>
+<event start="T211" end="T212">poix </event>
+<event start="T212" end="T213">de </event>
+<event start="T213" end="T214">trois </event>
+<event start="T214" end="T215">drachmes </event>
+<event start="T215" end="T216">pour </event>
+<event start="T216" end="T217">toutes </event>
+<event start="T217" end="T218">les </event>
+<event start="T218" end="T219">choſes </event>
+<event start="T219" end="T220">ſuſdiƈtes.</event>
+<event start="T220" end="T221">L’</event>
+<event start="T221" end="T222">Armoiſe </event>
+<event start="T222" end="T223">à </event>
+<event start="T223" end="T224">fueilles </event>
+<event start="T224" end="T225">ſubtiles </event>
+<event start="T225" end="T226">naiſt </event>
+<event start="T226" end="T227">au </event>
+<event start="T227" end="T228">pres </event>
+<event start="T228" end="T229">des </event>
+<event start="T229" end="T230">canaux </event>
+<event start="T230" end="T231">des </event>
+<event start="T231" end="T232">eaues, </event>
+<event start="T232" end="T233">au </event>
+<event start="T233" end="T234">lõg </event>
+<event start="T234" end="T235">des </event>
+<event start="T235" end="T236"><![CDATA[hayes, & ]]></event>
+<event start="T236" end="T237">des </event>
+<event start="T237" end="T238">lieux </event>
+<event start="T238" end="T239">cultiués. </event>
+<event start="T239" end="T240">Les </event>
+<event start="T240" end="T241"><![CDATA[fueilles & ]]></event>
+<event start="T241" end="T242">les </event>
+<event start="T242" end="T243">fleurs </event>
+<event start="T243" end="T244">froiſſees </event>
+<event start="T244" end="T245">flairent </event>
+<event start="T245" end="T246">à </event>
+<event start="T246" end="T247">l’</event>
+<event start="T247" end="T248">odeur </event>
+<event start="T248" end="T249">de </event>
+<event start="T249" end="T250">la </event>
+<event start="T250" end="T251">Mariolaine. </event>
+<event start="T251" end="T252"><![CDATA[Broyee, & ]]></event>
+<event start="T252" end="T253">incorporee </event>
+<event start="T253" end="T254">auec </event>
+<event start="T254" end="T255">huile </event>
+<event start="T255" end="T256">d’</event>
+<event start="T256" end="T257"><![CDATA[Amandes, & ]]></event>
+<event start="T257" end="T258">miſe </event>
+<event start="T258" end="T259">ſur </event>
+<event start="T259" end="T260">l’</event>
+<event start="T260" end="T261">eſtomac, </event>
+<event start="T261" end="T262">elle </event>
+<event start="T262" end="T263">en </event>
+<event start="T263" end="T264">oſte </event>
+<event start="T264" end="T265">la </event>
+<event start="T265" end="T266">douleur. </event>
+<event start="T266" end="T267">Son </event>
+<event start="T267" end="T268">ſucoingt </event>
+<event start="T268" end="T269">auec </event>
+<event start="T269" end="T270">huylle </event>
+<event start="T270" end="T271">Roſat </event>
+<event start="T271" end="T272">vaut </event>
+<event start="T272" end="T273">aux </event>
+<event start="T273" end="T274">doleurs </event>
+<event start="T274" end="T275">des </event>
+<event start="T275" end="T276">nerfs.</event>
+</tier><tier id="TIE1" speaker="SPK0" category="norm" type="a" display-name="AUT [norm]"></tier><tier id="TIE2" speaker="SPK0" category="sentence" type="a" display-name="AUT [sentence]"><event start="T0" end="T10">s</event>
+<event start="T10" end="T12">s</event>
+<event start="T12" end="T38">s</event>
+<event start="T38" end="T43">s</event>
+<event start="T43" end="T58">s</event>
+<event start="T58" end="T72">s</event>
+<event start="T72" end="T76">s</event>
+<event start="T76" end="T112">s</event>
+<event start="T112" end="T122">s</event>
+<event start="T122" end="T126">s</event>
+<event start="T126" end="T160">s</event>
+<event start="T160" end="T168">s</event>
+<event start="T168" end="T177">s</event>
+<event start="T177" end="T200">s</event>
+<event start="T200" end="T220">s</event>
+<event start="T220" end="T239">s</event>
+<event start="T239" end="T251">s</event>
+<event start="T251" end="T266">s</event>
+<event start="T266" end="T276">s</event>
+</tier></basic-body>
+</basic-transcription>
