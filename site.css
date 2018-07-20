@@ -1,25 +1,32 @@
 body {
-    margin:auto;
-    width:50%;
+	margin: auto;
+	width: 50%;
+	background-color: #ffe9c4;
+	font-family: 'Libre Baskerville', serif;
 }
 
-h1, h2, h3 {
-    padding-bottom:20px;
-    text-align:center;
+h1,
+h2,
+h3 {
+	padding-bottom: 20px;
+	text-align: center;
 }
 
 h1 {
-    color:#159b11;
+	color: #159b11;
 }
 
 .wrapper {
-    border: 1px solid black;
+	border: 1px solid black;
 }
 
 p {
-    padding:10px;
+	padding: 10px;
 }
 
-table, tr, td, th {
-    border: 1px solid black;
+table,
+tr,
+td,
+th {
+	border: 1px solid #ccc;
 }
