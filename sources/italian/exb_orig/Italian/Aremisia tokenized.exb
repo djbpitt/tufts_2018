@@ -96,7 +96,86 @@
 <tli id="T66"/>
 <tli id="T67"/>
 </common-timeline>
-<tier id="TIE1" speaker="SPK0" category="norm" type="t" display-name="norm"><ud-tier-information><ud-information attribute-name="scientific name">Artemisia 2</ud-information><ud-information attribute-name="picture">yes</ud-information><ud-information attribute-name="commentary">yes</ud-information></ud-tier-information><event start="T0" end="T1">Dell ’</event>
+<tier id="TIE0" speaker="SPK0" category="dipl" type="t" display-name="dipl"><ud-tier-information><ud-information attribute-name="scientific name">Artemisia 2</ud-information><ud-information attribute-name="picture">yes</ud-information><ud-information attribute-name="commentary">yes</ud-information></ud-tier-information><event start="T0" end="T1">Dell ’</event>
+<event start="T1" end="T2">Artemisia </event>
+<event start="T2" end="T3">delle </event>
+<event start="T3" end="T4">fronti </event>
+<event start="T4" end="T69">sottili</event>
+<event start="T69" end="T5">. </event>
+<event start="T5" end="T68">Cap </event>
+<event start="T68" end="T6">. </event>
+<event start="T6" end="T7">CXXII </event>
+<event start="T7" end="T8">LA </event>
+<event start="T8" end="T9">ARTEMISIA </event>
+<event start="T9" end="T10">delle </event>
+<event start="T10" end="T11">frondi </event>
+<event start="T11" end="T12">sottili </event>
+<event start="T12" end="T13">nasce </event>
+<event start="T13" end="T14">appresso </event>
+<event start="T14" end="T15">ài </event>
+<event start="T15" end="T16">canali </event>
+<event start="T16" end="T17">dell ‘ </event>
+<event start="T17" end="T70">acque </event>
+<event start="T70" end="T18">, </event>
+<event start="T18" end="T19">lungo </event>
+<event start="T19" end="T20">le </event>
+<event start="T20" end="T72">siepi </event>
+<event start="T72" end="T71">, </event>
+<event start="T71" end="T21"><![CDATA[& ]]></event>
+<event start="T21" end="T22">in </event>
+<event start="T22" end="T23">luoghi </event>
+<event start="T23" end="T24">coltiuati . </event>
+<event start="T24" end="T25">Le </event>
+<event start="T25" end="T73">fronti </event>
+<event start="T73" end="T26">, </event>
+<event start="T26" end="T27">parimente </event>
+<event start="T27" end="T28">i </event>
+<event start="T28" end="T29">fiori </event>
+<event start="T29" end="T30">fregati </event>
+<event start="T30" end="T31">respirano </event>
+<event start="T31" end="T32">d ‘ </event>
+<event start="T32" end="T33">odore </event>
+<event start="T33" end="T34">di </event>
+<event start="T34" end="T74">maiorana</event>
+<event start="T74" end="T35">. </event>
+<event start="T35" end="T36">Tri</event>
+<event start="T36" end="T75">ta </event>
+<event start="T75" end="T37"><![CDATA[& ]]></event>
+<event start="T37" end="T38">incorporata </event>
+<event start="T38" end="T39">con </event>
+<event start="T39" end="T40">olio </event>
+<event start="T40" end="T41">di </event>
+<event start="T41" end="T77">mandorle </event>
+<event start="T77" end="T76">, </event>
+<event start="T76" end="T42"><![CDATA[& ]]></event>
+<event start="T42" end="T43">messa </event>
+<event start="T43" end="T44">in </event>
+<event start="T44" end="T45">su</event>
+<event start="T45" end="T46">lo </event>
+<event start="T46" end="T78">stomaco </event>
+<event start="T78" end="T47">, </event>
+<event start="T47" end="T48">ne </event>
+<event start="T48" end="T49">leva </event>
+<event start="T49" end="T50">il </event>
+<event start="T50" end="T51">dolore . </event>
+<event start="T51" end="T52">Il </event>
+<event start="T52" end="T53">suo </event>
+<event start="T53" end="T54">succo </event>
+<event start="T54" end="T55">un</event>
+<event start="T55" end="T56">to </event>
+<event start="T56" end="T57">con </event>
+<event start="T57" end="T58">olio </event>
+<event start="T58" end="T59">rosado </event>
+<event start="T59" end="T60">uale </event>
+<event start="T60" end="T61">à </event>
+<event start="T61" end="T62">i </event>
+<event start="T62" end="T63">dolori </event>
+<event start="T63" end="T64">de </event>
+<event start="T64" end="T79">nerui </event>
+<event start="T79" end="T65">. </event>
+<event start="T65" end="T66">       </event>
+<event start="T66" end="T67">        </event>
+</tier><tier id="TIE1" speaker="SPK0" category="norm" type="a" display-name="norm"><ud-tier-information><ud-information attribute-name="scientific name">Artemisia 2</ud-information><ud-information attribute-name="picture">yes</ud-information><ud-information attribute-name="commentary">yes</ud-information></ud-tier-information><event start="T0" end="T1">Dell ’</event>
 <event start="T1" end="T2">Artemisia </event>
 <event start="T2" end="T3">delle </event>
 <event start="T3" end="T4">fronti </event>
