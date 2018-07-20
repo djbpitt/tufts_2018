@@ -1,9 +1,10 @@
 //script written by Katy to attempt to highlight sentences based on the html class attribute
 
-/*  function highlightWords() {
+function highlightWords() {
 
+    
     // 0th step: clear existing highlighting
-    lis = document.getElementsByTagName("li");
+    /* var lis = document.getElementsByTagName("li");
     
     for (i = 0; i < lis.length; i++) {
         lis[i].style.backgroundColor=document.body.style.backgroundColor; // change this
@@ -12,7 +13,7 @@
     
     // first step: get the class of a moused over element (and highlight that element)
     // listen for mouseover on <li> 
-    //class = "class of this" // might be an array
+    //var class = "class of this" // might be an array
     
     // second step: find all other elements, in all other languages, that match that class
     //for (i = 0; i < class.length; i++) { 
@@ -22,12 +23,21 @@
             //same[j].style.backgroundColor='green';
      //   }
         
-   // }
+   // } */
 
-}*/
+}
+
+function toggle() {
+    console.log("Hello, World");
+}
 
 function init() {
-    alert("Hello, World!");
+    //add event listeners
+    var lis = document.getElementsByTagName("li");
+    
+    for (var i = 0; i < lis.length; i++) {
+        lis[i].addEventListener('mouseover', toggle(), false);
+    }   
     
 }
 
