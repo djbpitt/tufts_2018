@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
+<basic-transcription>
+<head>
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url=""/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="SPK0">
+<abbreviation>AUT</abbreviation>
+<sex value="u"/>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information>
+</ud-speaker-information>
+<comment></comment>
+</speaker>
+</speakertable></head>
+<basic-body>
+<common-timeline>
+<tli id="T0"/>
+<tli id="T1"/>
+<tli id="T2"/>
+<tli id="T3"/>
+<tli id="T4"/>
+<tli id="T5"/>
+<tli id="T6"/>
+<tli id="T7"/>
+<tli id="T8"/>
+<tli id="T9"/>
+<tli id="T10"/>
+<tli id="T11"/>
+<tli id="T12"/>
+<tli id="T13"/>
+<tli id="T14"/>
+<tli id="T15"/>
+<tli id="T16"/>
+<tli id="T17"/>
+<tli id="T18"/>
+<tli id="T19"/>
+<tli id="T20"/>
+<tli id="T21"/>
+<tli id="T22"/>
+<tli id="T23"/>
+<tli id="T24"/>
+<tli id="T25"/>
+<tli id="T26"/>
+<tli id="T27"/>
+<tli id="T28"/>
+<tli id="T29"/>
+<tli id="T30"/>
+<tli id="T31"/>
+<tli id="T32"/>
+<tli id="T33"/>
+<tli id="T34"/>
+<tli id="T35"/>
+<tli id="T36"/>
+<tli id="T37"/>
+<tli id="T38"/>
+<tli id="T39"/>
+<tli id="T40"/>
+<tli id="T41"/>
+<tli id="T42"/>
+<tli id="T43"/>
+<tli id="T44"/>
+<tli id="T45"/>
+<tli id="T46"/>
+<tli id="T47"/>
+<tli id="T48"/>
+<tli id="T49"/>
+<tli id="T50"/>
+<tli id="T51"/>
+<tli id="T52"/>
+<tli id="T53"/>
+<tli id="T54"/>
+</common-timeline>
+<tier id="TIE0" speaker="SPK0" category="txt" type="t" display-name="TXT"><event start="T0" end="T1">﻿</event>
+<event start="T1" end="T2">βότρυς· </event>
+<event start="T2" end="T3">πόα </event>
+<event start="T3" end="T4">ἐστὶν </event>
+<event start="T4" end="T5">ὅλη </event>
+<event start="T5" end="T6">μηλίνη, </event>
+<event start="T6" end="T7">θαμνοειδής, </event>
+<event start="T7" end="T8">διακεχυμένη, </event>
+<event start="T8" end="T9">πολλὰς </event>
+<event start="T9" end="T10">ἔχουσα </event>
+<event start="T10" end="T11">μασχάλας· </event>
+<event start="T11" end="T12">τὸ </event>
+<event start="T12" end="T13">δὲ </event>
+<event start="T13" end="T14">σπέρμα </event>
+<event start="T14" end="T15">ὅλοις </event>
+<event start="T15" end="T16">τοῖς </event>
+<event start="T16" end="T17">κλωνίοις </event>
+<event start="T17" end="T18">περιπέφυκε, </event>
+<event start="T18" end="T19">φύλλα </event>
+<event start="T19" end="T20">κιχορίῳ </event>
+<event start="T20" end="T21">ἐμφερῆ </event>
+<event start="T21" end="T22">καὶ </event>
+<event start="T22" end="T23">τὸ </event>
+<event start="T23" end="T24">σύμπαν </event>
+<event start="T24" end="T25">εὐῶδες </event>
+<event start="T25" end="T26">ἱκανῶς· </event>
+<event start="T26" end="T27">διὸ </event>
+<event start="T27" end="T28">καὶ </event>
+<event start="T28" end="T29">ἱματίοις </event>
+<event start="T29" end="T30">συντίθεται. </event>
+<event start="T30" end="T31">φύεται </event>
+<event start="T31" end="T32">δὲ </event>
+<event start="T32" end="T33">μάλιστα </event>
+<event start="T33" end="T34">περὶ </event>
+<event start="T34" end="T35">χαράδρας </event>
+<event start="T35" end="T36">καὶ </event>
+<event start="T36" end="T37">χειμάρρους.  </event>
+<event start="T37" end="T38">δύναμιν </event>
+<event start="T38" end="T39">δὲ </event>
+<event start="T39" end="T40">ἔχει </event>
+<event start="T40" end="T41">σὺν </event>
+<event start="T41" end="T42">οἴνῳ </event>
+<event start="T42" end="T43">πινομένη </event>
+<event start="T43" end="T44">ὀρθοπνοίας </event>
+<event start="T44" end="T45">παρηγορητικήν· </event>
+<event start="T45" end="T46">καὶ </event>
+<event start="T46" end="T47">τοῦτο </event>
+<event start="T47" end="T48">δὲ </event>
+<event start="T48" end="T49">Καππάδοκες </event>
+<event start="T49" end="T50">ἀμβροσίαν </event>
+<event start="T50" end="T51">καλοῦσι, </event>
+<event start="T51" end="T52">τινὲς </event>
+<event start="T52" end="T53">δὲ </event>
+<event start="T53" end="T54">ἀρτεμισίαν.</event>
+</tier></basic-body>
+</basic-transcription>
