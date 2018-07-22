@@ -1,0 +1,77 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <title>German: artemisia_vulgaris</title>
+      <style>
+					html {
+						line-height: 1.4;
+					}
+					dl,
+					ol {
+						border: 3px double #ededed;
+						margin: 1.4rem;
+						padding: 1.4rem;
+					}
+					dl {
+						line-height: 0.7
+					}
+					dt {
+						float: left;
+						clear: left;
+						width: 100px;
+						text-align: right;
+						font-weight: bold;
+						color: green;
+					}
+					dt::after {
+						content: ":";
+					}
+					dd {
+						margin: 0 0 0 110px;
+						padding: 0 0 0.5em 0;
+					}
+					
+					li {
+						margin: 0 2.8rem;
+					}
+					h1,
+					h2 {
+						margin: 0 1.4rem;
+					}
+					h1 {
+						margin-top: 2.8rem;
+					}
+					h2 {
+						margin-top: 1.4rem;
+					}
+				</style>
+   </head>
+   <body>
+      <h1>Artemisia vulgaris</h1>
+      <h2>Metadata</h2>
+      <dl>
+         <dt>Language: </dt>
+         <dd>German</dd>
+         <dt>picture</dt>
+         <dd>no</dd>
+         <dt>commentary</dt>
+         <dd>yes</dd>
+      </dl>
+      <h2>Transcription</h2>
+      <ol>
+         <li>Cap. 117 (127).</li>
+         <li>Περὶ Ἀρτεμισίας.</li>
+         <li>Beifuss.</li>
+         <li>Die Artemisia , es gibt eine vielzweigigie und eine einfache ( einstengelige )</li>
+         <li>[ Einige nennen sie Toxetesia , Andere Ephesia , Anaktorios , Sozusa , Leia , Lykophrys , die Propheten Menschenblut , Andere Chrysanthemon , die Römer Valentia , Serpyllum , Herba regia , Rapium , Tertanageta , die Gallier Ponem , die Dakier Zuste].</li>
+         <li>Die vielzweigige wächst meist in der Nähe des Meeres als strauchartige Pflanze , ähnlich dem Wermuth , is aber grösser und hat glänzendere Blätter.</li>
+         <li>Eine Art davon is üppig , hat breitere Blätter und Zweige , eine andere dünner , dabei kliene , weisse , zarte Blüthen mit durchdringendem Geruch.</li>
+         <li>Sie blüht im Sommer.</li>
+         <li>Einige nennen auch die im Binnenlande wachsende Pflanze mit dünnem und ein- fachem Stengel , dabei klein und voll von wachsfarbigen zarten Blüthen die einfache Artemisia ;</li>
+         <li>sie ist wohlriechender also die vorige.</li>
+         <li>Beide erwärmen und verdünnen.</li>
+         <li>Abgekocht sind sie ein gutes Mittel zu Sitzbädern für Frauen zum Beförderung der Katamenien , de Nachgeburt und des Embryos , ebenso auch gegen Verschluss und Entzündung der Gebärmutter , wie zum Zertrümmern des Steins und gegen Urinverhaltung.</li>
+         <li>Das Kraut , reichlich auf den Unterleib gelegt , treibt die Menstruation . Der ausgepresste Saft , mit Myrrhe gemischt und als Zäpfchen eingelegt , zieht aus der Gebärmutter Alles wie da Sitzbad.</li>
+         <li>Auch der Blüthenstand wird in der Menge von 3 Drachmen zur Wegschaffung desselben getrunken.</li>
+      </ol>
+   </body>
+</html>
