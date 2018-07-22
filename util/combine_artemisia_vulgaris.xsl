@@ -24,7 +24,7 @@
     <xsl:template name="xsl:initial-template">
         <html>
             <head>
-                <title>Artemisia Tenuifolia</title>
+                <title>Artemisia Vulgaris</title>
                 <script src="scripts.js">/**/</script>
                 <link rel="stylesheet" href="../site.css" type="text/css"/>
                 <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville"
@@ -32,7 +32,7 @@
             </head>
             <body class="flower">
 
-                <h1>Artemisia Tenuifolia</h1>
+                <h1>Artemisia Vulgaris</h1>
                 <div class="container">
                     <xsl:for-each select="1 to 4">
                         <xsl:variable name="current_file" as="document-node()"
