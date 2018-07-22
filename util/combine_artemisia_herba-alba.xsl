@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:djb="http://www.obdurodon.org"
     xmlns:math="http://www.w3.org/2005/xpath-functions/math" exclude-result-prefixes="#all"
     xpath-default-namespace="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml"
     version="3.0">
-    <xsl:output method="xml" indent="yes"/>
+    <xsl:output method="xml" indent="yes" omit-xml-declaration="yes"/>
+    <xsl:function name="djb:title_case" as="xs:string">
+        <xsl:param name="input" as="xs:string"/>
+        <xsl:value-of select="upper-case(substring($input, 1, 1)) || substring($input, 2)"/>
+    </xsl:function>
     <xsl:variable name="letters" as="xs:string+"
         select="
             for $i in string-to-codepoints('abcdef')
@@ -20,7 +24,7 @@
         <html>
             <head>
                 <title>Artemisia Tenuifolia</title>
-                <script src="scripts.js"/>
+                <script src="scripts.js">/**/</script>
                 <link rel="stylesheet" href="../site.css" type="text/css"/>
                 <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville"
                     rel="stylesheet"/>
@@ -35,7 +39,7 @@
                         <div class="cell item-{$letters[current()]}">
                             <h2>
                                 <xsl:value-of
-                                    select="tokenize(document-uri($current_file), '/')[position() eq last() - 1]"
+                                    select="djb:title_case(tokenize(document-uri($current_file), '/')[position() eq last() - 1])"
                                 />
                             </h2>
                             <xsl:copy-of select="$current_file//ol"/>
