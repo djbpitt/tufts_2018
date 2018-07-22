@@ -92,16 +92,16 @@ p {
 }
 table.images {
     border-collapse:collapse;
-    border: 20px solid white;
-}
+/*    border: 20px solid white;
+*/}
 
 table.list {
     margin: auto;
 }
 
-tr {
+/*tr {
     background-color: #FFFFFF;
-}
+}*/
 
 img {
     display: block;
