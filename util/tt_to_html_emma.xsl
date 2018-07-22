@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:djb="http://www.obdurodon.org" xmlns:math="http://www.w3.org/2005/xpath-functions/math" xmlns:functx="http://www.xsltfunctions.com" exclude-result-prefixes="#all" version="3.0" xmlns="http://www.w3.org/1999/xhtml">
+<xsl:stylesheet 
+	xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
+	xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+	xmlns:djb="http://www.obdurodon.org" 
+	xmlns:math="http://www.w3.org/2005/xpath-functions/math" 
+	xmlns:functx="http://www.xsltfunctions.com" exclude-result-prefixes="#all" version="3.0" xmlns="http://www.w3.org/1999/xhtml">
 	<xsl:output method="xml" indent="yes" omit-xml-declaration="yes"/>
 	<!--  -->
 	<!-- functions -->
@@ -14,6 +19,7 @@
 	</xsl:function>
 	<!--  -->
 	<!-- variables -->
+	
 	<xsl:variable name="header" as="xs:string" select="djb:tokenize-filename(document-uri(.))"/>
 	<xsl:variable name="plantName" as="xs:string" select="//@scientific-name"/>
 	<xsl:variable name="planName-norm" as="xs:string">
@@ -76,6 +82,7 @@
 				<h1>
 					<xsl:value-of select="$planName-norm"/>
 				</h1>
+				<h2>Metadata</h2>
 				<dl>
 					<dt>Language: </dt>
 					<dd>
@@ -83,13 +90,14 @@
 					</dd>
 					<xsl:apply-templates select="/meta/@*"/>
 				</dl>
+				<h2>Transcription</h2>
 				<ol>
-					<xsl:apply-templates select="//sentence"/>
+					<xsl:apply-templates select="//sentence|//sentences"/>
 				</ol>
 			</body>
 		</html>
 	</xsl:template>
-	<xsl:template match="sentence">
+	<xsl:template match="sentence|sentences">
 		<li>
 			<xsl:value-of select="replace(functx:trim(normalize-space(.)), '(.*)(\s)(\.)', '$1$3')"/>
 		</li>
@@ -103,4 +111,6 @@
 		</dd>
 	</xsl:template>
 	<xsl:template match="meta/@scientific-name"/>
+	<xsl:template match="meta/@abbreviation"/>
+	<xsl:template match="meta/@sex"/>
 </xsl:stylesheet>
