@@ -11,7 +11,7 @@
 <polygon fill="none" stroke="white" points="-4,4 -4,-328 354,-328 354,4 -4,4"/>
 <!-- German -->
 <g id="node1" class="node"><title>German</title>
-<ellipse fill="none" stroke="black" cx="40" cy="-18" rx="39.9464" ry="18"/>
+<ellipse fill="none" stroke="none" cx="40" cy="-18" rx="39.9464" ry="18"/>
 <text text-anchor="middle" x="40" y="-14.3" font-family="Times,serif" font-size="14.00">German</text>
 </g>
 <!-- Italian -->
