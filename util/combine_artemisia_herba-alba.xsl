@@ -5,27 +5,43 @@
     xpath-default-namespace="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml"
     version="3.0">
     <xsl:output method="xml" indent="yes"/>
-    <xsl:variable name="files_by_language" as="document-node()*">
+    <xsl:variable name="letters" as="xs:string+"
+        select="
+            for $i in string-to-codepoints('abcdef')
+            return
+                codepoints-to-string($i)"/>
+    <xsl:variable name="files_by_language" as="document-node()+">
         <xsl:sequence select="doc('../reading_views/latin/artemisia_herba-alba.html')"/>
         <xsl:sequence select="doc('../reading_views/italian/artemisia_herba-alba.html')"/>
         <xsl:sequence select="doc('../reading_views/german/artemisia_herba-alba.html')"/>
+        <xsl:sequence select="doc('../reading_views/english/artemisia_herba-alba.html')"/>
     </xsl:variable>
     <xsl:template name="xsl:initial-template">
         <html>
             <head>
-                <title>Artemisia herba alba</title>
+                <title>Artemisia Tenuifolia</title>
+                <script src="scripts.js"/>
+                <link rel="stylesheet" href="../site.css" type="text/css"/>
+                <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville"
+                    rel="stylesheet"/>
             </head>
-            <body>
-                <h1>Artemisia herba alba</h1>
-                <xsl:for-each select="$files_by_language">
-                    <div>
-                        <h2>
-                            <xsl:value-of
-                                select="tokenize(document-uri(), '/')[position() eq last() - 1]"/>
-                        </h2>
-                        <xsl:copy-of select=".//ol"/>
-                    </div>
-                </xsl:for-each>
+            <body class="flower">
+
+                <h1>Artemisia Tenuifolia</h1>
+                <div class="container">
+                    <xsl:for-each select="1 to 4">
+                        <xsl:variable name="current_file" as="document-node()"
+                            select="$files_by_language[current()]"/>
+                        <div class="cell item-{$letters[current()]}">
+                            <h2>
+                                <xsl:value-of
+                                    select="tokenize(document-uri($current_file), '/')[position() eq last() - 1]"
+                                />
+                            </h2>
+                            <xsl:copy-of select="$current_file//ol"/>
+                        </div>
+                    </xsl:for-each>
+                </div>
             </body>
         </html>
     </xsl:template>
