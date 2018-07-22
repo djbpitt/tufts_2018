@@ -30,6 +30,9 @@
                 <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville"
                     rel="stylesheet"/>
                 <style type="text/css">
+                    h1 {
+                        margin: 1em;
+                    }
                     .nav {
                         text-align: center;
                     }
