@@ -19,6 +19,7 @@
         <xsl:sequence select="doc('../reading_views/italian/artemisia_herba-alba.html')"/>
         <xsl:sequence select="doc('../reading_views/german/artemisia_herba-alba.html')"/>
         <xsl:sequence select="doc('../reading_views/english/artemisia_herba-alba.html')"/>
+        <xsl:sequence select="doc('../reading_views/french/artemisia_herba-alba.html')"/>
     </xsl:variable>
     <xsl:template name="xsl:initial-template">
         <html>
@@ -33,7 +34,7 @@
 
                 <h1>Artemisia Tenuifolia</h1>
                 <div class="container">
-                    <xsl:for-each select="1 to 4">
+                    <xsl:for-each select="1 to 5">
                         <xsl:variable name="current_file" as="document-node()"
                             select="$files_by_language[current()]"/>
                         <div class="cell item-{$letters[current()]}">
