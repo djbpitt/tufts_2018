@@ -1,0 +1,74 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <title>English: artemisia1_corr</title>
+      <style>
+					html {
+						line-height: 1.4;
+					}
+					dl,
+					ol {
+						border: 3px double #ededed;
+						margin: 1.4rem;
+						padding: 1.4rem;
+					}
+					dl {
+						line-height: 0.7
+					}
+					dt {
+						float: left;
+						clear: left;
+						width: 100px;
+						text-align: right;
+						font-weight: bold;
+						color: green;
+					}
+					dt::after {
+						content: ":";
+					}
+					dd {
+						margin: 0 0 0 110px;
+						padding: 0 0 0.5em 0;
+					}
+					
+					li {
+						margin: 0 2.8rem;
+					}
+					h1,
+					h2 {
+						margin: 0 1.4rem;
+					}
+					h1 {
+						margin-top: 2.8rem;
+					}
+					h2 {
+						margin-top: 1.4rem;
+					}
+				</style>
+   </head>
+   <body>
+      <h1>Artemisia vulgaris</h1>
+      <h2>Metadata</h2>
+      <dl>
+         <dt>Language: </dt>
+         <dd>English</dd>
+         <dt>picture</dt>
+         <dd>no</dd>
+         <dt>commentary</dt>
+         <dd>yes</dd>
+      </dl>
+      <h2>Transcription</h2>
+      <ol>
+         <li>It is a shrub- like herb similar to wormwood [3-26] but bigger, and with the leaves coarser.</li>
+         <li>There is one sort that is prosperous with broader leaves and stems, another smaller, the flowers little, thin and white, with a strong smell; it flowers in the summer.</li>
+         <li>Some ( in the Mediterranean parts) call a slender- branched little herb with a single stalk, extremely small, abundant with flowers of a tawny yellow colour, Artemisia monoclonos.</li>
+         <li>The scent of this is sweeter than of the other.</li>
+         <li>They both warm and relieve.</li>
+         <li>Boiled, they are good put into womens' baths for driving out the menstrual flow and afterbirth, as an abortifacient, for the closure and inflammation of the womb, the breaking of stones [ urinary, kidney], and stoppage of urine.</li>
+         <li>Much of the herb applied to the lower part of the bowels induces the menstrual flow, and the juice ( kneaded together with myrrh [1-77, 1-73, 4-116] and applied) draws from the womb as many things as does bathing; three teaspoonfuls of the filaments is given in drink to bring out the same things.</li>
+         <li>If anyone has the herb artemisia with him while travelling it dissolves weariness, and if you wear it on your feet it drives away venomous beasts and devils.</li>
+         <li>After blood has hardened around the joints, take the bigger branches with rosaceum [1-53] and ( having boiled them in a pot) rub the sick man all over with this as [ PAGE 513] he goes to sleep.</li>
+         <li>It helps womens' womb congestion considerably, and soothes slow painful urination and rupture of the opisthotonum [ form of tetanus].</li>
+         <li>It is also called toxetesia, ephesia , anactorios, sozusa, lea, or lycophrys; the Magi call it sanguis hominis, it is also called chrysan themon, the Romans call it salentia, some, serpyllum, others, herba regia , rapium , tertanageta, or artenisia , the Gauls call it ponem, and the Dacians, zuoste.</li>
+      </ol>
+   </body>
+</html>

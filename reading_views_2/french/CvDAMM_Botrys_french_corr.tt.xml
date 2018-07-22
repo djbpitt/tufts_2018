@@ -1,0 +1,71 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <title>French: CvDAMM_Botrys_french_corr</title>
+      <style>
+					html {
+						line-height: 1.4;
+					}
+					dl,
+					ol {
+						border: 3px double #ededed;
+						margin: 1.4rem;
+						padding: 1.4rem;
+					}
+					dl {
+						line-height: 0.7
+					}
+					dt {
+						float: left;
+						clear: left;
+						width: 100px;
+						text-align: right;
+						font-weight: bold;
+						color: green;
+					}
+					dt::after {
+						content: ":";
+					}
+					dd {
+						margin: 0 0 0 110px;
+						padding: 0 0 0.5em 0;
+					}
+					
+					li {
+						margin: 0 2.8rem;
+					}
+					h1,
+					h2 {
+						margin: 0 1.4rem;
+					}
+					h1 {
+						margin-top: 2.8rem;
+					}
+					h2 {
+						margin-top: 1.4rem;
+					}
+				</style>
+   </head>
+   <body>
+      <h1>Botrys</h1>
+      <h2>Metadata</h2>
+      <dl>
+         <dt>Language: </dt>
+         <dd>French</dd>
+         <dt>commentary</dt>
+         <dd>yes</dd>
+         <dt>picture</dt>
+         <dd>yes</dd>
+      </dl>
+      <h2>Transcription</h2>
+      <ol>
+         <li>Du Pymen, Que les Grecs &amp; Latins nomment, Botrys: les Italiens, Botry.</li>
+         <li>Chap. CX.</li>
+         <li>Le Pymen eſt vne herbe brãchue, toute iaunaſtre, &amp; eſparſe en plusieurs ailes.</li>
+         <li>Sa grene naiſt au tour de toutes ſes tiges, ſes fueilles ſont ſemblables à la Cichoree.</li>
+         <li>Toute l’ herbe reſpire d’ vne ſoueſue odeur, &amp; à ceſte occasion on la met entre les veſtemens.</li>
+         <li>Lon la troupe dans les rouages des fleuues, torrens, &amp; dans les vallees.</li>
+         <li>Beue, elle guerit les aſthmatiques.</li>
+         <li>Les Cappadociens appellent ceſte herbe Ambroſia, &amp; les autres, Artemiſia.</li>
+      </ol>
+   </body>
+</html>

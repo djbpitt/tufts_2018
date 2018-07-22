@@ -1,0 +1,70 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <title>German: ambrosia</title>
+      <style>
+					html {
+						line-height: 1.4;
+					}
+					dl,
+					ol {
+						border: 3px double #ededed;
+						margin: 1.4rem;
+						padding: 1.4rem;
+					}
+					dl {
+						line-height: 0.7
+					}
+					dt {
+						float: left;
+						clear: left;
+						width: 100px;
+						text-align: right;
+						font-weight: bold;
+						color: green;
+					}
+					dt::after {
+						content: ":";
+					}
+					dd {
+						margin: 0 0 0 110px;
+						padding: 0 0 0.5em 0;
+					}
+					
+					li {
+						margin: 0 2.8rem;
+					}
+					h1,
+					h2 {
+						margin: 0 1.4rem;
+					}
+					h1 {
+						margin-top: 2.8rem;
+					}
+					h2 {
+						margin-top: 1.4rem;
+					}
+				</style>
+   </head>
+   <body>
+      <h1>Ambrosia</h1>
+      <h2>Metadata</h2>
+      <dl>
+         <dt>Language: </dt>
+         <dd>German</dd>
+         <dt>commentary</dt>
+         <dd>yes</dd>
+         <dt>picture</dt>
+         <dd>no</dd>
+      </dl>
+      <h2>Transcription</h2>
+      <ol>
+         <li>Cap. 119 (129).</li>
+         <li>Περὶ Ἀμβροσίας.</li>
+         <li>Ambrosia --- Einige nennen sie Botrys, Andere Botrys Artemisia [ die Römer Caprum silvaticum , auch Apium rusticum die Aegypter Merseo ] ist ein kleiner vielzweigiger Strauch von drei Spannen Höhe ;</li>
+         <li>er hat am Grunde des Stengels kleine Blätter wie die Raute.</li>
+         <li>Die dünnen Zwige sind voll von kleinen Samen , ähnlich kleinen niemals blühenden Trauben , mit weinartigem Geruch.</li>
+         <li>Die Wurzel is zart , zwei Spannen lang . In Kappadokien wird sie in die Kränze geflochten.</li>
+         <li>Sie hat die Kraft , vordrΩuangene Säfte aufzuhalten und zurückzustossen , als Umschlag wirkt sie adstringirend.</li>
+      </ol>
+   </body>
+</html>
