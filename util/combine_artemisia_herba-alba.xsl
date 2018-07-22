@@ -29,10 +29,23 @@
                 <link rel="stylesheet" href="../site.css" type="text/css"/>
                 <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville"
                     rel="stylesheet"/>
+                <style type="text/css">
+                    .nav {
+                        text-align: center;
+                    }
+                    .nav a {
+                        display: inline !important;
+                    }</style>
             </head>
             <body class="flower">
-
                 <h1>Artemisia Tenuifolia</h1>
+                <hr/>
+                <div class="nav">
+                    <a href="../index.html">Main</a> | <a href="ambrosia.html">Ambrosia</a> | <a
+                        href="artemisia_vulgaris.html">Artemisia Vulgaris</a> | <a>Artemisia
+                        Tenuifolia</a> | <a href="botrys.html">Botrys</a>
+                </div>
+                <hr/>
                 <div class="container">
                     <xsl:for-each select="1 to 5">
                         <xsl:variable name="current_file" as="document-node()"
