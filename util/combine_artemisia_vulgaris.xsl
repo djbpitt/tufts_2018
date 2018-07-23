@@ -14,17 +14,23 @@
             for $i in string-to-codepoints('abcdef')
             return
                 codepoints-to-string($i)"/>
-    <xsl:variable name="files_by_language" as="document-node()+">
-        <xsl:sequence select="doc('../reading_views/latin/artemisia_vulgaris.html')"/>
-        <!--<xsl:sequence select="doc('../reading_views/italian/artemisia_vulgaris.html')"/>-->
-        <xsl:sequence select="doc('../reading_views/german/artemisia_vulgaris.html')"/>
-        <xsl:sequence select="doc('../reading_views/english/artemisia_vulgaris.html')"/>
-        <xsl:sequence select="doc('../reading_views/french/artemisia_vulgaris.html')"/>
-    </xsl:variable>
+	<xsl:variable name="files_by_language" as="document-node()+">
+		<xsl:sequence select="doc('../reading_views/latin/artemisia_vulgaris.html')"/>
+		<!--<xsl:sequence select="doc('../reading_views/italian/artemisia_vulgaris.html')"/>-->
+		<xsl:sequence select="doc('../reading_views/german/artemisia_vulgaris.html')"/>
+		<xsl:sequence select="doc('../reading_views/english/artemisia_vulgaris.html')"/>
+		<xsl:sequence select="doc('../reading_views/french/artemisia_vulgaris.html')"/>
+	</xsl:variable>
+  <!--  <xsl:variable name="mapping" as="document-node()" select="doc('mapping.html')"/>-->
+   
+   <!-- <xsl:variable name="table" select="$mapping//table[@data-plant eq $plant]"/>-->
+	<!--  -->
+	
+    
     <xsl:template name="xsl:initial-template">
         <html>
             <head>
-                <title>Artemisia Vulgaris</title>
+                <title>Ambrosia</title>
                 <script src="scripts.js">/**/</script>
                 <link rel="stylesheet" href="../site.css" type="text/css"/>
                 <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville"
@@ -41,24 +47,39 @@
                     }</style>
             </head>
             <body class="flower">
-                <h1>Artemisia Vulgaris</h1>
+                <h1>Ambrosia</h1>
                 <hr/>
                 <div class="nav">
-                    <a href="../index.html">Main</a> | <a href="ambrosia.html">Ambrosia</a> |
-                        <a>Artemisia Vulgaris</a> | <a href="artemisia_tenuifolia.html">Artemisia
-                        Tenuifolia</a> | <a href="botrys.html">Botrys</a>
+                    <a href="../index.html">Main</a> | <a>Ambrosia</a> | <a
+                        href="artemisia_vulgaris.html">Artemisia Vulgaris</a> | <a
+                        href="artemisia_tenuifolia.html">Artemisia Tenuifolia</a> | <a
+                        href="botrys.html">Botrys</a>
                 </div>
                 <hr/>
                 <div class="container">
-                    <xsl:for-each select="1 to 4">
-                        <xsl:variable name="current_file" as="document-node()"
-                            select="$files_by_language[current()]"/>
+                    <xsl:for-each select="1 to 5">
+                        <xsl:variable name="current_file" as="document-node()" select="$files_by_language[current()]"/>
+                    	<xsl:variable name="filename_parts" select="tokenize(document-uri($current_file), '/')"/>
+                    	<xsl:variable name="plant" select="substring-before($filename_parts[last()], '.html')"/>
+                    	<xsl:variable name="language" select="$filename_parts[position() eq last() - 1]"/>
+                    	<xsl:variable name="pdfs" as="document-node()" select="doc('pic_urls.html')"/>
+                    	<xsl:variable name="pdf_table" select="$pdfs//table[@data-plant eq $plant]"/>    
+                    	<xsl:variable name="pdf_language_column" as="xs:integer"
+                    		select="count($pdf_table/tr[1]/th[. eq $language]/preceding-sibling::th) + 1"/>
+                    	<xsl:variable name="pdf_url" as="xs:string" select="$pdfs//table[@data-plant eq 'ambrosia']//td[position() = $pdf_language_column]"/>
+                    	
+                    	
                         <div class="cell item-{$letters[current()]}">
                             <h2>
+                            	<a href="{$pdf_url}" target="popup" onclick="window.open('{$pdf_url}','popup','width=600,height=600'); return false;">
                                 <xsl:value-of
                                     select="djb:title_case(tokenize(document-uri($current_file), '/')[position() eq last() - 1])"
                                 />
+                            	</a>
                             </h2>
+                        	
+                        	<!--<p><a href="{$pdf_url}" target="_blank">page scan</a></p>-->
+                        	
                             <xsl:copy-of select="$current_file//ol"/>
                         </div>
                     </xsl:for-each>
