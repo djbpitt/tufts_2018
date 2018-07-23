@@ -118,14 +118,14 @@ td {
 .list td {
     text-align: left;
 }
-a {
+/*a {
     display: table;
     position: relative;
     height: 100%;
     width: 100%;
     text-decoration: none;
 }
-a:hover {
+*/a:hover {
     color: #159b11;
 }
 a:active {
