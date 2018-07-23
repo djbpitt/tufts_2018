@@ -21,10 +21,10 @@
             </head>
             <body>
                 <div class="nav">
-                    <a href="../index.html">Main</a> | <a href="../ambrosia.html">Ambrosia</a> | <a
-                        href="../artemisia_vulgaris.html">Artemisia Vulgaris</a> | <a
-                        href="../artemisia_tenuifolia.html">Artemisia Tenuifolia</a> | <a
-                        href="../botrys.html">Botrys</a>
+                    <a href="../index.html">Main</a> | <a href="../composite/ambrosia.html"
+                        >Ambrosia</a> | <a href="../composite/artemisia_vulgaris.html">Artemisia
+                        Vulgaris</a> | <a href="../composite/artemisia_tenuifolia.html">Artemisia
+                        Tenuifolia</a> | <a href="../composite/botrys.html">Botrys</a>
                 </div>
                 <h1>
                     <xsl:value-of select="$language || ' metadata'"/>
