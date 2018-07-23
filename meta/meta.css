@@ -2,7 +2,7 @@ tr,
 th,
 td {
     text-align: left;
-    font-size: 22px;
+    # font-size: 22px;
 }
 .nav {
     text-align: center;
