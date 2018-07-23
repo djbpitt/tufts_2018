@@ -1,156 +1,173 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
 <basic-transcription>
-<head>
-<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url=""/><ud-meta-information><ud-information attribute-name="scientific name">ambrosia</ud-information><ud-information attribute-name="picture">yes</ud-information><ud-information attribute-name="commentary">yes</ud-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable></speakertable></head>
-<basic-body>
-<common-timeline>
-<tli id="T0" time="0.0"/>
-<tli id="T1" time="1.0"/>
-<tli id="T2" time="2.0"/>
-<tli id="T3" time="3.0"/>
-<tli id="T4" time="4.0"/>
-<tli id="T5" time="5.0"/>
-<tli id="T6" time="6.0"/>
-<tli id="T7" time="7.0"/>
-<tli id="T8" time="8.0"/>
-<tli id="T9" time="9.0"/>
-<tli id="T10" time="10.0"/>
-<tli id="T11" time="11.0"/>
-<tli id="T12" time="12.0"/>
-<tli id="T13" time="13.0"/>
-<tli id="T14" time="14.0"/>
-<tli id="T15" time="15.0"/>
-<tli id="T16" time="16.0"/>
-<tli id="T17" time="17.0"/>
-<tli id="T18" time="18.0"/>
-<tli id="T19" time="19.0"/>
-<tli id="T20" time="20.0"/>
-<tli id="T21" time="21.0"/>
-<tli id="T22" time="22.0"/>
-<tli id="T23" time="23.0"/>
-<tli id="T24" time="24.0"/>
-<tli id="T25" time="25.0"/>
-<tli id="T26" time="26.0"/>
-<tli id="T27" time="27.0"/>
-<tli id="T28" time="28.0"/>
-<tli id="T29" time="29.0"/>
-<tli id="T30" time="30.0"/>
-<tli id="T31" time="31.0"/>
-<tli id="T32" time="32.0"/>
-<tli id="T33" time="33.0"/>
-<tli id="T34" time="34.0"/>
-<tli id="T35" time="35.0"/>
-<tli id="T36" time="36.0"/>
-<tli id="T37" time="37.0"/>
-<tli id="T38" time="38.0"/>
-<tli id="T39" time="39.0"/>
-<tli id="T40" time="40.0"/>
-<tli id="T41" time="41.0"/>
-<tli id="T42" time="42.0"/>
-<tli id="T43" time="43.0"/>
-<tli id="T44" time="44.0"/>
-<tli id="T45" time="45.0"/>
-<tli id="T46" time="46.0"/>
-<tli id="T47" time="47.0"/>
-<tli id="T48" time="48.0"/>
-<tli id="T49" time="49.0"/>
-<tli id="T50" time="50.0"/>
-<tli id="T51" time="51.0"/>
-<tli id="T52" time="52.0"/>
-<tli id="T53" time="53.0"/>
-<tli id="T54" time="54.0"/>
-<tli id="T55" time="55.0"/>
-<tli id="T56" time="56.0"/>
-<tli id="T57" time="57.0"/>
-<tli id="T58" time="58.0"/>
-<tli id="T59" time="59.0"/>
-<tli id="T60" time="60.0"/>
-<tli id="T61" time="61.0"/>
-<tli id="T62" time="62.0"/>
-<tli id="T63" time="63.0"/>
-<tli id="T64" time="64.0"/>
-<tli id="T65" time="65.0"/>
-<tli id="T66" time="66.0"/>
-<tli id="T67" time="67.0"/>
-<tli id="T68" time="68.0"/>
-<tli id="T69" time="69.0"/>
-</common-timeline>
-<tier id="TIE0" category="tok" type="t" display-name="[tok]"><event start="T0" end="T1">Ambrosia</event>
-<event start="T1" end="T2">.</event>
-<event start="T2" end="T3">Cap</event>
-<event start="T3" end="T4">.</event>
-<event start="T4" end="T5">CXII</event>
-<event start="T5" end="T6">.</event>
-<event start="T6" end="T7">Ambrosia</event>
-<event start="T7" end="T9">pusillus frutex</event>
-<event start="T9" end="T10">est</event>
-<event start="T10" end="T11">,</event>
-<event start="T11" end="T12">ramosus</event>
-<event start="T12" end="T13">,</event>
-<event start="T13" end="T14">trium</event>
-<event start="T14" end="T15">palmorum</event>
-<event start="T15" end="T16">altitudine</event>
-<event start="T16" end="T17">:</event>
-<event start="T17" end="T18">foliis</event>
-<event start="T18" end="T19">rutae</event>
-<event start="T19" end="T20">,</event>
-<event start="T20" end="T21">circa</event>
-<event start="T21" end="T22">imum</event>
-<event start="T22" end="T23">caulem</event>
-<event start="T23" end="T24">exiguis</event>
-<event start="T24" end="T25">:</event>
-<event start="T25" end="T26">cauliculi</event>
-<event start="T26" end="T27">seminibus</event>
-<event start="T27" end="T28">,</event>
-<event start="T28" end="T29">perinde</event>
-<event start="T29" end="T30">quasi</event>
-<event start="T30" end="T31">racemulis</event>
-<event start="T31" end="T32">grauidi</event>
-<event start="T32" end="T33">,</event>
-<event start="T33" end="T34">qui</event>
-<event start="T34" end="T35">numquam</event>
-<event start="T35" end="T36">florem</event>
-<event start="T36" end="T37">pariunt</event>
-<event start="T37" end="T38">,</event>
-<event start="T38" end="T39">odore</event>
-<event start="T39" end="T40">uinoso</event>
-<event start="T40" end="T41">,</event>
-<event start="T41" end="T42">suaui</event>
-<event start="T42" end="T43">:</event>
-<event start="T43" end="T44">radice</event>
-<event start="T44" end="T45">tenui</event>
-<event start="T45" end="T46">sesquipedali</event>
-<event start="T46" end="T47">.</event>
-<event start="T47" end="T48">Coronantur</event>
-<event start="T48" end="T49">ea</event>
-<event start="T49" end="T50">Capadoces</event>
-<event start="T50" end="T51">.</event>
-<event start="T51" end="T52">Uis</event>
-<event start="T52" end="T53">eius</event>
-<event start="T53" end="T54">reprimere</event>
-<event start="T54" end="T55">,</event>
-<event start="T55" end="T56">ac</event>
-<event start="T56" end="T57">repellere</event>
-<event start="T57" end="T58">,</event>
-<event start="T58" end="T59">et</event>
-<event start="T59" end="T60">illitu</event>
-<event start="T60" end="T61">adstringere</event>
-<event start="T61" end="T62">humores</event>
-<event start="T62" end="T63">,</event>
-<event start="T63" end="T64">qui</event>
-<event start="T64" end="T65">in</event>
-<event start="T65" end="T66">aliquam</event>
-<event start="T66" end="T67">partem</event>
-<event start="T67" end="T68">incumbunt</event>
-<event start="T68" end="T69">.</event>
-</tier><tier id="TIE1" category="sentence" type="a" display-name="[sentence]"><event start="T0" end="T2">s</event>
-<event start="T2" end="T6">s</event>
-<event start="T6" end="T17">s</event>
-<event start="T17" end="T25">s</event>
-<event start="T25" end="T43">s</event>
-<event start="T43" end="T47">s</event>
-<event start="T47" end="T51">s</event>
-<event start="T51" end="T69">s</event>
-</tier></basic-body>
+    <head>
+        <meta-information>
+            <project-name/>
+            <transcription-name/>
+            <referenced-file url=""/>
+            <ud-meta-information>
+                <ud-information attribute-name="scientific name">ambrosia</ud-information>
+                <ud-information attribute-name="picture">yes</ud-information>
+                <ud-information attribute-name="commentary">yes</ud-information>
+            </ud-meta-information>
+            <comment/>
+            <transcription-convention/>
+        </meta-information>
+        <speakertable/>
+    </head>
+    <basic-body>
+        <common-timeline>
+            <tli id="T0" time="0.0"/>
+            <tli id="T1" time="1.0"/>
+            <tli id="T2" time="2.0"/>
+            <tli id="T3" time="3.0"/>
+            <tli id="T4" time="4.0"/>
+            <tli id="T5" time="5.0"/>
+            <tli id="T6" time="6.0"/>
+            <tli id="T7" time="7.0"/>
+            <tli id="T8" time="8.0"/>
+            <tli id="T9" time="9.0"/>
+            <tli id="T10" time="10.0"/>
+            <tli id="T11" time="11.0"/>
+            <tli id="T12" time="12.0"/>
+            <tli id="T13" time="13.0"/>
+            <tli id="T14" time="14.0"/>
+            <tli id="T15" time="15.0"/>
+            <tli id="T16" time="16.0"/>
+            <tli id="T17" time="17.0"/>
+            <tli id="T18" time="18.0"/>
+            <tli id="T19" time="19.0"/>
+            <tli id="T20" time="20.0"/>
+            <tli id="T21" time="21.0"/>
+            <tli id="T22" time="22.0"/>
+            <tli id="T23" time="23.0"/>
+            <tli id="T24" time="24.0"/>
+            <tli id="T25" time="25.0"/>
+            <tli id="T26" time="26.0"/>
+            <tli id="T27" time="27.0"/>
+            <tli id="T28" time="28.0"/>
+            <tli id="T29" time="29.0"/>
+            <tli id="T30" time="30.0"/>
+            <tli id="T31" time="31.0"/>
+            <tli id="T32" time="32.0"/>
+            <tli id="T33" time="33.0"/>
+            <tli id="T34" time="34.0"/>
+            <tli id="T35" time="35.0"/>
+            <tli id="T36" time="36.0"/>
+            <tli id="T37" time="37.0"/>
+            <tli id="T38" time="38.0"/>
+            <tli id="T39" time="39.0"/>
+            <tli id="T40" time="40.0"/>
+            <tli id="T41" time="41.0"/>
+            <tli id="T42" time="42.0"/>
+            <tli id="T43" time="43.0"/>
+            <tli id="T44" time="44.0"/>
+            <tli id="T45" time="45.0"/>
+            <tli id="T46" time="46.0"/>
+            <tli id="T47" time="47.0"/>
+            <tli id="T48" time="48.0"/>
+            <tli id="T49" time="49.0"/>
+            <tli id="T50" time="50.0"/>
+            <tli id="T51" time="51.0"/>
+            <tli id="T52" time="52.0"/>
+            <tli id="T53" time="53.0"/>
+            <tli id="T54" time="54.0"/>
+            <tli id="T55" time="55.0"/>
+            <tli id="T56" time="56.0"/>
+            <tli id="T57" time="57.0"/>
+            <tli id="T58" time="58.0"/>
+            <tli id="T59" time="59.0"/>
+            <tli id="T60" time="60.0"/>
+            <tli id="T61" time="61.0"/>
+            <tli id="T62" time="62.0"/>
+            <tli id="T63" time="63.0"/>
+            <tli id="T64" time="64.0"/>
+            <tli id="T65" time="65.0"/>
+            <tli id="T66" time="66.0"/>
+            <tli id="T67" time="67.0"/>
+            <tli id="T68" time="68.0"/>
+            <tli id="T69" time="69.0"/>
+        </common-timeline>
+        <tier id="TIE0" category="tok" type="t" display-name="[tok]">
+            <event start="T0" end="T1">Ambrosia</event>
+            <event start="T1" end="T2">.</event>
+            <event start="T2" end="T3">Cap</event>
+            <event start="T3" end="T4">.</event>
+            <event start="T4" end="T5">CXII</event>
+            <event start="T5" end="T6">.</event>
+            <event start="T6" end="T7">Ambrosia</event>
+            <event start="T7" end="T9">pusillus frutex</event>
+            <event start="T9" end="T10">est</event>
+            <event start="T10" end="T11">,</event>
+            <event start="T11" end="T12">ramosus</event>
+            <event start="T12" end="T13">,</event>
+            <event start="T13" end="T14">trium</event>
+            <event start="T14" end="T15">palmorum</event>
+            <event start="T15" end="T16">altitudine</event>
+            <event start="T16" end="T17">:</event>
+            <event start="T17" end="T18">foliis</event>
+            <event start="T18" end="T19">rutae</event>
+            <event start="T19" end="T20">,</event>
+            <event start="T20" end="T21">circa</event>
+            <event start="T21" end="T22">imum</event>
+            <event start="T22" end="T23">caulem</event>
+            <event start="T23" end="T24">exiguis</event>
+            <event start="T24" end="T25">:</event>
+            <event start="T25" end="T26">cauliculi</event>
+            <event start="T26" end="T27">seminibus</event>
+            <event start="T27" end="T28">,</event>
+            <event start="T28" end="T29">perinde</event>
+            <event start="T29" end="T30">quasi</event>
+            <event start="T30" end="T31">racemulis</event>
+            <event start="T31" end="T32">grauidi</event>
+            <event start="T32" end="T33">,</event>
+            <event start="T33" end="T34">qui</event>
+            <event start="T34" end="T35">numquam</event>
+            <event start="T35" end="T36">florem</event>
+            <event start="T36" end="T37">pariunt</event>
+            <event start="T37" end="T38">,</event>
+            <event start="T38" end="T39">odore</event>
+            <event start="T39" end="T40">uinoso</event>
+            <event start="T40" end="T41">,</event>
+            <event start="T41" end="T42">suaui</event>
+            <event start="T42" end="T43">:</event>
+            <event start="T43" end="T44">radice</event>
+            <event start="T44" end="T45">tenui</event>
+            <event start="T45" end="T46">sesquipedali</event>
+            <event start="T46" end="T47">.</event>
+            <event start="T47" end="T48">Coronantur</event>
+            <event start="T48" end="T49">ea</event>
+            <event start="T49" end="T50">Capadoces</event>
+            <event start="T50" end="T51">.</event>
+            <event start="T51" end="T52">Uis</event>
+            <event start="T52" end="T53">eius</event>
+            <event start="T53" end="T54">reprimere</event>
+            <event start="T54" end="T55">,</event>
+            <event start="T55" end="T56">ac</event>
+            <event start="T56" end="T57">repellere</event>
+            <event start="T57" end="T58">,</event>
+            <event start="T58" end="T59">et</event>
+            <event start="T59" end="T60">illitu</event>
+            <event start="T60" end="T61">adstringere</event>
+            <event start="T61" end="T62">humores</event>
+            <event start="T62" end="T63">,</event>
+            <event start="T63" end="T64">qui</event>
+            <event start="T64" end="T65">in</event>
+            <event start="T65" end="T66">aliquam</event>
+            <event start="T66" end="T67">partem</event>
+            <event start="T67" end="T68">incumbunt</event>
+            <event start="T68" end="T69">.</event>
+        </tier>
+        <tier id="TIE1" category="sentence" type="a" display-name="[sentence]">
+            <event start="T0" end="T2">s</event>
+            <event start="T2" end="T6">s</event>
+            <event start="T6" end="T17">s</event>
+            <event start="T17" end="T25">s</event>
+            <event start="T25" end="T43">s</event>
+            <event start="T43" end="T47">s</event>
+            <event start="T47" end="T51">s</event>
+            <event start="T51" end="T69">s</event>
+        </tier>
+    </basic-body>
 </basic-transcription>

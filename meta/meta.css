@@ -1,7 +1,11 @@
 tr,
-th,
+th {
+    text-align: left;
+    font-size: 22px;
+}
 td {
     text-align: left;
+    font-size: 22px;
 }
 .nav {
     text-align: center;

@@ -27,32 +27,27 @@ function highlightWords() {
 }
 
 // display corpus and document meta-data when the language is moused-over
-function showMD() {
+/* function showMD() {
     
     // assumed document-level metadata is in the page source in a <div id="language_meta">
-    // set to style="display:none"
-    // extracted as one string from the attributes of .tt <meta> element
+    // also assumed that we make it look nice in some other script somewhere
     
     var lang = this.innerHTML;
-    console.log(lang);
-    var text = document.getElementById(lang + "_meta").innerHTML.trim();
-    var data = text.split(" ");
-    var newText = "";
+    var meta = document.getElementById(lang + "_meta");
+    meta.style.display = block;
     
-    // clean up text formatting of the metadata
-    for (var i = 0; i < data.length; i++) { 
-        data[i] = data[i].replace(' ', '\n');
-        data[i] = data[i].replace('"', '');
-        data[i] = data[i].replace('"', '');
-        data[i] = data[i].replace('=', ': ');  
-        newText += data[i];
-    }
-    
-    // display in a pop-up window
-    this.setAttribute("title", newText);
+    console.log("mouse in");
 }
 
 
+function hideMD() {
+    var lang = this.innerHTML;
+    var meta = document.getElementById(lang + "_meta");
+    meta.style.display = none;
+    console.log("mouse out");
+}
+
+*/
 function init() {
     //add event listeners
     var lis = document.getElementsByTagName("li");
@@ -67,6 +62,9 @@ function init() {
         h2s[i].addEventListener('mouseover', showMD, false);
     }   
     
+    for (var i = 0; i < h2s.length; i++) {
+        h2s[i].addEventListener('mouseout', hideMD, false);
+    }   
 }
 
 window.addEventListener('DOMContentLoaded', init, false);
