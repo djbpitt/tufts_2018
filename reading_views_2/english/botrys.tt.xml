@@ -1,0 +1,68 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <title>English: Botrys_corr</title>
+      <style>
+					html {
+						line-height: 1.4;
+					}
+					dl,
+					ol {
+						border: 3px double #ededed;
+						margin: 1.4rem;
+						padding: 1.4rem;
+					}
+					dl {
+						line-height: 0.7
+					}
+					dt {
+						float: left;
+						clear: left;
+						width: 100px;
+						text-align: right;
+						font-weight: bold;
+						color: green;
+					}
+					dt::after {
+						content: ":";
+					}
+					dd {
+						margin: 0 0 0 110px;
+						padding: 0 0 0.5em 0;
+					}
+					
+					li {
+						margin: 0 2.8rem;
+					}
+					h1,
+					h2 {
+						margin: 0 1.4rem;
+					}
+					h1 {
+						margin-top: 2.8rem;
+					}
+					h2 {
+						margin-top: 1.4rem;
+					}
+				</style>
+   </head>
+   <body>
+      <h1>Botrys</h1>
+      <h2>Metadata</h2>
+      <dl>
+         <dt>Language: </dt>
+         <dd>English</dd>
+         <dt>commentary</dt>
+         <dd>yes</dd>
+         <dt>picture</dt>
+         <dd>no</dd>
+      </dl>
+      <h2>Transcription</h2>
+      <ol>
+         <li>Botrus is a yellowish herb like a shrub, broad- spread, having many wings, and the seed grows around all the branches.</li>
+         <li>The many leaves are similar to chicory, and all of it has a wonderful sweet scent, and so it is also laid among cloths.</li>
+         <li>It grows especially near running waters and brooks.</li>
+         <li>A decoction ( with wine) is used as a drink to ease difficult breathing.</li>
+         <li>The Cappadocians call this ambrosia, and it is also called artemisa.</li>
+      </ol>
+   </body>
+</html>

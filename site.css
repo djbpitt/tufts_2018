@@ -1,40 +1,107 @@
 body {
-	margin: auto;
-	width: 50%;
-	background-color: #ffe9c4;
-	font-family: 'Libre Baskerville', serif;
+    margin: auto;
+    width: 80%;
+    background-color: #ffe9c4;
+    font-family: 'Libre Baskerville', Baskerville, 'Baskerville Old Face', 'Hoefler Text', Garamond, 'Times New Roman', serif;
+}
+
+body.flower {
+    margin: auto;
+    width: 80%;
+    background-color: #ffe9c4;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+    display: block;
+    overflow: auto;
+}
+
+.container {
+    display: grid;
+    border: 1px solid black;
+    grid-template-columns: [left-1] auto [left-2] auto [col-end];
+    grid-template-rows: [top-1] auto [top-2] auto [top-3] auto [row-end];
+}
+
+.cell {
+    border: 1px solid black;
+}
+
+.item-a {
+    grid-column-start: left-1;
+    grid-golumn-end: left-2;
+    grid-row-start: top-1;
+    grid-row-end: top-2;
+}
+
+.item-b {
+    grid-column-start: left-2;
+    grid-golumn-end: col-end;
+    grid-row-start: top-1;
+    grid-row-end: top-2;
+}
+
+.item-c {
+    grid-column-start: left-1;
+    grid-golumn-end: left-2;
+    grid-row-start: top-2;
+    grid-row-end: top-3;
+}
+
+.item-d {
+    grid-column-start: left-2;
+    grid-golumn-end: col-end;
+    grid-row-start: top-2;
+    grid-row-end: top-3;
+}
+
+.item-e {
+    grid-column-start: left-1;
+    grid-golumn-end: left-2;
+    grid-row-start: top-3;
+    grid-row-end: row-end;
+}
+
+.item-f {
+    grid-column-start: left-2;
+    grid-golumn-end: col-end;
+    grid-row-start: top-3;
+    grid-row-end: row-end;
 }
 
 h1,
 h2,
 h3 {
-	padding-bottom: 5px;
-	text-align: center;
+    padding-bottom: 5px;
+    text-align: center;
 }
 
 h1 {
-	color: #159b11;
+    color: #159b11;
 }
 
 .wrapper {
-	border: 1px solid black;
+    border: 1px solid black;
 }
 
 p {
-	padding: 10px;
+    padding: 10px;
 }
 table.images {
-    border-collapse:collapse;
-    border: 20px solid white;
+    border-collapse: collapse;
+    /*    border: 20px solid white;
+*/
 }
 
 table.list {
     margin: auto;
 }
 
-tr {
+/*tr {
     background-color: #FFFFFF;
-}
+}*/
 
 img {
     display: block;
@@ -66,6 +133,6 @@ a:active {
 }
 span {
     display: table-cell;
-    text-align:center;
+    text-align: center;
     vertical-align: middle;
 }

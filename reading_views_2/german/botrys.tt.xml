@@ -1,0 +1,73 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <title>German: botrys</title>
+      <style>
+					html {
+						line-height: 1.4;
+					}
+					dl,
+					ol {
+						border: 3px double #ededed;
+						margin: 1.4rem;
+						padding: 1.4rem;
+					}
+					dl {
+						line-height: 0.7
+					}
+					dt {
+						float: left;
+						clear: left;
+						width: 100px;
+						text-align: right;
+						font-weight: bold;
+						color: green;
+					}
+					dt::after {
+						content: ":";
+					}
+					dd {
+						margin: 0 0 0 110px;
+						padding: 0 0 0.5em 0;
+					}
+					
+					li {
+						margin: 0 2.8rem;
+					}
+					h1,
+					h2 {
+						margin: 0 1.4rem;
+					}
+					h1 {
+						margin-top: 2.8rem;
+					}
+					h2 {
+						margin-top: 1.4rem;
+					}
+				</style>
+   </head>
+   <body>
+      <h1>Botrys</h1>
+      <h2>Metadata</h2>
+      <dl>
+         <dt>Language: </dt>
+         <dd>German</dd>
+         <dt>picture</dt>
+         <dd>no</dd>
+         <dt>commentary</dt>
+         <dd>yes</dd>
+      </dl>
+      <h2>Transcription</h2>
+      <ol>
+         <li>Cap. 120 (130).</li>
+         <li>Περὶ Βότρυος.</li>
+         <li>Traubenkraut.</li>
+         <li>Botrys ist die ganze honiggelbe , strauchartig ausgebreitete Pflanze mit vielen achselständigen Zweigen.</li>
+         <li>Der Sam wächst um die ganzen Zweige herum.</li>
+         <li>Die Blätter sind denen der Cichorie ähnlich.</li>
+         <li>Die Pflanze ist im Ganzen wohlriechend , darum wird sie auch zwischen die Kleider gelegt.</li>
+         <li>Sie wächst am meisten an Rinnsalen und Bergströmen.</li>
+         <li>Mit Wein genommen hat sie di Kraft , die Orthopnöe zu bessern.</li>
+         <li>Die Kappadokier nennen diese auch Ambrosia , Einige auch Artemisia.</li>
+      </ol>
+   </body>
+</html>

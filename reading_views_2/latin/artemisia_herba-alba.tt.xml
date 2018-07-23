@@ -1,0 +1,71 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <title>Latin: artemisia_herba-alba</title>
+      <style>
+					html {
+						line-height: 1.4;
+					}
+					dl,
+					ol {
+						border: 3px double #ededed;
+						margin: 1.4rem;
+						padding: 1.4rem;
+					}
+					dl {
+						line-height: 0.7
+					}
+					dt {
+						float: left;
+						clear: left;
+						width: 100px;
+						text-align: right;
+						font-weight: bold;
+						color: green;
+					}
+					dt::after {
+						content: ":";
+					}
+					dd {
+						margin: 0 0 0 110px;
+						padding: 0 0 0.5em 0;
+					}
+					
+					li {
+						margin: 0 2.8rem;
+					}
+					h1,
+					h2 {
+						margin: 0 1.4rem;
+					}
+					h1 {
+						margin-top: 2.8rem;
+					}
+					h2 {
+						margin-top: 1.4rem;
+					}
+				</style>
+   </head>
+   <body>
+      <h1>Artemisia herba-alba</h1>
+      <h2>Metadata</h2>
+      <dl>
+         <dt>Language: </dt>
+         <dd>Latin</dd>
+         <dt>picture</dt>
+         <dd>no</dd>
+         <dt>commentary</dt>
+         <dd>yes</dd>
+         <dt>comment</dt>
+         <dd>A single commentary appears to belong to both artemisia vulgaris and artemisia herba-alba.</dd>
+      </dl>
+      <h2>Transcription</h2>
+      <ol>
+         <li>Artemisia tenuifolia.</li>
+         <li>Cap . CXI.</li>
+         <li>Artemisia tenuifolia in sepibus , et cultis iuxta aquarum ductus nascitur.</li>
+         <li>Eius flores , et folia contrita sampsuchi odorem reddunt.</li>
+         <li>Si quis stomacho laborans , herbam cum amygdalino oleo bene contundat in malagmatis lentorem , et stomacho imponat , sanitati restituetur.</li>
+         <li>Qui neruorum quoque dolore cruciatur , si succum eius cum oleo rosaceo miscens illinat , sanatur.</li>
+      </ol>
+   </body>
+</html>

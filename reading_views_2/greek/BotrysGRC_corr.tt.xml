@@ -1,0 +1,58 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <title>Greek: BotrysGRC_corr</title>
+      <style>
+					html {
+						line-height: 1.4;
+					}
+					dl,
+					ol {
+						border: 3px double #ededed;
+						margin: 1.4rem;
+						padding: 1.4rem;
+					}
+					dl {
+						line-height: 0.7
+					}
+					dt {
+						float: left;
+						clear: left;
+						width: 100px;
+						text-align: right;
+						font-weight: bold;
+						color: green;
+					}
+					dt::after {
+						content: ":";
+					}
+					dd {
+						margin: 0 0 0 110px;
+						padding: 0 0 0.5em 0;
+					}
+					
+					li {
+						margin: 0 2.8rem;
+					}
+					h1,
+					h2 {
+						margin: 0 1.4rem;
+					}
+					h1 {
+						margin-top: 2.8rem;
+					}
+					h2 {
+						margin-top: 1.4rem;
+					}
+				</style>
+   </head>
+   <body>
+      <h1>Botrys</h1>
+      <h2>Metadata</h2>
+      <dl>
+         <dt>Language: </dt>
+         <dd>Greek</dd>
+      </dl>
+      <h2>Transcription</h2>
+      <ol/>
+   </body>
+</html>

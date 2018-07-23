@@ -1,0 +1,82 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <title>French: CVDAMM_Artemisia_French_corr</title>
+      <style>
+					html {
+						line-height: 1.4;
+					}
+					dl,
+					ol {
+						border: 3px double #ededed;
+						margin: 1.4rem;
+						padding: 1.4rem;
+					}
+					dl {
+						line-height: 0.7
+					}
+					dt {
+						float: left;
+						clear: left;
+						width: 100px;
+						text-align: right;
+						font-weight: bold;
+						color: green;
+					}
+					dt::after {
+						content: ":";
+					}
+					dd {
+						margin: 0 0 0 110px;
+						padding: 0 0 0.5em 0;
+					}
+					
+					li {
+						margin: 0 2.8rem;
+					}
+					h1,
+					h2 {
+						margin: 0 1.4rem;
+					}
+					h1 {
+						margin-top: 2.8rem;
+					}
+					h2 {
+						margin-top: 1.4rem;
+					}
+				</style>
+   </head>
+   <body>
+      <h1>Artemisia</h1>
+      <h2>Metadata</h2>
+      <dl>
+         <dt>Language: </dt>
+         <dd>French</dd>
+         <dt>commentary</dt>
+         <dd>yes</dd>
+         <dt>picture</dt>
+         <dd>yes</dd>
+      </dl>
+      <h2>Transcription</h2>
+      <ol>
+         <li>De l’ Armoise, Que les Grecs, Latins, &amp; Italiens appellent, Artemisia.</li>
+         <li>CHAP. CVIII.</li>
+         <li>L’ Armoiſe naiſt pour la plus grãd partie ſur la marine brãchue, et fueillue, comme eſt l’ Aluyne, mais ſes fueilles ſont plus grandes, &amp; plus graſſes.</li>
+         <li>Elle eſt de deux eſpeces.</li>
+         <li>L’ vne eſt plus belle, &amp; plus graſſe, auec fueilles plus larges, &amp; les tiges plus groſſes:</li>
+         <li>L’ autre eſt plus ſubtile, &amp; ha la fleur blanche, petite, menue, &amp; de facheuſe odeur.</li>
+         <li>Elle fleurit l’ eſté.</li>
+         <li>Il ya ha d’ aucũs de ceux qui habitent au pays mediterrain, qui nomment l’ Armoiſe herbe à vne tige eſtant vne plante ſubtile, qui produit vne ſeule tige, pleine de fleurs menues, &amp; rouſſes de coleur.</li>
+         <li>Ceſte Armoiſe flaire vn odeur plus aggreable, que l’ autre..</li>
+         <li>Toutes deux échauffent, &amp; deſſeichent.</li>
+         <li>Eſtans bouillies lon les met ( auec vtilité) dãs les bains qui ſe font pour aſſeoir dedans les femmes, pour prouoquer le flux menſtrual, le fruiƈt, &amp; les fecondines, &amp; pour les inflammations, &amp; oppilations de la matrice.</li>
+         <li>Elle rompent les pierres, &amp; prouoquent l’ vrine retenue.</li>
+         <li>Emplaſtrees ſur la panetiere, elles prouoquent le flux menſtrual.</li>
+         <li>Le ſuc mis auec Myrrhe dans la nature des femmes, tire tout ce, que tirent les baings faiƈts pour s’ y aſſeoir dedãs.</li>
+         <li>Lon boir le haut fueillage, &amp; comme cheueleure de l’ Armoiſe au poix de trois drachmes pour toutes les choſes ſuſdiƈtes.</li>
+         <li>L’ Armoiſe à fueilles ſubtiles naiſt au pres des canaux des eaues, au lõg des hayes, &amp; des lieux cultiués.</li>
+         <li>Les fueilles &amp; les fleurs froiſſees flairent à l’ odeur de la Mariolaine.</li>
+         <li>Broyee, &amp; incorporee auec huile d’ Amandes, &amp; miſe ſur l’ eſtomac, elle en oſte la douleur.</li>
+         <li>Son ſucoingt auec huylle Roſat vaut aux doleurs des nerfs.</li>
+      </ol>
+   </body>
+</html>

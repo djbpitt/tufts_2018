@@ -1,0 +1,72 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <title>Italian: ambrosia_corr</title>
+      <style>
+					html {
+						line-height: 1.4;
+					}
+					dl,
+					ol {
+						border: 3px double #ededed;
+						margin: 1.4rem;
+						padding: 1.4rem;
+					}
+					dl {
+						line-height: 0.7
+					}
+					dt {
+						float: left;
+						clear: left;
+						width: 100px;
+						text-align: right;
+						font-weight: bold;
+						color: green;
+					}
+					dt::after {
+						content: ":";
+					}
+					dd {
+						margin: 0 0 0 110px;
+						padding: 0 0 0.5em 0;
+					}
+					
+					li {
+						margin: 0 2.8rem;
+					}
+					h1,
+					h2 {
+						margin: 0 1.4rem;
+					}
+					h1 {
+						margin-top: 2.8rem;
+					}
+					h2 {
+						margin-top: 1.4rem;
+					}
+				</style>
+   </head>
+   <body>
+      <h1>Ambrosia</h1>
+      <h2>Metadata</h2>
+      <dl>
+         <dt>Language: </dt>
+         <dd>Italian</dd>
+         <dt>Commentary</dt>
+         <dd>Yes</dd>
+         <dt>Picture</dt>
+         <dd>Yes</dd>
+         <dt>transcriptionConvention</dt>
+         <dd>semi-diplomatic</dd>
+      </dl>
+      <h2>Transcription</h2>
+      <ol>
+         <li>Dell' Ambrosia</li>
+         <li>. Cap. CXXIII.</li>
+         <li>La Ambrosia.</li>
+         <li>è una picciola pianta , ramosa , alta quasi tre spanne.</li>
+         <li>Ha al piede de i fusti le fródi sue piccioline simili à quelle della ruta.</li>
+         <li>Sono i fuoi fusticelli gravidi di seme , quasi , simi li à ben pieni racemi , chemai non fioriscono, d' odore di vino , et soave . La sua radice è fottile , lunga un piede , &amp; mezo.</li>
+         <li>In Cappadocia s' usa per far ghirlande . Ha virtù di ripercuotere , di mitigare , et ristringere , impiastrata, gli humori, che scendo nelle membra , et vi ritengono.</li>
+      </ol>
+   </body>
+</html>

@@ -1,103 +1,131 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" dir="ltr">
     <head>
-        <meta charset="utf-8">
+        <meta charset="utf-8" />
         <title>Multilingual Botany</title>
-<link rel="stylesheet" href="site.css">
-<link href="https://fonts.googleapis.com/css?family=Libre+Baskerville" rel="stylesheet">
-</style>
+        <link rel="stylesheet" type="text/css" href="site.css" />
+        <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville" rel="stylesheet" />
+        <style type="text/css">
+            h2 {
+                color: #159b11;
+            }
+            .images {
+                display: flex;
+                flex-direction: row;
+            }
+            .images div {
+                text-align: center;
+                height: 50%;
+            }
+            .images img {
+                width: 70%;
+            }
+            #lower {
+                margin-top: 2em;
+                display: flex;
+                flex-direction: row;
+                justify-content: space-evenly;
+                # align-items: center;
+            }</style>
     </head>
 
     <body>
-<h1>Multilingual Botany</h1>
-
-<p>
-    <table class='images'>
-        <tr>
-            <td>
-                <a href="artemisia.html"><img src="wireframes/Armoise_grande_600.jpg" width="50%" height="50%"></a>
-            </td>
-            <td>
-                <a href="artemisiatenuifolia.html"><img src="wireframes/Armoise_petite_600.jpg" width="50%" height="50%"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="artemisia.html">Artemisia</a>
-            </td>
-            <td>
-                <a href="artemisiatenuifolia.html">Artemisia Tenuifolia</a>
-            </td>
-        </tr>
-
-        <tr>
-            <td>
-                <a href="ambrosia.html"><img src="wireframes/Herbe_a_vin_600.jpg" width="50%" height="50%"></a>
-
-            </td>
-            <td>
-                <a href="botrys.html"><img src="wireframes/Botrys_600.jpg" width="50%" height="50%"></a>
-
-            </td>
-
-            <tr>
-                <td>
-                    <a href="ambrosia.html">Ambrosia</a>
-                </td>
-                <td>
-                    <a href="botrys.html">Botrys</a>
-                </td>
-            </tr>
-
-
-        </tr>
-    </table>
-</p>
-
-<h2>Graphic Visualizations</h2>
-<p><a href="">Click here!</a></p>
-
-<h2>Historical Edition Images</h2>
-<p>
-    <table class='list'>
-    <tr>
-        <th>Language</th>
-        <th>Edition</th>
-    </tr>
-    <tr>
-        <td>Greek 1</td>
-        <td><a href="sources/greek/greek_kuhn.pdf" target="_blank">ed. by K. G. Kühn (Leipzig 1829, p. 463)</a></td>
-    <tr>
-        <td>Greek 2</td>
-        <td><a href="sources/greek/greek_wellman.pdf" target="_blank">ed. by M. Wellmann (vol. 2, Berlin 1906, p. 125)</a></td>
-    </tr>
-    </tr>
-    <tr>
-        <td>Latin</td>
-        <td><a href="sources/latin/latin_mattioli.pdf" target="_blank">ed. by P. A. Mattioli (Venice 1560, p. 445)</a></td>
-    </tr>
-    <tr>
-        <td>English</td>
-        <td><a href="sources/english/english_osbaldeston.pdf" target="_blank">ed. by T. A. Osbaldeston (Johannesburg 2000, p. 513)</a></td>
-    </tr>
-    <tr>
-        <td>French</td>
-        <td><a href="sources/french/french_arnoullet.pdf" target="_blank">ed. by B. Arnoullet (Lyon 1553, p. 223)</a></td>
-    </tr>
-    <tr>
-        <td>German</td>
-        <td><a href="sources/german/german_berendes.pdf" target="_blank">ed. by J. Berendes (Stuttgart 1902, p. 339)</a></td>
-    </tr>
-    <tr>
-        <td>Italian</td>
-        <td><a href="sources/italian/italian_mattioli.pdf" target="_blank">ed. by P. A. Mattioli (vol. 1, Venice 1585, p. 896)</a></td>
-    </tr>
-</table>
-</p>
-
-<h2>Relationship of Translations</h2>
-
-<img src='stemma/stemma.svg'></img>
-
+        <h1>Multilingual Botany</h1>
+        <div class="images">
+            <div>
+                <a href="composite/artemisia_vulgaris.html">
+                    <img src="wireframes/Armoise_grande_600.png" />
+                </a>
+                <br />
+                <a href="composite/artemisia_vulgaris.html">Artemisia Vulgaris</a>
+            </div>
+            <div>
+                <a href="composite/artemisia_tenuifolia.html">
+                    <img src="wireframes/Armoise_petite_600.png" />
+                </a>
+                <br />
+                <a href="composite/artemisia_tenuifolia.html">Artemisia Tenuifolia</a>
+            </div>
+            <div>
+                <a href="composite/ambrosia.html">
+                    <img src="wireframes/Herbe_a_vin_600.png" />
+                </a>
+                <br />
+                <a href="composite/ambrosia.html">Ambrosia</a>
+            </div>
+            <div>
+                <a href="composite/botrys.html">
+                    <img src="wireframes/Botrys_600.png" />
+                </a>
+                <br />
+                <a href="composite/botrys.html">Botrys</a>
+            </div>
+        </div>
+        <!--<h2>Graphic Visualizations</h2>
+        <p><a href="">Click here!</a></p>-->
+        <section id="lower">
+            <section id="stemma">
+                <h2>Relationship of Translations</h2>
+                <img src="stemma/stemma.svg" />
+            </section>
+            <section id="editions">
+                <h2>Historical Edition Images</h2>
+                <table class="list">
+                    <tr>
+                        <th>Language</th>
+                        <th>Edition</th>
+                    </tr>
+                    <tr>
+                        <td>Greek 1</td>
+                        <td>
+                            <a href="sources/greek/greek_kuhn.pdf" target="_blank">ed. by K. G. Kühn
+                                (Leipzig 1829, p. 463)</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Greek 2</td>
+                        <td>
+                            <a href="sources/greek/greek_wellman.pdf" target="_blank">ed. by M.
+                                Wellmann (vol. 2, Berlin 1906, p. 125)</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Latin</td>
+                        <td>
+                            <a href="sources/latin/latin_mattioli.pdf" target="_blank">ed. by P. A.
+                                Mattioli (Venice 1560, p. 445)</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>English</td>
+                        <td>
+                            <a href="sources/english/english_osbaldeston.pdf" target="_blank">ed. by
+                                T. A. Osbaldeston (Johannesburg 2000, p. 513)</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>French</td>
+                        <td>
+                            <a href="sources/french/french_arnoullet.pdf" target="_blank">ed. by B.
+                                Arnoullet (Lyon 1553, p. 223)</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>German</td>
+                        <td>
+                            <a href="sources/german/german_berendes.pdf" target="_blank">ed. by J.
+                                Berendes (Stuttgart 1902, p. 339)</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Italian</td>
+                        <td>
+                            <a href="sources/italian/italian_mattioli.pdf" target="_blank">ed. by P.
+                                A. Mattioli (vol. 1, Venice 1585, p. 896)</a>
+                        </td>
+                    </tr>
+                </table>
+            </section>
+        </section>
     </body>
 </html>
