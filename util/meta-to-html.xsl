@@ -41,7 +41,16 @@
                 <xsl:value-of select="djb:title_case(name())"/>
             </th>
             <td>
-                <xsl:value-of select="."/>
+                <xsl:choose>
+                    <xsl:when test="name() = ('source', 'annis')">
+                        <a href="{.}">
+                            <xsl:value-of select="."/>
+                        </a>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:value-of select="."/>
+                    </xsl:otherwise>
+                </xsl:choose>
             </td>
         </tr>
     </xsl:template>
