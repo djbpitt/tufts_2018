@@ -15,8 +15,8 @@
             <head>
                 <title>
                     <xsl:value-of select="$language"/>
-                    <link rel="stylesheet" type="text/css" href="../site.css"/>
                 </title>
+                <link rel="stylesheet" type="text/css" href="../site.css"/>
             </head>
             <body>
                 <h1>
