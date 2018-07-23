@@ -30,7 +30,7 @@
     <xsl:template name="xsl:initial-template">
         <html>
             <head>
-                <title>Ambrosia</title>
+                <title>Artemisia vulgaris</title>
                 <script src="scripts.js">/**/</script>
                 <link rel="stylesheet" href="../site.css" type="text/css"/>
                 <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville"
@@ -47,7 +47,7 @@
                     }</style>
             </head>
             <body class="flower">
-                <h1>Ambrosia</h1>
+            	<h1>Artemisia vulgaris</h1>
                 <hr/>
                 <div class="nav">
                     <a href="../index.html">Main</a> | <a>Ambrosia</a> | <a
@@ -57,7 +57,7 @@
                 </div>
                 <hr/>
                 <div class="container">
-                    <xsl:for-each select="1 to 5">
+                    <xsl:for-each select="1 to 4">
                         <xsl:variable name="current_file" as="document-node()" select="$files_by_language[current()]"/>
                     	<xsl:variable name="filename_parts" select="tokenize(document-uri($current_file), '/')"/>
                     	<xsl:variable name="plant" select="substring-before($filename_parts[last()], '.html')"/>
@@ -66,7 +66,7 @@
                     	<xsl:variable name="pdf_table" select="$pdfs//table[@data-plant eq $plant]"/>    
                     	<xsl:variable name="pdf_language_column" as="xs:integer"
                     		select="count($pdf_table/tr[1]/th[. eq $language]/preceding-sibling::th) + 1"/>
-                    	<xsl:variable name="pdf_url" as="xs:string" select="$pdfs//table[@data-plant eq 'ambrosia']//td[position() = $pdf_language_column]"/>
+                    	<xsl:variable name="pdf_url" as="xs:string" select="$pdfs//table[@data-plant eq $plant]//td[position() = $pdf_language_column]"/>
                     	
                     	
                         <div class="cell item-{$letters[current()]}">
