@@ -21,17 +21,11 @@
         <xsl:sequence select="doc('../reading_views/english/ambrosia.html')"/>
         <xsl:sequence select="doc('../reading_views/french/ambrosia.html')"/>
     </xsl:variable>
-    <xsl:variable name="mapping" as="document-node()" select="doc('mapping.html')"/>
-    <xsl:variable name="filename_parts" select="tokenize(document-uri(), '/')"/>
-    <xsl:variable name="plant" select="substring-before($filename_parts[last()], '.tt')"/>
-    <xsl:variable name="language" select="$filename_parts[position() eq last() - 1]"/>
-    <xsl:variable name="table" select="$mapping//table[@data-plant eq $plant]"/>
-    <xsl:variable name="pdfs" as="document-node()" select="doc('pic_urls.html')"/>
-    <xsl:variable name="pdf_table" select="$pdfs//table[@data-plant eq $plant]"/>    
-    <xsl:variable name="pdf_language_column" as="xs:integer"
-        select="count($table/tr[1]/th[. eq $language]/preceding-sibling::th) + 1"/>
-    <xsl:variable name="pdf_url" as="xs:string" select="$pdfs//table[position() eq $pdf_language_column]"/>
-     
+  <!--  <xsl:variable name="mapping" as="document-node()" select="doc('mapping.html')"/>-->
+   
+   <!-- <xsl:variable name="table" select="$mapping//table[@data-plant eq $plant]"/>-->
+	<!--  -->
+	
     
     <xsl:template name="xsl:initial-template">
         <html>
@@ -64,15 +58,28 @@
                 <hr/>
                 <div class="container">
                     <xsl:for-each select="1 to 5">
-                        <xsl:variable name="current_file" as="document-node()"
-                            select="$files_by_language[current()]"/>
+                        <xsl:variable name="current_file" as="document-node()" select="$files_by_language[current()]"/>
+                    	<xsl:variable name="filename_parts" select="tokenize(document-uri($current_file), '/')"/>
+                    	<xsl:variable name="plant" select="substring-before($filename_parts[last()], '.html')"/>
+                    	<xsl:variable name="language" select="$filename_parts[position() eq last() - 1]"/>
+                    	<xsl:variable name="pdfs" as="document-node()" select="doc('pic_urls.html')"/>
+                    	<xsl:variable name="pdf_table" select="$pdfs//table[@data-plant eq $plant]"/>    
+                    	<xsl:variable name="pdf_language_column" as="xs:integer"
+                    		select="count($pdf_table/tr[1]/th[. eq $language]/preceding-sibling::th) + 1"/>
+                    	<xsl:variable name="pdf_url" as="xs:string" select="$pdfs//table[@data-plant eq $plant]//td[position() = $pdf_language_column]"/>
+                    	
+                    	
                         <div class="cell item-{$letters[current()]}">
                             <h2>
+                            	<a href="{$pdf_url}" target="popup" onclick="window.open('{$pdf_url}','popup','width=600,height=600'); return false;">
                                 <xsl:value-of
                                     select="djb:title_case(tokenize(document-uri($current_file), '/')[position() eq last() - 1])"
                                 />
-                                <p><a href="{$pdf_url}" target="_blank">page scan</a></p>
+                            	</a>
                             </h2>
+                        	
+                        	<!--<p><a href="{$pdf_url}" target="_blank">page scan</a></p>-->
+                        	
                             <xsl:copy-of select="$current_file//ol"/>
                         </div>
                     </xsl:for-each>

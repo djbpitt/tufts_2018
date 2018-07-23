@@ -27,27 +27,50 @@ function highlightWords() {
 }
 
 // display corpus and document meta-data when the language is moused-over
-/* function showMD() {
+function showMD(event) {
+    //http://answers.oreilly.com/topic/1823-adding-a-page-overlay-in-javascript/
+    /*
+     * id: unique id that can be used to close one popup while leaving others open
+     * text: plain text body of popup
+     */
+    var popupId = this.dataset.id;
+    if (document.getElementById(popupId)) {
+        // delete exisiting pop up with a second click
+        document.body.removeChild(document.getElementById(popupId));
+        return; 
+    } 
+    var definition = this.dataset.definition;
+    // text processing to make it pretty
+    var table = "<table>";
     
-    // assumed document-level metadata is in the page source in a <div id="language_meta">
-    // also assumed that we make it look nice in some other script somewhere
+    var attrs = definition.split(" ");
+    for (var i = 0; i < attrs.length; i++) {
+        var h = attrs[i].split("=")[0];
+        h = h.replace("-", " ");
+        var d = attrs[i].split("=")[1];
+        table += "<tr><th>" + h + "</th><td>" + d + "</td></tr>";     
+    }
     
-    var lang = this.innerHTML;
-    var meta = document.getElementById(lang + "_meta");
-    meta.style.display = block;
+    table += "</table>";
     
-    console.log("mouse in");
+    var overlay = document.createElement("div");
+    var XMousePos = event.clientX;
+    var Ypos = event.clientY + window.pageYOffset;
+    var windowWidth = window.innerWidth;
+    if (windowWidth - XMousePos > 300) {
+        var Xpos = XMousePos
+    } else {
+        var Xpos = windowWidth - 310
+    };
+    overlay.setAttribute("id", popupId);
+    overlay.setAttribute("style", "z-index: 10; background-color: white; position: absolute; left: " + Xpos + "px; top: " + Ypos + "px; border: 2px solid black; width: 300px; padding: 2px; margin: 0;")
+    overlay.setAttribute("onclick", "document.body.removeChild(document.getElementById('" + popupId + "'))");
+    overlay.setAttribute("class", "overlay");
+    overlay.innerHTML = "<div>" + table + "</div>";
+    document.body.appendChild(overlay);
 }
 
 
-function hideMD() {
-    var lang = this.innerHTML;
-    var meta = document.getElementById(lang + "_meta");
-    meta.style.display = none;
-    console.log("mouse out");
-}
-
-*/
 function init() {
     //add event listeners
     var lis = document.getElementsByTagName("li");
@@ -56,15 +79,12 @@ function init() {
         lis[i].addEventListener('mouseover', highlightWords, false);
     }   
     
-    var h2s = document.getElementsByTagName("h2");
+    var spans = document.getElementsByTagName("span");
     
-    for (var i = 0; i < h2s.length; i++) {
-        h2s[i].addEventListener('mouseover', showMD, false);
+    for (var i = 0; i < spans.length; i++) {
+        spans[i].addEventListener('click', showMD, false);
     }   
     
-    for (var i = 0; i < h2s.length; i++) {
-        h2s[i].addEventListener('mouseout', hideMD, false);
-    }   
 }
 
 window.addEventListener('DOMContentLoaded', init, false);

@@ -1,0 +1,5 @@
+﻿italian: https://korpling.org/annis3/#_q=c2VudGVuY2UK&_c=TkVIZXJic19JdGFsaWFuX3YxLjA&cl=0&cr=0&s=0&l=30 
+german: https://korpling.org/annis3/#_q=c2VudGVuY2UK&_c=S1VITF92MS4w&cl=0&cr=0&s=0&l=30
+english: https://korpling.org/annis3/#_q=c2VudGVuY2UK&_c=aWRrb3JwdXNfdjEuMA&cl=5&cr=5&s=0&l=30
+latin: https://korpling.org/annis3/#_q=c2VudGVuY2UK&_c=aWRrb3JwdXNfdjEuMA&cl=5&cr=5&s=0&l=30 
+french: https://korpling.org/annis3/#_q=c2VudGVuY2UK&_c=Q1ZEQU1NX3YxLjA&cl=5&cr=5&s=0&l=30
