@@ -71,7 +71,7 @@
                                 <xsl:value-of
                                     select="djb:title_case(tokenize(document-uri($current_file), '/')[position() eq last() - 1])"
                                 />
-                                <p><a href="{$pdf_url}">page scan</a></p>
+                                <p><a href="{$pdf_url}" target="_blank">page scan</a></p>
                             </h2>
                             <xsl:copy-of select="$current_file//ol"/>
                         </div>
