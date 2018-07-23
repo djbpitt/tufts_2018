@@ -21,6 +21,18 @@
         <xsl:sequence select="doc('../reading_views/english/ambrosia.html')"/>
         <xsl:sequence select="doc('../reading_views/french/ambrosia.html')"/>
     </xsl:variable>
+    <xsl:variable name="mapping" as="document-node()" select="doc('mapping.html')"/>
+    <xsl:variable name="filename_parts" select="tokenize(document-uri(), '/')"/>
+    <xsl:variable name="plant" select="substring-before($filename_parts[last()], '.tt')"/>
+    <xsl:variable name="language" select="$filename_parts[position() eq last() - 1]"/>
+    <xsl:variable name="table" select="$mapping//table[@data-plant eq $plant]"/>
+    <xsl:variable name="pdfs" as="document-node()" select="doc('pic_urls.html')"/>
+    <xsl:variable name="pdf_table" select="$pdfs//table[@data-plant eq $plant]"/>    
+    <xsl:variable name="pdf_language_column" as="xs:integer"
+        select="count($table/tr[1]/th[. eq $language]/preceding-sibling::th) + 1"/>
+    <xsl:variable name="pdf_url" as="xs:string" select="$pdfs//table[position() eq $pdf_language_column]"/>
+     
+    
     <xsl:template name="xsl:initial-template">
         <html>
             <head>
@@ -59,6 +71,7 @@
                                 <xsl:value-of
                                     select="djb:title_case(tokenize(document-uri($current_file), '/')[position() eq last() - 1])"
                                 />
+                                <p><a href="{$pdf_url}">page scan</a></p>
                             </h2>
                             <xsl:copy-of select="$current_file//ol"/>
                         </div>
