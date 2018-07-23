@@ -19,6 +19,8 @@
                 </title>
                 <link rel="stylesheet" type="text/css" href="../site.css"/>
                 <link rel="stylesheet" type="text/css" href="meta.css"/>
+                <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville"
+                    rel="stylesheet"/>
             </head>
             <body>
                 <div class="nav">
