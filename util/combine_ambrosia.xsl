@@ -66,7 +66,7 @@
                     	<xsl:variable name="pdf_table" select="$pdfs//table[@data-plant eq $plant]"/>    
                     	<xsl:variable name="pdf_language_column" as="xs:integer"
                     		select="count($pdf_table/tr[1]/th[. eq $language]/preceding-sibling::th) + 1"/>
-                    	<xsl:variable name="pdf_url" as="xs:string" select="$pdfs//table[@data-plant eq 'ambrosia']//td[position() = $pdf_language_column]"/>
+                    	<xsl:variable name="pdf_url" as="xs:string" select="$pdfs//table[@data-plant eq $plant]//td[position() = $pdf_language_column]"/>
                     	
                     	
                         <div class="cell item-{$letters[current()]}">
