@@ -34,33 +34,33 @@
 <ellipse fill="none" stroke="black" cx="88" cy="-306" rx="27" ry="18"/>
 <text text-anchor="middle" x="88" y="-302.3" font-family="Times,serif" font-size="14.00">α</text>
 </g>
-<!-- Greek_Long -->
-<g id="node6" class="node"><title>Greek_Long</title>
+<!-- Greek Long -->
+<g id="node6" class="node"><title>Greek Long</title>
 <ellipse fill="none" stroke="black" cx="88" cy="-234" rx="56.3173" ry="18"/>
-<text text-anchor="middle" x="88" y="-230.3" font-family="Times,serif" font-size="14.00">Greek_Long</text>
+<text text-anchor="middle" x="88" y="-230.3" font-family="Times,serif" font-size="14.00">Greek Long</text>
 </g>
-<!-- α&#45;&gt;Greek_Long -->
-<g id="edge1" class="edge"><title>α&#45;&gt;Greek_Long</title>
+<!-- α&#45;&gt;Greek Long -->
+<g id="edge1" class="edge"><title>α&#45;&gt;Greek Long</title>
 <path fill="none" stroke="black" d="M88,-287.697C88,-279.983 88,-270.712 88,-262.112"/>
 <polygon fill="black" stroke="black" points="91.5001,-262.104 88,-252.104 84.5001,-262.104 91.5001,-262.104"/>
 </g>
-<!-- Greek_Long&#45;&gt;German -->
-<g id="edge3" class="edge"><title>Greek_Long&#45;&gt;German</title>
+<!-- Greek Long&#45;&gt;German -->
+<g id="edge3" class="edge"><title>Greek Long&#45;&gt;German</title>
 <path fill="none" stroke="black" d="M81.9605,-215.966C78.4468,-205.648 74.1116,-192.171 71,-180 59.091,-133.419 49.4019,-78.2187 44.1876,-46.0503"/>
 <polygon fill="black" stroke="black" points="47.627,-45.3928 42.5941,-36.0698 40.7146,-46.4966 47.627,-45.3928"/>
 </g>
-<!-- Greek_Short -->
-<g id="node7" class="node"><title>Greek_Short</title>
+<!-- Greek Short -->
+<g id="node7" class="node"><title>Greek Short</title>
 <ellipse fill="none" stroke="black" cx="137" cy="-162" rx="57.2927" ry="18"/>
-<text text-anchor="middle" x="137" y="-158.3" font-family="Times,serif" font-size="14.00">Greek_Short</text>
+<text text-anchor="middle" x="137" y="-158.3" font-family="Times,serif" font-size="14.00">Greek Short</text>
 </g>
-<!-- Greek_Long&#45;&gt;Greek_Short -->
-<g id="edge2" class="edge"><title>Greek_Long&#45;&gt;Greek_Short</title>
+<!-- Greek Long&#45;&gt;Greek Short -->
+<g id="edge2" class="edge"><title>Greek Long&#45;&gt;Greek Short</title>
 <path fill="none" stroke="black" d="M99.8615,-216.055C105.7,-207.715 112.856,-197.491 119.324,-188.252"/>
 <polygon fill="black" stroke="black" points="122.38,-189.988 125.248,-179.789 116.646,-185.974 122.38,-189.988"/>
 </g>
-<!-- Greek_Short&#45;&gt;English -->
-<g id="edge5" class="edge"><title>Greek_Short&#45;&gt;English</title>
+<!-- Greek Short&#45;&gt;English -->
+<g id="edge5" class="edge"><title>Greek Short&#45;&gt;English</title>
 <path fill="none" stroke="black" d="M137,-143.871C137,-119.67 137,-75.2108 137,-46.3932"/>
 <polygon fill="black" stroke="black" points="140.5,-46.1892 137,-36.1893 133.5,-46.1893 140.5,-46.1892"/>
 </g>
@@ -69,8 +69,8 @@
 <ellipse fill="none" stroke="black" cx="227" cy="-90" rx="29.3479" ry="18"/>
 <text text-anchor="middle" x="227" y="-86.3" font-family="Times,serif" font-size="14.00">Latin</text>
 </g>
-<!-- Greek_Short&#45;&gt;Latin -->
-<g id="edge4" class="edge"><title>Greek_Short&#45;&gt;Latin</title>
+<!-- Greek Short&#45;&gt;Latin -->
+<g id="edge4" class="edge"><title>Greek Short&#45;&gt;Latin</title>
 <path fill="none" stroke="black" d="M157.422,-145.116C170.393,-135.028 187.293,-121.883 201.189,-111.075"/>
 <polygon fill="black" stroke="black" points="203.647,-113.598 209.392,-104.695 199.349,-108.072 203.647,-113.598"/>
 </g>
