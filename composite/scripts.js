@@ -27,7 +27,7 @@ function highlightWords() {
 }
 
 // display corpus and document meta-data when the language is moused-over
-// a lot of code for this project was taken from David Birnbaum's JS tutorial
+// a lot of code for this function was taken from David Birnbaum's JS tutorial
 // this tutorial can be found here: http://dh.obdurodon.org/javascript/popup/
 function showMD(event) {
     //http://answers.oreilly.com/topic/1823-adding-a-page-overlay-in-javascript/
