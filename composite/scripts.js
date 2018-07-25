@@ -45,12 +45,19 @@ function showMD(event) {
     // text processing to make it pretty
     var table = "<table>";
     
+    var h = "", d = "";
     var attrs = definition.split(" ");
     for (var i = 0; i < attrs.length; i++) {
-        var h = attrs[i].split("=")[0];
-        h = h.replace("-", " ");
-        var d = attrs[i].split("=")[1];
-        table += "<tr><th>" + h + "</th><td>" + d + "</td></tr>";     
+        // if it has =, we have come to the next attribute and need to process the last one
+        if (attrs[i].includes("=")) {
+            table += "<tr><th>" + h + "</th><td>" + d + "</td></tr>";
+            h = attrs[i].split("=")[0];
+            h = h.replace("-", " ");
+            d = attrs[i].split("=")[1];
+        }
+        else {
+            d += " " + attrs[i];
+        }  
     }
     
     table += "</table>";
